@@ -1,13 +1,14 @@
 const mongoose = require('mongoose');
 
-// Define a schema that matches the structure in the `city` collection
+// Define a schema that matches the new structure in the `city` collection
 const CitySchema = new mongoose.Schema({
-    name: String,
-    province_name: String,
-    country_name: String,
+    city: String,
+    state: String,
+    country: String,
     latitude: Number,
-    longitude: Number
-}, { collection: 'city' });  // Specify the collection name as 'city'
+    longitude: Number,
+    loc_clusters: Number
+}, { collection: 'city' });   // Specify the collection name as 'city'
 
 // Create a model for city
 const City = mongoose.model('City', CitySchema);

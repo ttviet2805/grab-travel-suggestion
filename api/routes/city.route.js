@@ -17,7 +17,7 @@ const router = express.Router();
  *               type: array
  *               items:
  *                 type: string
- *               example: ["New York", "Los Angeles", "Chicago", "Houston", "Phoenix"]
+ *               example: ["Hà Nội", "TP. Hồ Chí Minh", "Đà Nẵng", "Hải Phòng", "Cần Thơ"]
  *       500:
  *         description: Error fetching cities.
  *         content:
@@ -31,8 +31,8 @@ const router = express.Router();
  */
 router.get('/', async (req, res) => {
     try {
-        const cities = await City.find({}).select('name');  // Only retrieve the 'name' field
-        res.json(cities.map(city => city.name));  // Return an array of city names
+        const cities = await City.find({}).select('city');  // Only retrieve the 'city' field
+        res.json(cities.map(city => city.city));  // Return an array of city names
     } catch (error) {
         res.status(500).json({ error: "Error fetching cities: " + error });
     }
