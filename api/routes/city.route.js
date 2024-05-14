@@ -4,7 +4,7 @@ const router = express.Router();
 
 /**
  * @swagger
- * /cities:
+ * /api/cities:
  *   get:
  *     summary: Retrieve a list of city names
  *     description: Returns a list of city names from the `city` collection.
@@ -29,7 +29,7 @@ const router = express.Router();
  *                   type: string
  *                   example: "Error fetching cities: <error_message>"
  */
-router.get('/', async (req, res) => {
+router.get('/cities', async (req, res) => {
     try {
         const cities = await City.find({}).select('city');  // Only retrieve the 'city' field
         res.json(cities.map(city => city.city));  // Return an array of city names

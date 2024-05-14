@@ -49,7 +49,7 @@ mongoose.connect(
 });
 
 // Use the cities routes
-app.use('/cities', citiesRouter);
+app.use('/api', citiesRouter);
 
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
