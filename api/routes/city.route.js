@@ -6,20 +6,44 @@ const router = express.Router();
  * @swagger
  * /api/cities:
  *   get:
- *     summary: Retrieve a list of city names
- *     description: Returns a list of city names from the `city` collection.
+ *     summary: Retrieve detailed information of cities
+ *     description: Fetches detailed information of cities including their names, states, countries, and geographical coordinates.
  *     responses:
  *       200:
- *         description: A list of city names.
+ *         description: An array of city objects.
  *         content:
  *           application/json:
  *             schema:
  *               type: array
  *               items:
- *                 type: string
- *               example: ["Hà Nội", "TP. Hồ Chí Minh", "Đà Nẵng", "Hải Phòng", "Cần Thơ"]
+ *                 type: object
+ *                 properties:
+ *                   city:
+ *                     type: string
+ *                     description: The name of the city.
+ *                   state:
+ *                     type: string
+ *                     description: The state or region where the city is located.
+ *                   country:
+ *                     type: string
+ *                     description: The country in which the city is located.
+ *                   latitude:
+ *                     type: number
+ *                     format: float
+ *                     description: The latitude coordinate of the city.
+ *                   longitude:
+ *                     type: number
+ *                     format: float
+ *                     description: The longitude coordinate of the city.
+ *             examples:
+ *               application/json:
+ *                 - city: "Huế"
+ *                   state: "Thừa Thiên Huế"
+ *                   country: "Vietnam"
+ *                   latitude: 16.4637
+ *                   longitude: 107.5909
  *       500:
- *         description: Error fetching cities.
+ *         description: Error fetching city information.
  *         content:
  *           application/json:
  *             schema:
@@ -27,14 +51,20 @@ const router = express.Router();
  *               properties:
  *                 error:
  *                   type: string
- *                   example: "Error fetching cities: <error_message>"
+ *                   example: "Error fetching city information: <error_message>"
  */
 router.get('/cities', async (req, res) => {
     try {
-        const cities = await City.find({}).select('city');  // Only retrieve the 'city' field
-        res.json(cities.map(city => city.city));  // Return an array of city names
+        const cities = await City.find({}).select('city state country latitude longitude');
+        res.json(cities.map(city => ({
+            city: city.city,
+            state: city.state,
+            country: city.country,
+            latitude: city.latitude,
+            longitude: city.longitude
+        })));
     } catch (error) {
-        res.status(500).json({ error: "Error fetching cities: " + error });
+        res.status(500).json({ error: "Error fetching cities: " + error.message });
     }
 });
 
