@@ -4,6 +4,7 @@ const cors = require('cors');
 const swaggerJsdoc = require('swagger-jsdoc');
 const swaggerUi = require('swagger-ui-express');
 const citiesRouter = require('./routes/city.route');
+const attractionRecommendationRouter = require('./routes/attraction_recommendation.route');
 
 const app = express();
 app.use(cors());
@@ -48,8 +49,10 @@ mongoose.connect(
     process.exit();
 });
 
-// Use the cities routes
+// Use for routes
 app.use('/api', citiesRouter);
+app.use('/api', attractionRecommendationRouter);
+
 
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
