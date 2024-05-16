@@ -2,16 +2,24 @@ import json
 
 # List of states in Vietnam
 states = [
-    "An Giang", "Bà Rịa – Vũng Tàu", "Bắc Giang", "Bắc Kạn", "Bạc Liêu", "Bắc Ninh",
-    "Bến Tre", "Bình Định", "Bình Dương", "Bình Phước", "Bình Thuận", "Cà Mau",
-    "Cần Thơ", "Cao Bằng", "Đà Nẵng", "Đắk Lắk", "Đắk Nông", "Điện Biên", "Đồng Nai",
-    "Đồng Tháp", "Gia Lai", "Hà Giang", "Hà Nam", "Hà Nội", "Hà Tĩnh", "Hải Dương",
-    "Hải Phòng", "Hậu Giang", "Hòa Bình", "Hưng Yên", "Khánh Hòa", "Kiên Giang",
-    "Kon Tum", "Lai Châu", "Lâm Đồng", "Lạng Sơn", "Lào Cai", "Long An", "Nam Định",
-    "Nghệ An", "Ninh Bình", "Ninh Thuận", "Phú Thọ", "Phú Yên", "Quảng Bình",
-    "Quảng Nam", "Quảng Ngãi", "Quảng Ninh", "Quảng Trị", "Sóc Trăng", "Sơn La",
-    "Tây Ninh", "Thái Bình", "Thái Nguyên", "Thanh Hóa", "Thừa Thiên Huế", "Tiền Giang",
-    "TP Hồ Chí Minh", "Trà Vinh", "Tuyên Quang", "Vĩnh Long", "Vĩnh Phúc", "Yên Bái"
+    "An Giang Province", "Ba Ria–Vung Tau Province", "Bac Giang Province", 
+    "Bac Kan Province", "Bac Lieu Province", "Bac Ninh Province", "Ben Tre Province", 
+    "Binh Dinh Province", "Binh Duong Province", "Binh Phuoc Province", 
+    "Binh Thuan Province", "Ca Mau Province", "Can Tho", "Cao Bang Province", 
+    "Da Nang", "Dak Lak Province", "Dak Nong Province", "Dien Bien Province", 
+    "Dong Nai Province", "Dong Thap Province", "Gia Lai Province", "Ha Giang Province", 
+    "Ha Nam Province", "Ha Noi", "Ha Tinh Province", "Hai Duong Province", 
+    "Hai Phong", "Hau Giang Province", "Ho Chi Minh City", "Hoa Binh Province", 
+    "Hung Yen Province", "Khanh Hoa Province", "Kien Giang Province", 
+    "Kon Tum Province", "Lai Chau Province", "Lam Dong Province", "Lang Son Province", 
+    "Lao Cai Province", "Long An Province", "Nam Dinh Province", "Nghe An Province", 
+    "Ninh Binh Province", "Ninh Thuan Province", "Phu Tho Province", "Phu Yen Province", 
+    "Quang Binh Province", "Quang Nam Province", "Quang Ngai Province", 
+    "Quang Ninh Province", "Quang Tri Province", "Soc Trang Province", "Son La Province", 
+    "Tay Ninh Province", "Thai Binh Province", "Thai Nguyen Province", 
+    "Thanh Hoa Province", "Thua Thien Hue Province", "Tien Giang Province", 
+    "Tra Vinh Province", "Tuyen Quang Province", "Vinh Long Province", 
+    "Vinh Phuc Province", "Yen Bai Province"
 ]
 
 # Format each state as a dictionary

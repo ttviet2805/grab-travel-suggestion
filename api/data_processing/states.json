@@ -1,254 +1,254 @@
 [
     {
-        "state": "An Giang",
+        "state": "An Giang Province",
         "country": "Vietnam"
     },
     {
-        "state": "Bà Rịa – Vũng Tàu",
+        "state": "Ba Ria–Vung Tau Province",
         "country": "Vietnam"
     },
     {
-        "state": "Bắc Giang",
+        "state": "Bac Giang Province",
         "country": "Vietnam"
     },
     {
-        "state": "Bắc Kạn",
+        "state": "Bac Kan Province",
         "country": "Vietnam"
     },
     {
-        "state": "Bạc Liêu",
+        "state": "Bac Lieu Province",
         "country": "Vietnam"
     },
     {
-        "state": "Bắc Ninh",
+        "state": "Bac Ninh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Bến Tre",
+        "state": "Ben Tre Province",
         "country": "Vietnam"
     },
     {
-        "state": "Bình Định",
+        "state": "Binh Dinh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Bình Dương",
+        "state": "Binh Duong Province",
         "country": "Vietnam"
     },
     {
-        "state": "Bình Phước",
+        "state": "Binh Phuoc Province",
         "country": "Vietnam"
     },
     {
-        "state": "Bình Thuận",
+        "state": "Binh Thuan Province",
         "country": "Vietnam"
     },
     {
-        "state": "Cà Mau",
+        "state": "Ca Mau Province",
         "country": "Vietnam"
     },
     {
-        "state": "Cần Thơ",
+        "state": "Can Tho",
         "country": "Vietnam"
     },
     {
-        "state": "Cao Bằng",
+        "state": "Cao Bang Province",
         "country": "Vietnam"
     },
     {
-        "state": "Đà Nẵng",
+        "state": "Da Nang",
         "country": "Vietnam"
     },
     {
-        "state": "Đắk Lắk",
+        "state": "Dak Lak Province",
         "country": "Vietnam"
     },
     {
-        "state": "Đắk Nông",
+        "state": "Dak Nong Province",
         "country": "Vietnam"
     },
     {
-        "state": "Điện Biên",
+        "state": "Dien Bien Province",
         "country": "Vietnam"
     },
     {
-        "state": "Đồng Nai",
+        "state": "Dong Nai Province",
         "country": "Vietnam"
     },
     {
-        "state": "Đồng Tháp",
+        "state": "Dong Thap Province",
         "country": "Vietnam"
     },
     {
-        "state": "Gia Lai",
+        "state": "Gia Lai Province",
         "country": "Vietnam"
     },
     {
-        "state": "Hà Giang",
+        "state": "Ha Giang Province",
         "country": "Vietnam"
     },
     {
-        "state": "Hà Nam",
+        "state": "Ha Nam Province",
         "country": "Vietnam"
     },
     {
-        "state": "Hà Nội",
+        "state": "Ha Noi",
         "country": "Vietnam"
     },
     {
-        "state": "Hà Tĩnh",
+        "state": "Ha Tinh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Hải Dương",
+        "state": "Hai Duong Province",
         "country": "Vietnam"
     },
     {
-        "state": "Hải Phòng",
+        "state": "Hai Phong",
         "country": "Vietnam"
     },
     {
-        "state": "Hậu Giang",
+        "state": "Hau Giang Province",
         "country": "Vietnam"
     },
     {
-        "state": "Hòa Bình",
+        "state": "Ho Chi Minh City",
         "country": "Vietnam"
     },
     {
-        "state": "Hưng Yên",
+        "state": "Hoa Binh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Khánh Hòa",
+        "state": "Hung Yen Province",
         "country": "Vietnam"
     },
     {
-        "state": "Kiên Giang",
+        "state": "Khanh Hoa Province",
         "country": "Vietnam"
     },
     {
-        "state": "Kon Tum",
+        "state": "Kien Giang Province",
         "country": "Vietnam"
     },
     {
-        "state": "Lai Châu",
+        "state": "Kon Tum Province",
         "country": "Vietnam"
     },
     {
-        "state": "Lâm Đồng",
+        "state": "Lai Chau Province",
         "country": "Vietnam"
     },
     {
-        "state": "Lạng Sơn",
+        "state": "Lam Dong Province",
         "country": "Vietnam"
     },
     {
-        "state": "Lào Cai",
+        "state": "Lang Son Province",
         "country": "Vietnam"
     },
     {
-        "state": "Long An",
+        "state": "Lao Cai Province",
         "country": "Vietnam"
     },
     {
-        "state": "Nam Định",
+        "state": "Long An Province",
         "country": "Vietnam"
     },
     {
-        "state": "Nghệ An",
+        "state": "Nam Dinh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Ninh Bình",
+        "state": "Nghe An Province",
         "country": "Vietnam"
     },
     {
-        "state": "Ninh Thuận",
+        "state": "Ninh Binh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Phú Thọ",
+        "state": "Ninh Thuan Province",
         "country": "Vietnam"
     },
     {
-        "state": "Phú Yên",
+        "state": "Phu Tho Province",
         "country": "Vietnam"
     },
     {
-        "state": "Quảng Bình",
+        "state": "Phu Yen Province",
         "country": "Vietnam"
     },
     {
-        "state": "Quảng Nam",
+        "state": "Quang Binh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Quảng Ngãi",
+        "state": "Quang Nam Province",
         "country": "Vietnam"
     },
     {
-        "state": "Quảng Ninh",
+        "state": "Quang Ngai Province",
         "country": "Vietnam"
     },
     {
-        "state": "Quảng Trị",
+        "state": "Quang Ninh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Sóc Trăng",
+        "state": "Quang Tri Province",
         "country": "Vietnam"
     },
     {
-        "state": "Sơn La",
+        "state": "Soc Trang Province",
         "country": "Vietnam"
     },
     {
-        "state": "Tây Ninh",
+        "state": "Son La Province",
         "country": "Vietnam"
     },
     {
-        "state": "Thái Bình",
+        "state": "Tay Ninh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Thái Nguyên",
+        "state": "Thai Binh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Thanh Hóa",
+        "state": "Thai Nguyen Province",
         "country": "Vietnam"
     },
     {
-        "state": "Thừa Thiên Huế",
+        "state": "Thanh Hoa Province",
         "country": "Vietnam"
     },
     {
-        "state": "Tiền Giang",
+        "state": "Thua Thien Hue Province",
         "country": "Vietnam"
     },
     {
-        "state": "TP Hồ Chí Minh",
+        "state": "Tien Giang Province",
         "country": "Vietnam"
     },
     {
-        "state": "Trà Vinh",
+        "state": "Tra Vinh Province",
         "country": "Vietnam"
     },
     {
-        "state": "Tuyên Quang",
+        "state": "Tuyen Quang Province",
         "country": "Vietnam"
     },
     {
-        "state": "Vĩnh Long",
+        "state": "Vinh Long Province",
         "country": "Vietnam"
     },
     {
-        "state": "Vĩnh Phúc",
+        "state": "Vinh Phuc Province",
         "country": "Vietnam"
     },
     {
-        "state": "Yên Bái",
+        "state": "Yen Bai Province",
         "country": "Vietnam"
     }
 ]
