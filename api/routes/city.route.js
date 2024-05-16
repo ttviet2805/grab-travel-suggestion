@@ -4,13 +4,20 @@ const router = express.Router();
 
 /**
  * @swagger
- * /api/cities:
+ * /api/nearby-city/{cityName}:
  *   get:
- *     summary: Retrieve detailed information of cities
- *     description: Fetches detailed information of cities including their names, states, countries, and geographical coordinates.
+ *     summary: Retrieve nearby cities
+ *     description: Returns a list of cities that are in the same location cluster as the provided city name but are not the provided city itself.
+ *     parameters:
+ *       - in: path
+ *         name: cityName
+ *         required: true
+ *         description: The name of the city to find nearby cities.
+ *         schema:
+ *           type: string
  *     responses:
  *       200:
- *         description: An array of city objects.
+ *         description: A list of nearby cities
  *         content:
  *           application/json:
  *             schema:
@@ -20,112 +27,50 @@ const router = express.Router();
  *                 properties:
  *                   city:
  *                     type: string
- *                     description: The name of the city.
+ *                     example: "Đà Nẵng"
  *                   state:
  *                     type: string
- *                     description: The state or region where the city is located.
+ *                     example: "Quảng Nam"
  *                   country:
  *                     type: string
- *                     description: The country in which the city is located.
+ *                     example: "Vietnam"
  *                   latitude:
  *                     type: number
- *                     format: float
- *                     description: The latitude coordinate of the city.
+ *                     format: double
+ *                     example: 16.054407
  *                   longitude:
  *                     type: number
- *                     format: float
- *                     description: The longitude coordinate of the city.
- *             examples:
- *               application/json:
- *                 - city: "Huế"
- *                   state: "Thừa Thiên Huế"
- *                   country: "Vietnam"
- *                   latitude: 16.4637
- *                   longitude: 107.5909
- *       500:
- *         description: Error fetching city information.
- *         content:
- *           application/json:
- *             schema:
- *               type: object
- *               properties:
- *                 error:
- *                   type: string
- *                   example: "Error fetching city information: <error_message>"
- */
-router.get('/cities', async (req, res) => {
-    try {
-        const cities = await City.find({}).select('city state country latitude longitude');
-        res.json(cities.map(city => ({
-            city: city.city,
-            state: city.state,
-            country: city.country,
-            latitude: city.latitude,
-            longitude: city.longitude
-        })));
-    } catch (error) {
-        res.status(500).json({ error: "Error fetching cities: " + error.message });
-    }
-});
-
-/**
- * @swagger
- * /api/nearby-city/{city}:
- *   get:
- *     summary: Retrieve nearby cities
- *     description: Returns a list of cities that have the same loc_clusters value as the input city.
- *     parameters:
- *       - in: path
- *         name: city
- *         required: true
- *         description: Name of the city to find nearby cities for.
- *         schema:
- *           type: string
- *     responses:
- *       200:
- *         description: A list of nearby cities.
- *         content:
- *           application/json:
- *             schema:
- *               type: array
- *               items:
- *                 type: string
- *               example: ["Nearby City 1", "Nearby City 2", "Nearby City 3"]
+ *                     format: double
+ *                     example: 108.202167
  *       404:
- *         description: City not found.
- *         content:
- *           application/json:
- *             schema:
- *               type: object
- *               properties:
- *                 error:
- *                   type: string
- *                   example: "City not found: <city_name>"
+ *         description: The city was not found
  *       500:
- *         description: Error fetching nearby cities.
- *         content:
- *           application/json:
- *             schema:
- *               type: object
- *               properties:
- *                 error:
- *                   type: string
- *                   example: "Error fetching nearby cities: <error_message>"
+ *         description: Server error
  */
 router.get('/nearby-city/:cityName', async (req, res) => {
     try {
         const cityName = req.params.cityName;
-        const city = await City.findOne({ city: cityName });
+        const city = await City.findOne({ city: cityName }).select('loc_clusters');
         if (!city) {
             return res.status(404).json({ error: "City not found." });
         }
+
         const nearbyCities = await City.find({
             loc_clusters: city.loc_clusters,
             city: { $ne: cityName }
-        }).select('city');
-        res.json(nearbyCities.map(c => c.city));
+        }).select('city state country latitude longitude'); // Only fetch required fields
+
+        const result = nearbyCities.map(c => ({
+            city: c.city,
+            state: c.state,
+            country: c.country,
+            latitude: c.latitude,
+            longitude: c.longitude
+        }));
+
+        res.json(result);
     } catch (error) {
-        res.status(500).json({ error: "Error fetching nearby cities: " + error });
+        res.status(500).json({ error: "Error fetching nearby cities: " + error.message });
     }
 });
 
