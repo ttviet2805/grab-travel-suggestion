@@ -188,6 +188,16 @@ async def run(query: str):
             img_src = img_tag.get('src')
         data[index]["image"] = img_src
 
+    for i in range(len(data)):
+        if data[i].get('name') == None:
+            data[i]['name'] = ""
+        if data[i].get('rating') == None:
+            data[i]['rating'] = 0
+        if data[i].get('tag') == None:
+            data[i]['tag'] = ""
+        if data[i].get('image') == None:
+            data[i]['image'] = ""
+
     data_json = json.dumps(data, indent=4)
     print(data_json)
     sys.stdout.flush()
