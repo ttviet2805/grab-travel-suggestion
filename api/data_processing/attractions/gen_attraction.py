@@ -143,14 +143,8 @@ async def run(query: str):
     # Định nghĩa thông tin xác thực (Basic Auth)
     credentials = ('minhminh', 'Gogogogo1234')
 
-    # Gửi POST request
     response = requests.post(url, json=payload, auth=credentials)
 
-    # In ra status code của response để kiểm tra
-    # print("Status code:", response.status_code)
-
-    # In ra nội dung của response
-    # print("Response content:", response.text)
     content = response.json()["results"][0]["content"]
     # print("content:", content)
     soup = BeautifulSoup(content, "html.parser")
@@ -158,8 +152,8 @@ async def run(query: str):
 
     cnt_image = 0
     data = []
-    for index, div in enumerate(soup.find_all("div", {"class": "alPVI eNNhq PgLKC tnGGX"})):
-        name_div = div.find("div", {"class": "XfVdV"})
+    for div in soup.find_all("div", {"class": "ALtqV z", "data-automation": "cardWrapper"}):
+        name_div = div.find("div", {"class": "XfVdV o AIbhI"})
         name = ""
         if name_div:
             name = name_div.get_text(strip=True)
@@ -181,40 +175,26 @@ async def run(query: str):
         if attraction_anchor:
             attraction_link = attraction_anchor.get('href')
 
-        data.append({
-            "name": name,
-            "rating": rating,
-            "url": attraction_link,
-        })
-
-    for index, div in enumerate(soup.find_all("div", {"class": "alPVI eNNhq PgLKC tnGGX yzLvM"})):
-        if index >= len(data):
-            break
         tag = div.find("div", {"class": "biGQs _P pZUbB hmDzD"})
         attraction_tag = ""
         if tag:
             attraction_tag = tag.get_text(strip=True)
             attraction_tag = attraction_tag.replace("\u2022", "and")
-        data[index]['tag'] = attraction_tag
 
-    for index, picture in enumerate(soup.find_all("li", class_="CyFNY _A MBoCH")):
-        img_tag = picture.find('img')
+        img_tag = div.find('img')
         img_src = ""
         if img_tag:
             img_src = img_tag.get('src')
             cnt_image += 1
-        data[index]["image"] = img_src
 
-    for i in range(len(data)):
-        if data[i].get('name') == None:
-            data[i]['name'] = ""
-        if data[i].get('rating') == None:
-            data[i]['rating'] = 0
-        if data[i].get('tag') == None:
-            data[i]['tag'] = ""
-        if data[i].get('image') == None:
-            data[i]['image'] = ""
-        data[i]['state'] = query
+        data.append({
+            "name": name,
+            "rating": rating,
+            'tag': attraction_tag,
+            "url": attraction_link,
+            'image': img_src,
+            'state': query
+        })
 
     print(data)
     
@@ -222,7 +202,7 @@ async def run(query: str):
         print(query + ' -----------------------------------------------------------------------')
         listError.append(query)
         return
-    if cnt_image == 0:
+    if cnt_image <= 10:
         for i in data:
             if i['name'] == "" or i['image'] == "":
                 print(query + ' -----------------------------------------------------------------------')
@@ -230,8 +210,6 @@ async def run(query: str):
                 return
     for attraction in data:
         attractions.append(attraction)
-    # data_json = json.dumps(data, indent=4)
-    # print(data_json)
 
 if __name__ == "__main__":
     states = [
@@ -258,17 +236,17 @@ if __name__ == "__main__":
     # Prepare to gather all tasks and run them concurrently
     async def main():
 
-        # tasks = [run(states[i]) for i in range(60, min(75, len(states)))]
-        # await asyncio.gather(*tasks)
+        tasks = [run(states[i]) for i in range(0, min(1, len(states)))]
+        await asyncio.gather(*tasks)
         # def read_list_from_txt_file(filename):
         #     with open(filename, 'r', encoding='utf-8') as file:
         #         lines = file.readlines()
         #         lines = [line.strip() for line in lines]
         #     return lines
         # # error_states = read_list_from_txt_file('error_states.txt')
-        list_errors = ['Tuyen Quang Province', 'Bac Giang Province', 'Hung Yen Province']
-        tasks = [run(list_errors[i]) for i in range(0, len(list_errors))]
-        await asyncio.gather(*tasks)
+        # list_errors = ['Tuyen Quang Province', 'Bac Giang Province', 'Hung Yen Province']
+        # tasks = [run(list_errors[i]) for i in range(0, len(list_errors))]
+        # await asyncio.gather(*tasks)
     
     asyncio.run(main())
 

@@ -153,12 +153,14 @@ async def run(query: str):
     soup = BeautifulSoup(content, "html.parser")
     # print("soup:", soup)
 
-    MAX_ATTRACTION = 10
+    MAX_ATTRACTION = 15
     data = []
-    for index, div in enumerate(soup.find_all("div", {"class": "alPVI eNNhq PgLKC tnGGX"})):
-        if index >= MAX_ATTRACTION:
+    cnt = 0
+    for div in soup.find_all("div", {"class": "ALtqV z", "data-automation": "cardWrapper"}):
+        cnt += 1
+        if cnt >= MAX_ATTRACTION:
             break
-        name_div = div.find("div", {"class": "XfVdV"})
+        name_div = div.find("div", {"class": "XfVdV o AIbhI"})
         name = ""
         if name_div:
             name = name_div.get_text(strip=True)
@@ -175,40 +177,30 @@ async def run(query: str):
             match = re.search(r'\d+(\.\d+)?', tmp_rating)
             rating = match.group()
 
-        data.append({
-            "name": name,
-            "rating": rating,
-        })
+        attraction_anchor = div.find("a")
+        attraction_link = ""
+        if attraction_anchor:
+            attraction_link = attraction_anchor.get('href')
 
-    for index, div in enumerate(soup.find_all("div", {"class": "alPVI eNNhq PgLKC tnGGX yzLvM"})):
-        if index >= MAX_ATTRACTION:
-            break
         tag = div.find("div", {"class": "biGQs _P pZUbB hmDzD"})
         attraction_tag = ""
         if tag:
             attraction_tag = tag.get_text(strip=True)
             attraction_tag = attraction_tag.replace("\u2022", "and")
-        data[index]['tag'] = attraction_tag
 
-    for index, picture in enumerate(soup.find_all("li", class_="CyFNY _A MBoCH")):
-        if index >= MAX_ATTRACTION:
-            break
-        img_tag = picture.find('img')
+        img_tag = div.find('img')
         img_src = ""
         if img_tag:
             img_src = img_tag.get('src')
-        data[index]["image"] = img_src
 
-    for i in range(len(data)):
-        if data[i].get('name') == None:
-            data[i]['name'] = ""
-        if data[i].get('rating') == None:
-            data[i]['rating'] = 0
-        if data[i].get('tag') == None:
-            data[i]['tag'] = ""
-        if data[i].get('image') == None:
-            data[i]['image'] = ""
-        data[i]['state'] = query
+        data.append({
+            "name": name,
+            "rating": rating,
+            'tag': attraction_tag,
+            "url": attraction_link,
+            'image': img_src,
+            'state': query
+        })
 
     data_json = json.dumps(data, indent=4)
     print(data_json)
