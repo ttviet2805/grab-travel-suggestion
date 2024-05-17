@@ -119,6 +119,8 @@ client = httpx.AsyncClient(
 )
 
 attractions = []
+attraction_names = []
+listError = []
 
 async def run(query: str):
     result = await scrape_location_data(query, client)
@@ -128,6 +130,7 @@ async def run(query: str):
     index = url.find('Activities-')
     url = url[:index + len('Activities-')] + 'oa0-' + url[index + len('Activities-'):]
     url = 'https://www.tripadvisor.com' + url
+    print("URL: " + url)
     # Định nghĩa các thông tin cần gửi trong body của POST request
     payload = {
         "source": "universal",
@@ -155,6 +158,7 @@ async def run(query: str):
     # print("soup:", soup)
 
     MAX_ATTRACTION = 10
+    cnt_image = 0
     data = []
     for index, div in enumerate(soup.find_all("div", {"class": "alPVI eNNhq PgLKC tnGGX"})):
         if index >= MAX_ATTRACTION:
@@ -194,6 +198,7 @@ async def run(query: str):
         img_src = ""
         if img_tag:
             img_src = img_tag.get('src')
+            cnt_image += 1
         data[index]["image"] = img_src
 
     for i in range(len(data)):
@@ -207,12 +212,29 @@ async def run(query: str):
             data[i]['image'] = ""
         data[i]['state'] = query
 
+    print(data)
+    
+    if len(data) == 0:
+        print(query + ' -----------------------------------------------------------------------')
+        listError.append(query)
+        return
+    if cnt_image == 0:
+        for i in data:
+            if i['name'] == "" or i['image'] == "":
+                print(query + ' -----------------------------------------------------------------------')
+                listError.append(query)
+                return
+
+    for attraction in data:
+        attractions.append(attraction)
+        name = attraction['name']
+        import re
+        def remove_leading_number_dot(s):
+            return re.sub(r'^\d+\.', '', s)
+        attraction_name = remove_leading_number_dot(name)
+        attraction_names.append(attraction_name)
     data_json = json.dumps(data, indent=4)
-    print(data_json)
-
-    # df = pd.DataFrame(data)
-    # df.to_csv("search_results.csv", index=False)
-
+    # print(data_json)
 
 if __name__ == "__main__":
     states = [
@@ -236,5 +258,47 @@ if __name__ == "__main__":
         "Vinh Phuc Province", "Yen Bai Province"
     ]
 
-    # for index, state in enumerate(states):
-    #     asyncio.run(run(state))
+    # Prepare to gather all tasks and run them concurrently
+    async def main():
+
+        # tasks = [run(states[i]) for i in range(65, min(70, len(states)))]
+        # await asyncio.gather(*tasks)
+        list_errors = ['Tuyen Quang Province', 'Bac Giang Province']
+        def read_list_from_txt_file(filename):
+            with open(filename, 'r', encoding='utf-8') as file:
+                lines = file.readlines()
+                lines = [line.strip() for line in lines]
+            return lines
+        # error_states = read_list_from_txt_file('error_states.txt')
+        tasks = [run(list_errors[i]) for i in range(0, len(list_errors))]
+        await asyncio.gather(*tasks)
+    
+    asyncio.run(main())
+
+    # Be sure to close the client
+    # asyncio.run(client.aclose())
+
+    def append_to_txt_file(string_list, filename):
+        with open(filename, 'a', encoding='utf-8') as file:
+            for item in string_list:
+                file.write(f"{item}\n")
+    append_to_txt_file(attraction_names, 'attraction_names.txt')
+    append_to_txt_file(listError, 'error_states.txt')
+
+    # JSON
+    def read_json_file(filename):
+        try:
+            with open(filename, 'r', encoding='utf-8') as file:
+                return json.load(file)
+        except FileNotFoundError:
+            return [] 
+        except json.JSONDecodeError:
+            return []
+    def append_to_json_file(new_data, filename):
+        data = read_json_file(filename) 
+        for i in new_data:
+            data.append(i)
+        with open(filename, 'w', encoding='utf-8') as file:
+            json.dump(data, file, ensure_ascii=False, indent=4)
+    append_to_json_file(attractions, 'attractions.json')
+    print("JSON file has been created with all states of Vietnam.")
