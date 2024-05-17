@@ -204,6 +204,7 @@ async def run(query: str):
             data[i]['tag'] = ""
         if data[i].get('image') == None:
             data[i]['image'] = ""
+        data[i]['state'] = query
 
     data_json = json.dumps(data, indent=4)
     print(data_json)

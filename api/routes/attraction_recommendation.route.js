@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const { spawn } = require('child_process');
+const Attraction = require('../models/Attraction');
 
 /**
  * @swagger
@@ -63,35 +64,86 @@ const { spawn } = require('child_process');
  *                   type: string
  *                   example: "Failed to parse Python response"
  */
-// Route to get recommendations for a state
-router.get('/recommendations/:state', (req, res) => {
-    const state = req.params.state;
-    const pythonProcess = spawn('python', ['./attraction_crawl/attraction_crawl.py', state]);
+async function findAttractionsByState(stateName) {
+    try {
+        const attractions = await Attraction.find({ state: stateName }, { _id: 0 });
+        return attractions;
+    } catch (error) {
+        throw error;  // Rethrow the error to be handled by the caller
+    }
+}
+// // API endpoint to get attractions by state
+// router.get('/attractions/:state', async (req, res) => {
+//     const stateName = req.params.state;
+//     try {
+//         const attractions = await findAttractionsByState(stateName);
+//         res.json(attractions);
+//     } catch (error) {
+//         res.status(500).json({ message: "Error fetching data", error: error });
+//     }
+// });
 
-    pythonProcess.stdout.on('data', (data) => {
-        try {
-            const recommendations = JSON.parse(data.toString());
+// Function to handle spawning the Python process and parsing its output
+async function getRecommendations(state) {
+    return new Promise((resolve, reject) => {
+        const pythonProcess = spawn('python', ['./attraction_crawl/attraction_crawl.py', state]);
+
+        let dataBuffer = '';
+        let errorBuffer = '';
+
+        pythonProcess.stdout.on('data', (data) => {
+            dataBuffer += data.toString();
+        });
+
+        pythonProcess.stderr.on('data', (data) => {
+            errorBuffer += data.toString();
+        });
+
+        pythonProcess.on('close', (code) => {
+            if (code !== 0) {
+                return reject(new Error(`Python process exited with code ${code}: ${errorBuffer}`));
+            }
+            try {
+                const recommendations = JSON.parse(dataBuffer);
+                resolve(recommendations);
+            } catch (err) {
+                reject(new Error('Failed to parse Python response'));
+            }
+        });
+    });
+}
+
+// Route to get recommendations for a state
+router.get('/recommendations/:state', async (req, res) => {
+    const state = req.params.state;
+    try {
+        const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Python script timeout')), 15000));  // 30-second timeout
+        const recommendations = await Promise.race([getRecommendations(state), timeoutPromise]);
+
+        // Check if recommendations are valid
+        if (recommendations.length > 0 && recommendations[0]['image'] !== "") {
             res.status(200).json({
                 success: true,
                 state: state,
                 recommendations: recommendations
             });
-        } catch (err) {
-            res.status(500).json({ success: false, message: "Failed to parse Python response" });
+        } else {
+            throw new Error('Invalid recommendations Image data');
         }
-    });
-
-    pythonProcess.stderr.on('data', (data) => {
-        console.error(`Python stderr: ${data}`);
-        res.status(500).json({ success: false, message: data.toString() });
-    });
-
-    pythonProcess.on('close', (code) => {
-        console.log(`Python process closed with code ${code}`);
-        if (code !== 0) {
-            res.status(500).json({ success: false, message: "Python process exited with code " + code });
+    } catch (error) {
+        console.error('Python script failed or timed out, fetching data from MongoDB:', error);
+        try {
+            const recommendations = await findAttractionsByState(state);
+            res.status(200).json({
+                success: true,
+                state: state,
+                backup: true,
+                recommendations: recommendations
+            });
+        } catch (dbError) {
+            res.status(500).json({ success: false, message: dbError.message });
         }
-    });
+    }
 });
 
 module.exports = router;
