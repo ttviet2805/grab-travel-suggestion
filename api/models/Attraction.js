@@ -10,6 +10,9 @@ const AttractionSchema = new mongoose.Schema({
         type: String,
         required: true
     },
+    url: {
+        type: String,
+    },
     tag: {
         type: String,
         required: true

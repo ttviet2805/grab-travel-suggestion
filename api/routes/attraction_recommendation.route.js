@@ -66,7 +66,7 @@ const Attraction = require('../models/Attraction');
  */
 async function findAttractionsByState(stateName) {
     try {
-        const attractions = await Attraction.find({ state: stateName }, { _id: 0 });
+        const attractions = await Attraction.find({ state: stateName }, { _id: 0, url: 0 });
         return attractions;
     } catch (error) {
         throw error;  // Rethrow the error to be handled by the caller
