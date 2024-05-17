@@ -162,6 +162,10 @@ async def run(query: str):
         name = ""
         if name_div:
             name = name_div.get_text(strip=True)
+            import re
+            def remove_leading_number_dot(s):
+                return re.sub(r'^\d+\.', '', s)
+            name = remove_leading_number_dot(name)
             
         rating_tag = div.find('title')
         rating = 0

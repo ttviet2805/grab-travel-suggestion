@@ -119,7 +119,6 @@ client = httpx.AsyncClient(
 )
 
 attractions = []
-attraction_names = []
 listError = []
 
 async def run(query: str):
@@ -157,16 +156,17 @@ async def run(query: str):
     soup = BeautifulSoup(content, "html.parser")
     # print("soup:", soup)
 
-    MAX_ATTRACTION = 10
     cnt_image = 0
     data = []
     for index, div in enumerate(soup.find_all("div", {"class": "alPVI eNNhq PgLKC tnGGX"})):
-        if index >= MAX_ATTRACTION:
-            break
         name_div = div.find("div", {"class": "XfVdV"})
         name = ""
         if name_div:
             name = name_div.get_text(strip=True)
+            import re
+            def remove_leading_number_dot(s):
+                return re.sub(r'^\d+\.', '', s)
+            name = remove_leading_number_dot(name)
             
         rating_tag = div.find('title')
         rating = 0
@@ -176,13 +176,19 @@ async def run(query: str):
             match = re.search(r'\d+(\.\d+)?', tmp_rating)
             rating = match.group()
 
+        attraction_anchor = div.find("a")
+        attraction_link = ""
+        if attraction_anchor:
+            attraction_link = attraction_anchor.get('href')
+
         data.append({
             "name": name,
             "rating": rating,
+            "url": attraction_link,
         })
 
     for index, div in enumerate(soup.find_all("div", {"class": "alPVI eNNhq PgLKC tnGGX yzLvM"})):
-        if index >= MAX_ATTRACTION:
+        if index >= len(data):
             break
         tag = div.find("div", {"class": "biGQs _P pZUbB hmDzD"})
         attraction_tag = ""
@@ -192,8 +198,6 @@ async def run(query: str):
         data[index]['tag'] = attraction_tag
 
     for index, picture in enumerate(soup.find_all("li", class_="CyFNY _A MBoCH")):
-        if index >= MAX_ATTRACTION:
-            break
         img_tag = picture.find('img')
         img_src = ""
         if img_tag:
@@ -224,16 +228,9 @@ async def run(query: str):
                 print(query + ' -----------------------------------------------------------------------')
                 listError.append(query)
                 return
-
     for attraction in data:
         attractions.append(attraction)
-        name = attraction['name']
-        import re
-        def remove_leading_number_dot(s):
-            return re.sub(r'^\d+\.', '', s)
-        attraction_name = remove_leading_number_dot(name)
-        attraction_names.append(attraction_name)
-    data_json = json.dumps(data, indent=4)
+    # data_json = json.dumps(data, indent=4)
     # print(data_json)
 
 if __name__ == "__main__":
@@ -261,17 +258,17 @@ if __name__ == "__main__":
     # Prepare to gather all tasks and run them concurrently
     async def main():
 
-        tasks = [run(states[i]) for i in range(65, min(70, len(states)))]
-        await asyncio.gather(*tasks)
-        # list_errors = ['Tuyen Quang Province', 'Bac Giang Province']
+        # tasks = [run(states[i]) for i in range(60, min(75, len(states)))]
+        # await asyncio.gather(*tasks)
         # def read_list_from_txt_file(filename):
         #     with open(filename, 'r', encoding='utf-8') as file:
         #         lines = file.readlines()
         #         lines = [line.strip() for line in lines]
         #     return lines
         # # error_states = read_list_from_txt_file('error_states.txt')
-        # tasks = [run(list_errors[i]) for i in range(0, len(list_errors))]
-        # await asyncio.gather(*tasks)
+        list_errors = ['Tuyen Quang Province', 'Bac Giang Province', 'Hung Yen Province']
+        tasks = [run(list_errors[i]) for i in range(0, len(list_errors))]
+        await asyncio.gather(*tasks)
     
     asyncio.run(main())
 
@@ -282,7 +279,6 @@ if __name__ == "__main__":
         with open(filename, 'a', encoding='utf-8') as file:
             for item in string_list:
                 file.write(f"{item}\n")
-    append_to_txt_file(attraction_names, 'attraction_names.txt')
     append_to_txt_file(listError, 'error_states.txt')
 
     # JSON
