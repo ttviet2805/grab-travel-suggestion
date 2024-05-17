@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import json
 import requests
-import pandas as pd
 
 def read_json_file(filename):
     try:
@@ -17,11 +16,13 @@ credentials = ('minhminh', 'Gogogogo1234')
 
 attraction_details = []
 
-for i in range(0, len(data)):
+for i in range(1200, min(1400, len(data))):
+    print("Attraction ", i + 1)
     attraction_detail = {}
     attraction_detail['name'] = data[i]['name']
     attraction_detail['image'] = data[i]['image']
     attraction_detail['state'] = data[i]['state']
+    attraction_detail['rating'] = data[i]['rating']
     attraction_detail['tag'] = data[i]['tag']
 
     attraction_link = data[i]['url']
@@ -39,10 +40,10 @@ for i in range(0, len(data)):
     )
     print("Status code: ", response.status_code)
     content = response.json()["results"][0]["content"]
-    # print("content:", content)
     soup = BeautifulSoup(content, "html.parser")
 
     reviews = []
+    review_score = {'0': 0, '1.0': 0, '2.0': 0, '3.0': 0, '4.0': 0, '5.0': 0}
 
     for index, div in enumerate(soup.find_all("div", {"class": "_c", "data-automation": "reviewCard"})):
         cur_review = {}
@@ -61,6 +62,7 @@ for i in range(0, len(data)):
             match = re.search(r'\d+(\.\d+)?', tmp_rating)
             rating = match.group()
         cur_review['rating'] = rating
+        review_score[f'{rating}'] += 1
 
         title_span = div.find("span", {"class": "yCeTE"})
         title = ""
@@ -76,8 +78,24 @@ for i in range(0, len(data)):
         cur_review['content'] = content
         reviews.append(cur_review)
         
+    attraction_detail['num_review'] = len(reviews)
+    attraction_detail['review_score'] = review_score
     attraction_detail['review'] = reviews
     attraction_details.append(attraction_detail)
 
-with open('attraction_detail.json', 'w', encoding='utf-8') as file:
-    json.dump(attraction_details, file, ensure_ascii=False, indent=4)
+def read_json_file(filename):
+    try:
+        with open(filename, 'r', encoding='utf-8') as file:
+            return json.load(file)
+    except FileNotFoundError:
+        return [] 
+    except json.JSONDecodeError:
+        return []
+def append_to_json_file(new_data, filename):
+    data = read_json_file(filename) 
+    for i in new_data:
+        data.append(i)
+    with open(filename, 'w', encoding='utf-8') as file:
+        json.dump(data, file, ensure_ascii=False, indent=4)
+append_to_json_file(attraction_details, 'attraction_detail.json')
+print("JSON file has been created with all states of Vietnam.")

@@ -1,0 +1,1766 @@
+[
+    {
+        "name": "Mekong Home",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g737085-d12384791-Reviews-Mekong_Home-Ben_Tre_Ben_Tre_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/d6/bd/de/swimming-pool.jpg?w=300&h=300&s=1",
+        "state": "Ben Tre Province"
+    },
+    {
+        "name": "Mango Home Riverside",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g737085-d3511670-Reviews-Mango_Home_Riverside-Ben_Tre_Ben_Tre_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/1e/d5/f0/20170803-072923-largejpg.jpg?w=300&h=300&s=1",
+        "state": "Ben Tre Province"
+    },
+    {
+        "name": "Ben Tre Riverside Resort",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g737085-d8524802-Reviews-Ben_Tre_Riverside_Resort-Ben_Tre_Ben_Tre_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/19/29/da/view-from-hotel.jpg?w=300&h=300&s=1",
+        "state": "Ben Tre Province"
+    },
+    {
+        "name": "Nguyet Que Homestay & Tours",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g737085-d15588128-Reviews-Nguyet_Que_Homestay_Tours-Ben_Tre_Ben_Tre_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/48/ba/be/nguy-t-qu-homestay.jpg?w=300&h=300&s=1",
+        "state": "Ben Tre Province"
+    },
+    {
+        "name": "The Cliff Resort & Residences",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g298086-d3478132-Reviews-The_Cliff_Resort_Residences-Phan_Thiet_Binh_Thuan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/eb/3f/b3/the-cliff-resort-residences.jpg?w=300&h=300&s=1",
+        "state": "Binh Thuan Province"
+    },
+    {
+        "name": "Bamboo Village Beach Resort & Spa",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1009804-d302745-Reviews-Bamboo_Village_Beach_Resort_Spa-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/99/86/ce/bamboo-village-beach.jpg?w=300&h=300&s=1",
+        "state": "Binh Thuan Province"
+    },
+    {
+        "name": "Le Viva Mui Ne Resort",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1009804-d1533538-Reviews-Le_Viva_Mui_Ne_Resort-Mui_Ne_Phan_Thiet_Binh_Thuan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/11/f5/a2/le-viva-mui-ne-resort.jpg?w=300&h=300&s=1",
+        "state": "Binh Thuan Province"
+    },
+    {
+        "name": "Centara Mirage Resort Mui Ne",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g298086-d23019691-Reviews-Centara_Mirage_Resort_Mui_Ne-Phan_Thiet_Binh_Thuan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/04/af/f5/pool-8.jpg?w=300&h=300&s=1",
+        "state": "Binh Thuan Province"
+    },
+    {
+        "name": "Victoria Chau Doc Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g311303-d313715-Reviews-Victoria_Chau_Doc_Hotel-Chau_Doc_An_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6c/62/7f/victoria-chau-doc-hotel.jpg?w=300&h=300&s=1",
+        "state": "An Giang Province"
+    },
+    {
+        "name": "Victoria Nui Sam Lodge",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g311303-d5921904-Reviews-Victoria_Nui_Sam_Lodge-Chau_Doc_An_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/63/3a/1a/victoria-nui-sam-lodge.jpg?w=300&h=300&s=1",
+        "state": "An Giang Province"
+    },
+    {
+        "name": "Chau Pho Hotel",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g311303-d663405-Reviews-Chau_Pho_Hotel-Chau_Doc_An_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d7/40/08/chau-pho-hotel.jpg?w=300&h=300&s=1",
+        "state": "An Giang Province"
+    },
+    {
+        "name": "Dong Xanh Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g311303-d9794497-Reviews-Dong_Xanh_Hotel-Chau_Doc_An_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/42/c0/1a/dong-xanh-hotel.jpg?w=300&h=300&s=1",
+        "state": "An Giang Province"
+    },
+    {
+        "name": "Khách Sạn Văn Khang",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g6936569-d26661187-Reviews-Khach_S_n_Van_Khang-Bac_Lieu_Bac_Lieu_Province_Mekong_Delta.html",
+        "image": "",
+        "state": "Bac Lieu Province"
+    },
+    {
+        "name": "New Palace Bac Lieu Hotel",
+        "rating": "3.0",
+        "url": "tripadvisor.com/Hotel_Review-g6936569-d12175379-Reviews-New_Palace_Bac_Lieu_Hotel-Bac_Lieu_Bac_Lieu_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8e/42/86/khach-s-n-new-palace.jpg?w=200&h=200&s=1",
+        "state": "Bac Lieu Province"
+    },
+    {
+        "name": "Ho Nam Resort",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g6936569-d6936429-Reviews-Ho_Nam_Resort-Bac_Lieu_Bac_Lieu_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cb/c2/b2/20161203-162705-largejpg.jpg?w=200&h=200&s=1",
+        "state": "Bac Lieu Province"
+    },
+    {
+        "name": "Tran Vinh Hotel",
+        "rating": "3.0",
+        "url": "tripadvisor.com/Hotel_Review-g6936569-d8133200-Reviews-Tran_Vinh_Hotel-Bac_Lieu_Bac_Lieu_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/60/4c/31/executive-suite.jpg?w=200&h=200&s=1",
+        "state": "Bac Lieu Province"
+    },
+    {
+        "name": "Muong Thanh Luxury Bac Ninh Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g2082662-d12249992-Reviews-Muong_Thanh_Luxury_Bac_Ninh_Hotel-Bac_Ninh_Bac_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c4/15/e9/phong-an-vip.jpg?w=300&h=300&s=1",
+        "state": "Bac Ninh Province"
+    },
+    {
+        "name": "Mandala Hotel & Spa",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g2082662-d14216350-Reviews-Mandala_Hotel_Spa-Bac_Ninh_Bac_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/79/31/guest.jpg?w=300&h=300&s=1",
+        "state": "Bac Ninh Province"
+    },
+    {
+        "name": "Senna Wellness Retreat",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g2082662-d25078146-Reviews-Senna_Wellness_Retreat-Bac_Ninh_Bac_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8a/73/0a/senna-wellness-retreat.jpg?w=300&h=300&s=1",
+        "state": "Bac Ninh Province"
+    },
+    {
+        "name": "Viet Long Complex Residence",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g2082662-d25227936-Reviews-Viet_Long_Complex_Residence-Bac_Ninh_Bac_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a4/9e/3c/our-1-bed-room-apartment.jpg?w=300&h=300&s=1",
+        "state": "Bac Ninh Province"
+    },
+    {
+        "name": "Grand Hyams Hotel - Quy Nhon Beach",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g608528-d25180251-Reviews-Grand_Hyams_Hotel_Quy_Nhon_Beach-Quy_Nhon_Binh_Dinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/25/41/d8/caption.jpg?w=300&h=300&s=1",
+        "state": "Binh Dinh Province"
+    },
+    {
+        "name": "Fleur De Lys Hotel Quy Nhon",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g608528-d21356072-Reviews-Fleur_De_Lys_Hotel_Quy_Nhon-Quy_Nhon_Binh_Dinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/83/83/0a/fleur-de-lys-hotel-quy.jpg?w=300&h=300&s=1",
+        "state": "Binh Dinh Province"
+    },
+    {
+        "name": "L'Amor Boutique Hotel Quy Nhơn",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g608528-d25219355-Reviews-L_Amor_Boutique_Hotel_Quy_Nhon-Quy_Nhon_Binh_Dinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d1/f6/36/khu-v-c-check-in-t-ng.jpg?w=300&h=300&s=1",
+        "state": "Binh Dinh Province"
+    },
+    {
+        "name": "FLC City Hotel Beach Quy Nhon",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g608528-d23597358-Reviews-FLC_City_Hotel_Beach_Quy_Nhon-Quy_Nhon_Binh_Dinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/cc/4e/6f/flc-city-hotel-beach.jpg?w=300&h=300&s=1",
+        "state": "Binh Dinh Province"
+    },
+    {
+        "name": "Myle Resort",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g6939210-d6936750-Reviews-Myle_Resort-Phuoc_Long_Binh_Phuoc_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/25/25/20/20170103-102445-largejpg.jpg?w=300&h=300&s=1",
+        "state": "Binh Phuoc Province"
+    },
+    {
+        "name": "Sao Mai Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12887730-d12862723-Reviews-Sao_Mai_Hotel-Dong_Xoai_Binh_Phuoc_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/ea/0d/ed/photo0jpg.jpg?w=300&h=300&s=1",
+        "state": "Binh Phuoc Province"
+    },
+    {
+        "name": "Huong Sen Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12887730-d8152809-Reviews-Huong_Sen_Hotel-Dong_Xoai_Binh_Phuoc_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/79/default-avatar-2020-21.jpg?w=100&h=-1&s=1",
+        "state": "Binh Phuoc Province"
+    },
+    {
+        "name": "Hung Oanh Hotel",
+        "rating": "3.0",
+        "url": "tripadvisor.com/Hotel_Review-g12887730-d23803387-Reviews-Hung_Oanh_Hotel-Dong_Xoai_Binh_Phuoc_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/a3/13/3a/hung-oanh-hotel.jpg?w=300&h=300&s=1",
+        "state": "Binh Phuoc Province"
+    },
+    {
+        "name": "Muong Thanh Luxury Ca Mau Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1568668-d10319433-Reviews-Muong_Thanh_Luxury_Ca_Mau_Hotel-Ca_Mau_Ca_Mau_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1c/68/47/muong-thanh-luxury-ca.jpg?w=300&h=300&s=1",
+        "state": "Ca Mau Province"
+    },
+    {
+        "name": "Ozon Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g12359617-d10779638-Reviews-Ozon_Hotel-Nam_Can_Ca_Mau_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/6c/7a/3d/khach-s-n-ozon-nhin-t.jpg?w=300&h=300&s=1",
+        "state": "Ca Mau Province"
+    },
+    {
+        "name": "Thu Duy Resort",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1568668-d15521329-Reviews-Thu_Duy_Resort-Ca_Mau_Ca_Mau_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/85/ac/9f/toan-c-nh-khu-resort.jpg?w=300&h=300&s=1",
+        "state": "Ca Mau Province"
+    },
+    {
+        "name": "Phu Cuong Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1568668-d19366238-Reviews-Phu_Cuong_Hotel-Ca_Mau_Ca_Mau_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/ea/0e/subseaengineer.jpg?w=100&h=-1&s=1",
+        "state": "Ca Mau Province"
+    },
+    {
+        "name": "Cao Bang Eco Homestay",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1519989-d13812591-Reviews-Cao_Bang_Eco_Homestay-Cao_Bang_Cao_Bang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/99/5f/c9/private-room-king-bed.jpg?w=300&h=300&s=1",
+        "state": "Cao Bang Province"
+    },
+    {
+        "name": "Cao Bang Eco House",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1519989-d26209318-Reviews-Cao_Bang_Eco_House-Cao_Bang_Cao_Bang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b2/d9/e6/cao-bang-eco-house.jpg?w=300&h=300&s=1",
+        "state": "Cao Bang Province"
+    },
+    {
+        "name": "Primrose Homestay Cao Bang",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1519989-d12677666-Reviews-Primrose_Homestay_Cao_Bang-Cao_Bang_Cao_Bang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/25/59/ff/primrose-homestay-cao.jpg?w=300&h=300&s=1",
+        "state": "Cao Bang Province"
+    },
+    {
+        "name": "Bao Lac Homestay & Cao Bang Loop Tour",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g25773099-d17803560-Reviews-Bao_Lac_Homestay_Cao_Bang_Loop_Tour-Khanh_Xuan_Cao_Bang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/2b/83/35/bao-lac-homestay.jpg?w=300&h=300&s=1",
+        "state": "Cao Bang Province"
+    },
+    {
+        "name": "HAIAN Beach Hotel & Spa",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g298085-d13813945-Reviews-HAIAN_Beach_Hotel_Spa-Da_Nang.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/26/dc/3c/haian-beach-hotel-spa.jpg?w=200&h=200&s=1",
+        "state": "Da Nang"
+    },
+    {
+        "name": "Furama Resort Danang",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g298085-d302750-Reviews-Furama_Resort_Danang-Da_Nang.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/2d/b2/78/best-place-for-view-and.jpg?w=200&h=200&s=1",
+        "state": "Da Nang"
+    },
+    {
+        "name": "Monarque Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g19779171-d12832158-Reviews-Monarque_Hotel-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/c2/3b/f1/swimming-pool.jpg?w=200&h=200&s=1",
+        "state": "Da Nang"
+    },
+    {
+        "name": "Brilliant Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g298085-d3236066-Reviews-Brilliant_Hotel-Da_Nang.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/57/e8/df/brilliant-top-bar.jpg?w=200&h=200&s=1",
+        "state": "Da Nang"
+    },
+    {
+        "name": "Muong Thanh Luxury Buon Ma Thuot Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g670918-d12130390-Reviews-Muong_Thanh_Luxury_Buon_Ma_Thuot_Hotel-Buon_Ma_Thuot_Dak_Lak_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/63/c2/f3/executive-suite.jpg?w=300&h=300&s=1",
+        "state": "Dak Lak Province"
+    },
+    {
+        "name": "SOJO Hotel Dak Lak",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g670918-d25382640-Reviews-SOJO_Hotel_Dak_Lak-Buon_Ma_Thuot_Dak_Lak_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/8f/3a/83/caption.jpg?w=300&h=300&s=1",
+        "state": "Dak Lak Province"
+    },
+    {
+        "name": "The Coffee City - Healing & Retreats",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g670918-d26498930-Reviews-The_Coffee_City_Healing_Retreats-Buon_Ma_Thuot_Dak_Lak_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/66/d2/9e/the-coffee-city-healing.jpg?w=300&h=300&s=1",
+        "state": "Dak Lak Province"
+    },
+    {
+        "name": "Saigon - Ban Me Hotel",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g670918-d3251736-Reviews-Saigon_Ban_Me_Hotel-Buon_Ma_Thuot_Dak_Lak_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ae/93/b4/photo1jpg.jpg?w=300&h=300&s=1",
+        "state": "Dak Lak Province"
+    },
+    {
+        "name": "Freedom Green Farm & Lodge",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g15296861-d19261155-Reviews-Freedom_Green_Farm_Lodge-Dak_Som_Dak_Nong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f6/c9/94/b-a-sang-tu-chu-n-b-v.jpg?w=300&h=300&s=1",
+        "state": "Dak Nong Province"
+    },
+    {
+        "name": "Thông Reo Glamping",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g26831856-d26828628-Reviews-Thong_Reo_Glamping-Nam_N_Jang_Dak_Nong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ed/ef/fd/caption.jpg?w=300&h=300&s=1",
+        "state": "Dak Nong Province"
+    },
+    {
+        "name": "Star Hill Daknong Retreat",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g15836695-d26611051-Reviews-Star_Hill_Daknong_Retreat-Quang_Khe_Dak_Nong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/3f/a1/00/caption.jpg?w=300&h=-1&s=1",
+        "state": "Dak Nong Province"
+    },
+    {
+        "name": "Robin Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g2060368-d26533109-Reviews-Robin_Hotel-Gia_Nghia_Dak_Nong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/55/1c/63/caption.jpg?w=300&h=300&s=1",
+        "state": "Dak Nong Province"
+    },
+    {
+        "name": "Green Hope Lodge",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g8841040-d4327529-Reviews-Green_Hope_Lodge-Nam_Cat_Tien_Tan_Phu_District_Dong_Nai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/15/a4/63/photo0jpg.jpg?w=300&h=300&s=1",
+        "state": "Dong Nai Province"
+    },
+    {
+        "name": "Hapyson Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g2062761-d13742920-Reviews-Hapyson_Hotel-Long_Khanh_Dong_Nai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/5e/b3/37/hapyson-hotel.jpg?w=300&h=300&s=1",
+        "state": "Dong Nai Province"
+    },
+    {
+        "name": "Mansion Park Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1749176-d23230847-Reviews-Mansion_Park_Hotel-Bien_Hoa_Dong_Nai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/c0/c6/03/mansion-park-hotel-apartment.jpg?w=300&h=300&s=1",
+        "state": "Dong Nai Province"
+    },
+    {
+        "name": "Eco Floor Bird Song Lodge",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g8841040-d8685835-Reviews-Eco_Floor_Bird_Song_Lodge-Nam_Cat_Tien_Tan_Phu_District_Dong_Nai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7d/b8/bd/photo1jpg.jpg?w=300&h=-1&s=1",
+        "state": "Dong Nai Province"
+    },
+    {
+        "name": "Muong Thanh Luxury Ha Nam",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g13440854-d12657558-Reviews-Muong_Thanh_Luxury_Ha_Nam-Phu_Ly_Ha_Nam_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/7d/da/55/toan-c-nh-khach-s-n.jpg?w=300&h=300&s=1",
+        "state": "Ha Nam Province"
+    },
+    {
+        "name": "Meliá Vinpearl Phu Ly",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g13440854-d15592975-Reviews-Melia_Vinpearl_Phu_Ly-Phu_Ly_Ha_Nam_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/da/60/12/melia-vinpearl-phu-ly.jpg?w=300&h=300&s=1",
+        "state": "Ha Nam Province"
+    },
+    {
+        "name": "Tam Chuc Complex",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g23344438-d21513871-Reviews-Tam_Chuc_Complex-Tt_Ba_Sao_Ha_Nam_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/62/27/1d/getlstd-property-photo.jpg?w=300&h=300&s=1",
+        "state": "Ha Nam Province"
+    },
+    {
+        "name": "Hoa Đông Hotel Hà Nam",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g13440854-d24083802-Reviews-Hoa_Dong_Hotel_Ha_Nam-Phu_Ly_Ha_Nam_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/69/a6/f9/khach-s-n-v-i-tieu-chu.jpg?w=300&h=300&s=1",
+        "state": "Ha Nam Province"
+    },
+    {
+        "name": "The Oriental Jade Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293924-d17415144-Reviews-The_Oriental_Jade_Hotel-Hanoi.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/2b/1d/1f/swimming-pool.jpg?w=300&h=300&s=1",
+        "state": "Ha Noi"
+    },
+    {
+        "name": "La Siesta Classic Ma May Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293924-d7180030-Reviews-La_Siesta_Classic_Ma_May_Hotel-Hanoi.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/59/4c/d3/hanoi-la-siesta-hotel.jpg?w=300&h=300&s=1",
+        "state": "Ha Noi"
+    },
+    {
+        "name": "Gm Premium Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293924-d24001394-Reviews-Gm_Premium_Hotel-Hanoi.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a8/0f/a5/caption.jpg?w=300&h=300&s=1",
+        "state": "Ha Noi"
+    },
+    {
+        "name": "La Siesta Premium Hang Be Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293924-d615317-Reviews-La_Siesta_Premium_Hang_Be_Hotel-Hanoi.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/70/c0/1a/entrance-facade.jpg?w=300&h=300&s=1",
+        "state": "Ha Noi"
+    },
+    {
+        "name": "Mường Thanh Luxury Xuân Thành Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g27540579-d23508230-Reviews-Mu_ng_Thanh_Luxury_Xuan_Thanh_Hotel-Nghi_Xuan_Ha_Tinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/19/39/b4/mu-ng-thanh-luxury-xuan.jpg?w=300&h=300&s=1",
+        "state": "Ha Tinh Province"
+    },
+    {
+        "name": "Meliá Vinpearl Ha Tinh",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g3312573-d12989953-Reviews-Melia_Vinpearl_Ha_Tinh-Ha_Tinh_Ha_Tinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/55/a5/94/melia-vinpearl-ha-tinh.jpg?w=300&h=300&s=1",
+        "state": "Ha Tinh Province"
+    },
+    {
+        "name": "Meliá Vinpearl Cua Sot Beach Resort",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g3312573-d12215529-Reviews-Melia_Vinpearl_Cua_Sot_Beach_Resort-Ha_Tinh_Ha_Tinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a0/84/32/melia-vinpearl-cua-sot.jpg?w=300&h=300&s=1",
+        "state": "Ha Tinh Province"
+    },
+    {
+        "name": "Muong Thanh Grand Ha Tinh Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g3312573-d7332065-Reviews-Muong_Thanh_Grand_Ha_Tinh_Hotel-Ha_Tinh_Ha_Tinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f4/dc/a3/toan-c-nh-khach-s-n.jpg?w=300&h=300&s=1",
+        "state": "Ha Tinh Province"
+    },
+    {
+        "name": "Avana Retreat",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1652592-d23169139-Reviews-Avana_Retreat-Mai_Chau_Mai_Chau_District_Hoa_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/0f/20/d8/avana-retreat.jpg?w=300&h=300&s=1",
+        "state": "Hoa Binh Province"
+    },
+    {
+        "name": "Mai Chau Ecolodge",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1652592-d6898450-Reviews-Mai_Chau_Ecolodge-Mai_Chau_Mai_Chau_District_Hoa_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ba/18/f3/mai-chau-ecolodge.jpg?w=300&h=300&s=1",
+        "state": "Hoa Binh Province"
+    },
+    {
+        "name": "Mai Chau Hideaway Lake Resort",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1652592-d13458118-Reviews-Mai_Chau_Hideaway_Lake_Resort-Mai_Chau_Mai_Chau_District_Hoa_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/25/44/af/caption.jpg?w=300&h=300&s=1",
+        "state": "Hoa Binh Province"
+    },
+    {
+        "name": "Serena Resort Kim Boi",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g3320435-d12342982-Reviews-Serena_Resort_Kim_Boi-Hoa_Binh_Hoa_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/2c/aa/9d/serena-resort-kim-boi.jpg?w=300&h=-1&s=1",
+        "state": "Hoa Binh Province"
+    },
+    {
+        "name": "Fusion Suites Vung Tau",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g303946-d19609103-Reviews-Fusion_Suites_Vung_Tau-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/58/89/2f/breeze-roof-top-sky-bar.jpg?w=300&h=300&s=1",
+        "state": "Ba Ria–Vung Tau Province"
+    },
+    {
+        "name": "Melia Ho Tram Beach Resort",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g2549585-d15240267-Reviews-Melia_Ho_Tram_Beach_Resort-Ho_Tram_Phuoc_Thuan_Ba_Ria_Vung_Tau_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f2/0c/01/caption.jpg?w=300&h=300&s=1",
+        "state": "Ba Ria–Vung Tau Province"
+    },
+    {
+        "name": "The Secret Con Dao",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1024873-d21180229-Reviews-The_Secret_Con_Dao-Con_Son_Con_Dao_Islands_Ba_Ria_Vung_Tau_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/92/c6/84/the-secret-con-dao.jpg?w=300&h=300&s=1",
+        "state": "Ba Ria–Vung Tau Province"
+    },
+    {
+        "name": "ibis Styles Vung Tau",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g303946-d19797900-Reviews-Ibis_Styles_Vung_Tau-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/32/ae/54/exterior-view.jpg?w=300&h=300&s=1",
+        "state": "Ba Ria–Vung Tau Province"
+    },
+    {
+        "name": "Mandala Hotel & Suites Bac Giang",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g6776104-d23700157-Reviews-Mandala_Hotel_Suites_Bac_Giang-Bac_Giang_Bac_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/ad/81/f9/mandala-hotel-suites.jpg?w=300&h=300&s=1",
+        "state": "Bac Giang Province"
+    },
+    {
+        "name": "SOJO Hotel Bac Giang",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g6776104-d21499477-Reviews-SOJO_Hotel_Bac_Giang-Bac_Giang_Bac_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/39/c4/d9/sojo-hotel-bac-giang.jpg?w=300&h=300&s=1",
+        "state": "Bac Giang Province"
+    },
+    {
+        "name": "Ravatel Inn",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g6776104-d13005694-Reviews-Ravatel_Inn-Bac_Giang_Bac_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/22/30/eb/khach-s-n-ravatel-inn.jpg?w=300&h=300&s=1",
+        "state": "Bac Giang Province"
+    },
+    {
+        "name": "Mường Thanh Grand Bắc Giang",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g6776104-d7369380-Reviews-Mu_ng_Thanh_Grand_B_c_Giang-Bac_Giang_Bac_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/87/53/8b/muong-thanh-bac-giang.jpg?w=300&h=300&s=1",
+        "state": "Bac Giang Province"
+    },
+    {
+        "name": "Maison en Bambou Phong -Le Vent",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g2093913-d12195858-Reviews-Maison_en_Bambou_Phong_Le_Vent-Sa_Dec_Dong_Thap_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/07/cb/09/notre-chambre.jpg?w=200&h=200&s=1",
+        "state": "Dong Thap Province"
+    },
+    {
+        "name": "Huynh Duc 2 Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g737086-d13862046-Reviews-Huynh_Duc_2_Hotel-Cao_Lanh_Dong_Thap_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c0/97/b0/phong-them-1-ngu-i-s.jpg?w=200&h=200&s=1",
+        "state": "Dong Thap Province"
+    },
+    {
+        "name": "Ha Anh Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g737086-d13955647-Reviews-Ha_Anh_Hotel-Cao_Lanh_Dong_Thap_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9c/50/26/photo1jpg.jpg?w=200&h=-1&s=1",
+        "state": "Dong Thap Province"
+    },
+    {
+        "name": "Khách sạn Cao Lãnh",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g737086-d23027584-Reviews-Khach_s_n_Cao_Lanh-Cao_Lanh_Dong_Thap_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/a7/8e/65/khach-s-n-cao-lanh.jpg?w=200&h=200&s=1",
+        "state": "Dong Thap Province"
+    },
+    {
+        "name": "HANZ Pleiku Hotel",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g1224292-d12820165-Reviews-HANZ_Pleiku_Hotel-Pleiku_Gia_Lai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/30/87/78/meeting-room.jpg?w=200&h=200&s=1",
+        "state": "Gia Lai Province"
+    },
+    {
+        "name": "Ngoc Se Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1224292-d8261002-Reviews-Ngoc_Se_Hotel-Pleiku_Gia_Lai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/7f/58/82/top-floor-morning-coffee.jpg?w=200&h=200&s=1",
+        "state": "Gia Lai Province"
+    },
+    {
+        "name": "Khanh Linh Hotel Gia Lai",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g1224292-d11698324-Reviews-Khanh_Linh_Hotel_Gia_Lai-Pleiku_Gia_Lai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/d4/10/6a/khach-s-n-khanh-linh.jpg?w=200&h=200&s=1",
+        "state": "Gia Lai Province"
+    },
+    {
+        "name": "Boston Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1224292-d17580100-Reviews-Boston_Hotel-Pleiku_Gia_Lai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/9d/62/6c/boston-hotel.jpg?w=200&h=200&s=1",
+        "state": "Gia Lai Province"
+    },
+    {
+        "name": "Huyen Hao Homestay",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g4196266-d12703924-Reviews-Huyen_Hao_Homestay-Ba_Be_National_Park_Bac_Kan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/1d/43/b1/t-m-nhin-t-i-homestay.jpg?w=300&h=300&s=1",
+        "state": "Bac Kan Province"
+    },
+    {
+        "name": "Ba Be Lake View Homestay",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g4196266-d7052823-Reviews-Ba_Be_Lake_View_Homestay-Ba_Be_National_Park_Bac_Kan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/d2/91/99/photo2jpg.jpg?w=300&h=300&s=1",
+        "state": "Bac Kan Province"
+    },
+    {
+        "name": "Ba Be Lake Homestay - Quynh Chi",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g4196266-d11868055-Reviews-Ba_Be_Lake_Homestay_Quynh_Chi-Ba_Be_National_Park_Bac_Kan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/52/6b/09/photo3jpg.jpg?w=300&h=-1&s=1",
+        "state": "Bac Kan Province"
+    },
+    {
+        "name": "Ba Be Legend Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g21290435-d15089807-Reviews-Ba_Be_Legend_Hotel-Khang_Ninh_Bac_Kan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/37/8a/80/ba-be-legend-hotel.jpg?w=300&h=-1&s=1",
+        "state": "Bac Kan Province"
+    },
+    {
+        "name": "Muong Thanh Luxury Can Tho Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g303942-d8119592-Reviews-Muong_Thanh_Luxury_Can_Tho_Hotel-Can_Tho_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/af/46/9b/mu-ng-thanh-luxury-can.jpg?w=300&h=300&s=1",
+        "state": "Can Tho"
+    },
+    {
+        "name": "TTC Hotel - Can Tho",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g303942-d8595509-Reviews-TTC_Hotel_Can_Tho-Can_Tho_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ba/d6/9f/khach-s-n-nhin-t-b-n.jpg?w=300&h=300&s=1",
+        "state": "Can Tho"
+    },
+    {
+        "name": "Sheraton Can Tho",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g303942-d11743875-Reviews-Sheraton_Can_Tho-Can_Tho_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/04/ee/f6/hotel-exterior.jpg?w=300&h=300&s=1",
+        "state": "Can Tho"
+    },
+    {
+        "name": "Con Khuong Resort Can Tho",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g303942-d17595894-Reviews-Con_Khuong_Resort_Can_Tho-Can_Tho_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/f7/08/bf/khu-ngh-du-ng-cao-c-p.jpg?w=300&h=300&s=1",
+        "state": "Can Tho"
+    },
+    {
+        "name": "Flamingo Cat Ba Resorts",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g737051-d5823617-Reviews-Flamingo_Cat_Ba_Resorts-Cat_Ba_Hai_Phong.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/f9/85/cb/overview.jpg?w=300&h=300&s=1",
+        "state": "Hai Phong"
+    },
+    {
+        "name": "Manoir Des Arts Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g303944-d13819420-Reviews-Manoir_Des_Arts_Hotel-Hai_Phong.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f1/ef/4d/manoir-des-arts-hotel.jpg?w=300&h=300&s=1",
+        "state": "Hai Phong"
+    },
+    {
+        "name": "The Moon Boutique Hotel Cat Ba",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g737051-d26835413-Reviews-The_Moon_Boutique_Hotel_Cat_Ba-Cat_Ba_Hai_Phong.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ea/89/f3/caption.jpg?w=300&h=300&s=1",
+        "state": "Hai Phong"
+    },
+    {
+        "name": "Catba View Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g737051-d23352918-Reviews-Catba_View_Hotel-Cat_Ba_Hai_Phong.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/20/ef/5b/caption.jpg?w=300&h=300&s=1",
+        "state": "Hai Phong"
+    },
+    {
+        "name": "La Siesta Premium Saigon",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293925-d25442757-Reviews-La_Siesta_Premium_Saigon-Ho_Chi_Minh_City.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/66/08/e4/overview-rooftop-bar.jpg?w=300&h=300&s=1",
+        "state": "Ho Chi Minh City"
+    },
+    {
+        "name": "Au Lac Charner Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293925-d15113167-Reviews-Au_Lac_Charner_Hotel-Ho_Chi_Minh_City.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/ca/38/3a/au-lac-charner-hotel.jpg?w=300&h=300&s=1",
+        "state": "Ho Chi Minh City"
+    },
+    {
+        "name": "LOTTE HOTEL SAIGON",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g293925-d306225-Reviews-LOTTE_HOTEL_SAIGON-Ho_Chi_Minh_City.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fe/7d/c3/swimming-pool.jpg?w=300&h=300&s=1",
+        "state": "Ho Chi Minh City"
+    },
+    {
+        "name": "Silverland Mây Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293925-d26244341-Reviews-Silverland_May_Hotel-Ho_Chi_Minh_City.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/91/9e/21/hotel-front.jpg?w=300&h=300&s=1",
+        "state": "Ho Chi Minh City"
+    },
+    {
+        "name": "Frontier Hostel & Tours",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g662329-d25314395-Reviews-Frontier_Hostel_Tours-Dien_Bien_Phu_Dien_Bien_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0f/94/ee/caption.jpg?w=200&h=200&s=1",
+        "state": "Dien Bien Province"
+    },
+    {
+        "name": "Khách Sạn Mường Thanh Grand Điện Biên Phủ",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g662329-d655574-Reviews-Kha_ch_Sa_n_Muo_ng_Thanh_Grand_Di_n_Bien_Ph-Dien_Bien_Phu_Dien_Bien_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d4/51/4b/kha-ch-sa-n-muo-ng-thanh.jpg?w=200&h=200&s=1",
+        "state": "Dien Bien Province"
+    },
+    {
+        "name": "Ruby Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g662329-d6936607-Reviews-Ruby_Hotel-Dien_Bien_Phu_Dien_Bien_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/8c/ae/1c/ruby-hotel.jpg?w=200&h=200&s=1",
+        "state": "Dien Bien Province"
+    },
+    {
+        "name": "Phuong Nam Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g662329-d8042293-Reviews-Phuong_Nam_Hotel-Dien_Bien_Phu_Dien_Bien_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/e1/96/bb/phuong-nam-hotel.jpg?w=200&h=200&s=1",
+        "state": "Dien Bien Province"
+    },
+    {
+        "name": "Vinpearl Resort & Spa Ha Long",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g293923-d8595372-Reviews-Vinpearl_Resort_Spa_Ha_Long-Halong_Bay_Quang_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/2a/4f/c2/vinpearl-resort-spa-ha.jpg?w=200&h=200&s=1",
+        "state": "Quang Ninh Province"
+    },
+    {
+        "name": "Mường Thanh Luxury Hạ Long Centre Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g13163470-d21374136-Reviews-Mu_ng_Thanh_Luxury_H_Long_Centre_Hotel-Bai_Chay_Halong_Bay_Quang_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/78/29/f5/caption.jpg?w=200&h=200&s=1",
+        "state": "Quang Ninh Province"
+    },
+    {
+        "name": "Paradise Suites Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g3737857-d4004184-Reviews-Paradise_Suites_Hotel-Tuan_Chau_Island_Halong_Bay_Quang_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/fa/f6/dd/paradise-suites-hotel.jpg?w=200&h=200&s=1",
+        "state": "Quang Ninh Province"
+    },
+    {
+        "name": "Citadines Marina Halong",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g13163477-d23746412-Reviews-Citadines_Marina_Halong-Hung_Thang_Halong_Bay_Quang_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2e/ae/f2/studio-deluxe.jpg?w=200&h=200&s=1",
+        "state": "Quang Ninh Province"
+    },
+    {
+        "name": "Muong Thanh Grand Quang Tri Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g811042-d7309384-Reviews-Muong_Thanh_Grand_Quang_Tri_Hotel-Dong_Ha_Quang_Tri_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/bc/4e/94/muong-thanh-grand-quang.jpg?w=300&h=300&s=1",
+        "state": "Quang Tri Province"
+    },
+    {
+        "name": "Sai Gon Dong Ha Hotel",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g811042-d3318087-Reviews-Sai_Gon_Dong_Ha_Hotel-Dong_Ha_Quang_Tri_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/72/7e/bb/sai-gon-dong-ha-hotel.jpg?w=300&h=300&s=1",
+        "state": "Quang Tri Province"
+    },
+    {
+        "name": "Hai Dang Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g3334688-d12710393-Reviews-Hai_Dang_Hotel-Khe_Sanh_Quang_Tri_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9a/7e/b1/20180410-153240-largejpg.jpg?w=300&h=300&s=1",
+        "state": "Quang Tri Province"
+    },
+    {
+        "name": "Sepon Boutique Resort",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g1028732-d3313479-Reviews-Sepon_Boutique_Resort-Lao_Bao_Quang_Tri_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/2c/89/7d/sepon-boutique-resort.jpg?w=300&h=300&s=1",
+        "state": "Quang Tri Province"
+    },
+    {
+        "name": "Glenda Tower Moc Chau Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1118333-d24996311-Reviews-Glenda_Tower_Moc_Chau_Hotel-Moc_Chau_Son_La_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/29/ca/72/deluxe-double-room.jpg?w=300&h=300&s=1",
+        "state": "Son La Province"
+    },
+    {
+        "name": "Muong Thanh Luxury Son La Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1490567-d15220701-Reviews-Muong_Thanh_Luxury_Son_La_Hotel-Son_La_Son_La_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ba/78/46/mu-ng-thanh-luxury-son.jpg?w=300&h=300&s=1",
+        "state": "Son La Province"
+    },
+    {
+        "name": "Muong Thanh Holiday Moc Chau Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1118333-d10351175-Reviews-Muong_Thanh_Holiday_Moc_Chau_Hotel-Moc_Chau_Son_La_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cb/9b/cd/khach-s-n-mu-ng-thanh.jpg?w=300&h=300&s=1",
+        "state": "Son La Province"
+    },
+    {
+        "name": "1941M Homestay Tà Xùa",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g21393649-d26294720-Reviews-1941M_Homestay_Ta_Xua-Ta_Xua_Bac_Yen_Son_La_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bc/94/50/1941m-homestay-ta-xua.jpg?w=300&h=300&s=1",
+        "state": "Son La Province"
+    },
+    {
+        "name": "Nha Tro My Cang Thanh Pho Tra Vinh",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g1535794-d24999906-Reviews-Nha_Tro_My_Cang_Thanh_Pho_Tra_Vinh-Tra_Vinh_Tra_Vinh_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/29/57/a5/9c/caption.jpg?w=300&h=300&s=1",
+        "state": "Tra Vinh Province"
+    },
+    {
+        "name": "Tra Vinh Lodge",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1535794-d6518409-Reviews-Tra_Vinh_Lodge-Tra_Vinh_Tra_Vinh_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/22/b5/04/mekong-garden.jpg?w=300&h=300&s=1",
+        "state": "Tra Vinh Province"
+    },
+    {
+        "name": "Vila Basi",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g1535794-d9768899-Reviews-Vila_Basi-Tra_Vinh_Tra_Vinh_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/5f/de/ab/photo1jpg.jpg?w=300&h=300&s=1",
+        "state": "Tra Vinh Province"
+    },
+    {
+        "name": "Suonsia Homestay",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1535794-d8284441-Reviews-Suonsia_Homestay-Tra_Vinh_Tra_Vinh_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/dd/05/2b/dejeuner-copieux-genereusement.jpg?w=300&h=300&s=1",
+        "state": "Tra Vinh Province"
+    },
+    {
+        "name": "Phuong Anh Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12875231-d17457273-Reviews-Phuong_Anh_Hotel-Hung_Yen_Hung_Yen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/5f/70/a5/phong-superior.jpg?w=300&h=300&s=1",
+        "state": "Hung Yen Province"
+    },
+    {
+        "name": "The First Stay Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g21303824-d20088665-Reviews-The_First_Stay_Hotel-Van_Giang_Hung_Yen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/04/c0/4c/7-reception-always-ready.jpg?w=300&h=300&s=1",
+        "state": "Hung Yen Province"
+    },
+    {
+        "name": "Xuan Cau Hostel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12875231-d13324121-Reviews-Xuan_Cau_Hostel-Hung_Yen_Hung_Yen_Province.html",
+        "image": "",
+        "state": "Hung Yen Province"
+    },
+    {
+        "name": "Quynh Trang Hung Yen Hotel",
+        "rating": "0",
+        "url": "tripadvisor.com/Hotel_Review-g26684318-d26755326-Reviews-Quynh_Trang_Hung_Yen_Hotel-L_c_Hong_Hung_Yen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2a/cc/3b/c2/caption.jpg?w=300&h=300&s=1",
+        "state": "Hung Yen Province"
+    },
+    {
+        "name": "Vinpearl Resort & Spa Phu Quoc",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g12666019-d6920092-Reviews-Vinpearl_Resort_Spa_Phu_Quoc-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/28/ec/88/pearl-club-vinpearl-membership.jpg?w=300&h=300&s=1",
+        "state": "Kien Giang Province"
+    },
+    {
+        "name": "New World Phu Quoc Resort",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12520037-d23138346-Reviews-New_World_Phu_Quoc_Resort-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/4e/dc/a3/new-world-phu-quoc-resort.jpg?w=300&h=300&s=1",
+        "state": "Kien Giang Province"
+    },
+    {
+        "name": "Premier Village Phu Quoc Resort - Managed By Accor",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12520037-d13376509-Reviews-Premier_Village_Phu_Quoc_Resort_Managed_By_Accor-An_Thoi_Phu_Quoc_Island_Kien_Giang.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/78/b5/f0/premier-village-phu-quoc.jpg?w=300&h=300&s=1",
+        "state": "Kien Giang Province"
+    },
+    {
+        "name": "InterContinental Phu Quoc Long Beach Resort",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1184676-d13341164-Reviews-InterContinental_Phu_Quoc_Long_Beach_Resort-Duong_To_Phu_Quoc_Island_Kien_Giang_Prov.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/01/e3/e0/hotel-exterior.jpg?w=300&h=300&s=1",
+        "state": "Kien Giang Province"
+    },
+    {
+        "name": "Konklor Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1156337-d6028667-Reviews-Konklor_Hotel-Kontum_Kon_Tum_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d6/a4/f7/photo3jpg.jpg?w=300&h=300&s=1",
+        "state": "Kon Tum Province"
+    },
+    {
+        "name": "De Vivre Homestay Măng Đen",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g20241805-d26656247-Reviews-De_Vivre_Homestay_Mang_Den-Mang_Den_Kon_Tum_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7a/ae/72/de-vivre-homestay-mang.jpg?w=300&h=300&s=1",
+        "state": "Kon Tum Province"
+    },
+    {
+        "name": "Glamprose Mang Den",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g20241805-d24111024-Reviews-Glamprose_Mang_Den-Mang_Den_Kon_Tum_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/e9/69/95/glamprose-mang-den.jpg?w=300&h=300&s=1",
+        "state": "Kon Tum Province"
+    },
+    {
+        "name": "Hong My Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1156337-d6428040-Reviews-Hong_My_Hotel-Kontum_Kon_Tum_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/09/f8/9b/hong-my-hotel.jpg?w=300&h=300&s=1",
+        "state": "Kon Tum Province"
+    },
+    {
+        "name": "Four Points by Sheraton Lang Son",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g2144896-d15113201-Reviews-Four_Points_by_Sheraton_Lang_Son-Lang_Son_Lang_Son_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/17/78/07/hotel-exterior.jpg?w=300&h=300&s=1",
+        "state": "Lang Son Province"
+    },
+    {
+        "name": "Muong Thanh Luxury Lang Son Hotel",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g2144896-d2432298-Reviews-Muong_Thanh_Luxury_Lang_Son_Hotel-Lang_Son_Lang_Son_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c5/79/fd/muong-thanh-lang-son.jpg?w=300&h=300&s=1",
+        "state": "Lang Son Province"
+    },
+    {
+        "name": "SOJO Hotel Lang Son",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g2144896-d23944036-Reviews-SOJO_Hotel_Lang_Son-Lang_Son_Lang_Son_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/fd/b3/32/sojo-hotel-lang-son.jpg?w=300&h=300&s=1",
+        "state": "Lang Son Province"
+    },
+    {
+        "name": "Camellia Home",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g2144896-d25247768-Reviews-Camellia_Home-Lang_Son_Lang_Son_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/29/2d/0b/e9/caption.jpg?w=300&h=300&s=1",
+        "state": "Lang Son Province"
+    },
+    {
+        "name": "Phu Thang Grand Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g23369392-d23303565-Reviews-Phu_Thang_Grand_Hotel-Duc_Hoa_Ha_Duc_Hoa_District_Long_An_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/f0/3a/9b/phu-thang-grand-hotel.jpg?w=300&h=300&s=1",
+        "state": "Long An Province"
+    },
+    {
+        "name": "An Khang Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g9710348-d9707176-Reviews-An_Khang_Hotel-Duc_Hoa_Dong_Long_An_Province_Mekong_Delta.html",
+        "image": "",
+        "state": "Long An Province"
+    },
+    {
+        "name": "Lang Noi Tan Lap Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g14221678-d14182808-Reviews-Lang_Noi_Tan_Lap_Hotel-Moc_Hoa_Long_An_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/96/b3/4b/restaurant.jpg?w=300&h=300&s=1",
+        "state": "Long An Province"
+    },
+    {
+        "name": "Hoang De Hotel",
+        "rating": "3.0",
+        "url": "tripadvisor.com/Hotel_Review-g2062769-d12120352-Reviews-Hoang_De_Hotel-Tan_An_Long_An_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/4f/fa/2f/phong-c-s-ch-s-gia-d.jpg?w=300&h=300&s=1",
+        "state": "Long An Province"
+    },
+    {
+        "name": "Melia Vinpearl Cua Hoi Beach Resort",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g4235728-d12215518-Reviews-Melia_Vinpearl_Cua_Hoi_Beach_Resort-Cua_Lo_Nghe_An_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/25/5d/66/melia-vinpearl-cua-hoi.jpg?w=300&h=300&s=1",
+        "state": "Nghe An Province"
+    },
+    {
+        "name": "Mường Thanh Grand Cửa Lò",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g4235728-d7787805-Reviews-Mu_ng_Thanh_Grand_C_a_Lo-Cua_Lo_Nghe_An_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/a8/47/1b/muong-thanh-cua-lo-hotel.jpg?w=300&h=300&s=1",
+        "state": "Nghe An Province"
+    },
+    {
+        "name": "Muong Thanh Luxury Song Lam Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g1554764-d4504894-Reviews-Muong_Thanh_Luxury_Song_Lam_Hotel-Vinh_Nghe_An_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/3f/1e/16/1.jpg?w=300&h=300&s=1",
+        "state": "Nghe An Province"
+    },
+    {
+        "name": "Muong Thanh Grand Cua Dong Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1554764-d12138405-Reviews-Muong_Thanh_Grand_Cua_Dong_Hotel-Vinh_Nghe_An_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/af/e3/ac/deluxe-twin.jpg?w=300&h=300&s=1",
+        "state": "Nghe An Province"
+    },
+    {
+        "name": "Lalita Boutique Hotel & Spa Ninh Binh",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g303945-d21491783-Reviews-Lalita_Boutique_Hotel_Spa_Ninh_Binh-Ninh_Binh_Ninh_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/74/13/35/lalita-boutique-hotel.jpg?w=300&h=300&s=1",
+        "state": "Ninh Binh Province"
+    },
+    {
+        "name": "Ninh Binh Hidden Charm Hotel & Resort",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g303945-d9770834-Reviews-Ninh_Binh_Hidden_Charm_Hotel_Resort-Ninh_Binh_Ninh_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8e/98/b3/0e1889824d1b4a36ad1a2bf987ca7e.jpg?w=300&h=300&s=1",
+        "state": "Ninh Binh Province"
+    },
+    {
+        "name": "Liberty Hall Tam Coc Hotel & Villa",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12866457-d16827914-Reviews-Liberty_Hall_Tam_Coc_Hotel_Villa-Ninh_Hai_Hoa_Lu_District_Ninh_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/48/c0/28/caption.jpg?w=300&h=300&s=1",
+        "state": "Ninh Binh Province"
+    },
+    {
+        "name": "Emeralda Resort Ninh Binh",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g303945-d2243645-Reviews-Emeralda_Resort_Ninh_Binh-Ninh_Binh_Ninh_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f8/c1/8f/emeralda-resort-ninh.jpg?w=300&h=300&s=1",
+        "state": "Ninh Binh Province"
+    },
+    {
+        "name": "Hoàn Mỹ Resort Ninh Chử",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1005757-d23269592-Reviews-Hoan_M_Resort_Ninh_Ch-Phan_Rang_Thap_Cham_Ninh_Thuan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a0/6f/f1/hoan-m-resort-ninh-ch.jpg?w=300&h=300&s=1",
+        "state": "Ninh Thuan Province"
+    },
+    {
+        "name": "TTC Resort - Ninh Thuận",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g1005757-d2570316-Reviews-TTC_Resort_Ninh_Thu_n-Phan_Rang_Thap_Cham_Ninh_Thuan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/0b/5f/ae/ttc-resort-premium-ninh.jpg?w=300&h=300&s=1",
+        "state": "Ninh Thuan Province"
+    },
+    {
+        "name": "Amanoi",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12622782-d5784629-Reviews-Amanoi-Vinh_Hai_Ninh_Thuan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/86/64/8d/amanoi.jpg?w=300&h=300&s=1",
+        "state": "Ninh Thuan Province"
+    },
+    {
+        "name": "Hon Co Resort Ca Na",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g1005757-d8573766-Reviews-Hon_Co_Resort_Ca_Na-Phan_Rang_Thap_Cham_Ninh_Thuan_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/1d/d7/9b/ocean-view-suite-la-lo.jpg?w=300&h=300&s=1",
+        "state": "Ninh Thuan Province"
+    },
+    {
+        "name": "Sala Grand TuyHoa Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1582771-d23976787-Reviews-Sala_Grand_TuyHoa_Hotel-Tuy_Hoa_Phu_Yen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/e3/ba/d6/sala-grand-tuyhoa-hotel.jpg?w=200&h=200&s=1",
+        "state": "Phu Yen Province"
+    },
+    {
+        "name": "ROSA ALBA RESORT & VILLAS TUY HOA",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1582771-d15586366-Reviews-ROSA_ALBA_RESORT_VILLAS_TUY_HOA-Tuy_Hoa_Phu_Yen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9a/bf/06/rosa-alba-resort-villas.jpg?w=200&h=200&s=1",
+        "state": "Phu Yen Province"
+    },
+    {
+        "name": "Sala Tuy Hoa Beach Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1582771-d13810573-Reviews-Sala_Tuy_Hoa_Beach_Hotel-Tuy_Hoa_Phu_Yen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/62/8d/07/sala-tuy-hoa-beach-hotel.jpg?w=200&h=200&s=1",
+        "state": "Phu Yen Province"
+    },
+    {
+        "name": "Stelia Beach Resort",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1582771-d16736829-Reviews-Stelia_Beach_Resort-Tuy_Hoa_Phu_Yen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/7b/77/ec/stelia-beach-resort.jpg?w=200&h=200&s=1",
+        "state": "Phu Yen Province"
+    },
+    {
+        "name": "RiverTown Hoi An Resort & Spa",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g298082-d10311875-Reviews-RiverTown_Hoi_An_Resort_Spa-Hoi_An_Quang_Nam_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/14/de/a0/ann-retreat-resort-spa.jpg?w=200&h=200&s=1",
+        "state": "Quang Nam Province"
+    },
+    {
+        "name": "Grand Sunrise Palace Hoi An",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g298082-d25456643-Reviews-Grand_Sunrise_Palace_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/17/e3/84/grand-sunrise-palace.jpg?w=200&h=200&s=1",
+        "state": "Quang Nam Province"
+    },
+    {
+        "name": "Hoi An Central Boutique Hotel & Spa",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g298082-d11094406-Reviews-Hoi_An_Central_Boutique_Hotel_Spa-Hoi_An_Quang_Nam_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d9/4b/0c/hoi-an-central-boutique.jpg?w=200&h=200&s=1",
+        "state": "Quang Nam Province"
+    },
+    {
+        "name": "Mulberry Collection Silk Village",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g298082-d8643198-Reviews-Mulberry_Collection_Silk_Village-Hoi_An_Quang_Nam_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/15/c4/ef/beautiful-silk-village.jpg?w=200&h=200&s=1",
+        "state": "Quang Nam Province"
+    },
+    {
+        "name": "Meliá Vinpearl Tay Ninh",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g298084-d15619125-Reviews-Melia_Vinpearl_Tay_Ninh-Tay_Ninh_Tay_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/0f/07/11/melia-vinpearl-tay-ninh.jpg?w=200&h=200&s=1",
+        "state": "Tay Ninh Province"
+    },
+    {
+        "name": "Arina Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g298084-d26732260-Reviews-Arina_Hotel-Tay_Ninh_Tay_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f9/bc/42/caption.jpg?w=200&h=200&s=1",
+        "state": "Tay Ninh Province"
+    },
+    {
+        "name": "Victory Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g298084-d13732034-Reviews-Victory_Hotel-Tay_Ninh_Tay_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/21/bf/e7/vary-great-place.jpg?w=200&h=200&s=1",
+        "state": "Tay Ninh Province"
+    },
+    {
+        "name": "Hotel 986",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g298084-d23452214-Reviews-Hotel_986-Tay_Ninh_Tay_Ninh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/ee/da/8a/hotel-986.jpg?w=200&h=200&s=1",
+        "state": "Tay Ninh Province"
+    },
+    {
+        "name": "Nam My Van Homestay",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1753936-d12381398-Reviews-Nam_My_Van_Homestay-Thai_Nguyen_Thai_Nguyen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/3c/e1/c1/nam-my-van-homestay.jpg?w=200&h=200&s=1",
+        "state": "Thai Nguyen Province"
+    },
+    {
+        "name": "Da Huong Hotel",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g1753936-d3242861-Reviews-Da_Huong_Hotel-Thai_Nguyen_Thai_Nguyen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ae/b8/5e/da-huong-2-hotel.jpg?w=200&h=-1&s=1",
+        "state": "Thai Nguyen Province"
+    },
+    {
+        "name": "Cua Tu Waterfall Homestay",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g27108008-d13974930-Reviews-Cua_Tu_Waterfall_Homestay-Hoang_Nong_Thai_Nguyen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/3c/86/bf/cua-tu-waterfall-homestay.jpg?w=200&h=200&s=1",
+        "state": "Thai Nguyen Province"
+    },
+    {
+        "name": "Hoang Mam Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g1753936-d3149367-Reviews-Hoang_Mam_Hotel-Thai_Nguyen_Thai_Nguyen_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/1c/00/fe/khach-s-n-hoang-m-m.jpg?w=200&h=200&s=1",
+        "state": "Thai Nguyen Province"
+    },
+    {
+        "name": "Melia Vinpearl Thanh Hoa",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1236104-d15122518-Reviews-Melia_Vinpearl_Thanh_Hoa-Thanh_Hoa_Thanh_Hoa_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/71/b9/93/presidential-suite.jpg?w=300&h=300&s=1",
+        "state": "Thanh Hoa Province"
+    },
+    {
+        "name": "Pu Luong Natura Natura Bungalow",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12616458-d17739072-Reviews-Pu_Luong_Natura_Natura_Bungalow-Thanh_Lam_Pu_Long_Nature_Reserve_Thanh_Hoa_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a6/e4/d6/caption.jpg?w=300&h=300&s=1",
+        "state": "Thanh Hoa Province"
+    },
+    {
+        "name": "Muong Thanh Grand Thanh Hoa Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g1236104-d7593619-Reviews-Muong_Thanh_Grand_Thanh_Hoa_Hotel-Thanh_Hoa_Thanh_Hoa_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/63/75/65/muong-thanh-thanh-hoa.jpg?w=300&h=300&s=1",
+        "state": "Thanh Hoa Province"
+    },
+    {
+        "name": "Van Chai Resort",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g2440584-d3308844-Reviews-Van_Chai_Resort-Sam_Son_Thanh_Hoa_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e9/69/e0/van-chai-resort.jpg?w=300&h=300&s=1",
+        "state": "Thanh Hoa Province"
+    },
+    {
+        "name": "Mekong Lodge",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g3648985-d2060713-Reviews-Mekong_Lodge-Cai_Be_Tien_Giang_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f4/39/f4/mekong-lodge.jpg?w=300&h=300&s=1",
+        "state": "Tien Giang Province"
+    },
+    {
+        "name": "The Island Lodge",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g469417-d7909260-Reviews-The_Island_Lodge-My_Tho_Tien_Giang_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/bd/1b/df/img-20161117-173028-largejpg.jpg?w=300&h=300&s=1",
+        "state": "Tien Giang Province"
+    },
+    {
+        "name": "Cuu Long Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g469417-d14494697-Reviews-Cuu_Long_Hotel-My_Tho_Tien_Giang_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/7a/29/01/lobby.jpg?w=300&h=300&s=1",
+        "state": "Tien Giang Province"
+    },
+    {
+        "name": "Mekong Riverside Boutique Resort & Spa",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g3648985-d3309952-Reviews-Mekong_Riverside_Boutique_Resort_Spa-Cai_Be_Tien_Giang_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/31/cd/7f/mekong-riverside-boutique.jpg?w=300&h=300&s=1",
+        "state": "Tien Giang Province"
+    },
+    {
+        "name": "Selegend Hotel Thái Bình",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g4355220-d21348821-Reviews-Selegend_Hotel_Thai_Binh-Thai_Binh_Thai_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/97/29/ba/selegend-hotel-thai-binh.jpg?w=200&h=200&s=1",
+        "state": "Thai Binh Province"
+    },
+    {
+        "name": "Sojo Hotel Thai Binh",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g4355220-d21505744-Reviews-Sojo_Hotel_Thai_Binh-Thai_Binh_Thai_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/f8/51/62/v-tri-trung-tam-thanh.jpg?w=200&h=200&s=1",
+        "state": "Thai Binh Province"
+    },
+    {
+        "name": "White Palace Thai Binh",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g4355220-d20378463-Reviews-White_Palace_Thai_Binh-Thai_Binh_Thai_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ff/13/2d/white-palace-thai-binh.jpg?w=200&h=200&s=1",
+        "state": "Thai Binh Province"
+    },
+    {
+        "name": "Petro Thai Binh Hotel",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g4355220-d4326371-Reviews-Petro_Thai_Binh_Hotel-Thai_Binh_Thai_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/60/fa/b0/photo0jpg.jpg?w=200&h=-1&s=1",
+        "state": "Thai Binh Province"
+    },
+    {
+        "name": "Muong Thanh Grand Tuyen Quang Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1147552-d12205802-Reviews-Muong_Thanh_Grand_Tuyen_Quang_Hotel-Tuyen_Quang_Tuyen_Quang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/53/14/07/phong-honeymoon.jpg?w=200&h=200&s=1",
+        "state": "Tuyen Quang Province"
+    },
+    {
+        "name": "Royal Palace Hotel",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g1147552-d8755060-Reviews-Royal_Palace_Hotel-Tuyen_Quang_Tuyen_Quang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/62/c3/e6/khach-s-n-royal-palace.jpg?w=200&h=200&s=1",
+        "state": "Tuyen Quang Province"
+    },
+    {
+        "name": "Lavender Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g1147552-d15051374-Reviews-Lavender_Hotel-Tuyen_Quang_Tuyen_Quang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/5f/43/67/khach-s-n-lavender.jpg?w=200&h=200&s=1",
+        "state": "Tuyen Quang Province"
+    },
+    {
+        "name": "Vu Linh Homestay",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12888312-d12421218-Reviews-Vu_Linh_Homestay-Vu_Linh_Tuyen_Quang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/af/cd/73/dzao-girls-from-france.jpg?w=200&h=-1&s=1",
+        "state": "Tuyen Quang Province"
+    },
+    {
+        "name": "VuLinh Family Homestay",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g4353851-d9873466-Reviews-VuLinh_Family_Homestay-Ngoi_Tu_Yen_Bai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/6d/ea/20/guest-room-from-outdoor.jpg?w=300&h=300&s=1",
+        "state": "Yen Bai Province"
+    },
+    {
+        "name": "Le Champ Tu Le Resort Hot Spring & Spa",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g17567878-d17627387-Reviews-Le_Champ_Tu_Le_Resort_Hot_Spring_Spa-Tu_Le_Yen_Bai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b9/9f/9f/le-champ-tu-le-resort.jpg?w=300&h=300&s=1",
+        "state": "Yen Bai Province"
+    },
+    {
+        "name": "Dong Suoi H'mong Homestay",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g8146384-d25124046-Reviews-Dong_Suoi_H_mong_Homestay-Mu_Cang_Chai_Yen_Bai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/ce/5b/98/vue-de-l-homestay-depuis.jpg?w=300&h=300&s=1",
+        "state": "Yen Bai Province"
+    },
+    {
+        "name": "Indigenous Homestay",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g8146384-d17602300-Reviews-Indigenous_Homestay-Mu_Cang_Chai_Yen_Bai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/96/5a/49/indigenous-homestay.jpg?w=300&h=300&s=1",
+        "state": "Yen Bai Province"
+    },
+    {
+        "name": "Sapa Clay House - Mountain Retreat",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g311304-d11908224-Reviews-Sapa_Clay_House_Mountain_Retreat-Sapa_Lao_Cai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/8c/85/c0/the-infinity-pool.jpg?w=200&h=200&s=1",
+        "state": "Lao Cai Province"
+    },
+    {
+        "name": "Hotel de la Coupole - MGallery",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g311304-d15028320-Reviews-Hotel_de_la_Coupole_MGallery-Sapa_Lao_Cai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/24/f6/df/exterior-view.jpg?w=200&h=200&s=1",
+        "state": "Lao Cai Province"
+    },
+    {
+        "name": "KK Sapa Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g311304-d19055925-Reviews-KK_Sapa_Hotel-Sapa_Lao_Cai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6d/9c/e6/c-nh-quan-ben-ngoai-khach.jpg?w=200&h=200&s=1",
+        "state": "Lao Cai Province"
+    },
+    {
+        "name": "Eco Palms House",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g311304-d8299368-Reviews-Eco_Palms_House-Sapa_Lao_Cai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/57/a3/79/infinity-swimming-pool.jpg?w=200&h=200&s=1",
+        "state": "Lao Cai Province"
+    },
+    {
+        "name": "SOJO Hotel Nam Dinh",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g8366461-d21503818-Reviews-SOJO_Hotel_Nam_Dinh-Nam_Dinh_Nam_Dinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/a0/9c/6d/sojo-hotel-nam-dinh.jpg?w=300&h=300&s=1",
+        "state": "Nam Dinh Province"
+    },
+    {
+        "name": "Nam Cuong Nam Dinh Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g8366461-d17328578-Reviews-Nam_Cuong_Nam_Dinh_Hotel-Nam_Dinh_Nam_Dinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/8c/b6/20/khach-s-n-nam-cu-ng-nam.jpg?w=300&h=300&s=1",
+        "state": "Nam Dinh Province"
+    },
+    {
+        "name": "Ecohost Hai Hau",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g26500514-d26462667-Reviews-Ecohost_Hai_Hau-Hai_Hau_Nam_Dinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/05/69/6f/caption.jpg?w=300&h=300&s=1",
+        "state": "Nam Dinh Province"
+    },
+    {
+        "name": "Lakeside 2 Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g8366461-d8299364-Reviews-Lakeside_2_Hotel-Nam_Dinh_Nam_Dinh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/c5/e0/1c/lakeside-2-hotel.jpg?w=300&h=300&s=1",
+        "state": "Nam Dinh Province"
+    },
+    {
+        "name": "Muong Thanh Lai Chau Hotel",
+        "rating": "3.0",
+        "url": "tripadvisor.com/Hotel_Review-g811257-d3229325-Reviews-Muong_Thanh_Lai_Chau_Hotel-Lai_Chau_Lai_Chau_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/14/a8/68/nh-t-ng-quan-khach-s.jpg?w=300&h=300&s=1",
+        "state": "Lai Chau Province"
+    },
+    {
+        "name": "Tan Uyen Paradise",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g811257-d26521272-Reviews-Tan_Uyen_Paradise-Lai_Chau_Lai_Chau_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/0d/6e/f6/caption.jpg?w=300&h=300&s=1",
+        "state": "Lai Chau Province"
+    },
+    {
+        "name": "Heaven Gate Hotel O Quy Ho",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g789432-d17822622-Reviews-Heaven_Gate_Hotel_O_Quy_Ho-Tam_Duong_Lai_Chau_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/2b/06/13/heaven-gate-hotel-o-quy.jpg?w=300&h=300&s=1",
+        "state": "Lai Chau Province"
+    },
+    {
+        "name": "Putaleng Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g789432-d12799683-Reviews-Putaleng_Hotel-Tam_Duong_Lai_Chau_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/2d/fc/55/putaleng-hotel.jpg?w=300&h=300&s=1",
+        "state": "Lai Chau Province"
+    },
+    {
+        "name": "Flamingo Dai Lai Resort",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g2062764-d4327935-Reviews-Flamingo_Dai_Lai_Resort-Phuc_Yen_Vinh_Phuc_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/6a/4b/8c/forest-in-the-sky-5-star.jpg?w=300&h=300&s=1",
+        "state": "Vinh Phuc Province"
+    },
+    {
+        "name": "Venus Hotel Tam Dao",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g2062765-d18340728-Reviews-Venus_Hotel_Tam_Dao-Tam_Dao_Vinh_Phuc_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/38/88/9d/caption.jpg?w=300&h=300&s=1",
+        "state": "Vinh Phuc Province"
+    },
+    {
+        "name": "Dic Star Hotels & Resorts Vinh Phuc",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g2062763-d16754836-Reviews-Dic_Star_Hotels_Resorts_Vinh_Phuc-Vinh_Yen_Vinh_Phuc_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/49/5e/ef/dic-star-hotels-resorts.jpg?w=300&h=300&s=1",
+        "state": "Vinh Phuc Province"
+    },
+    {
+        "name": "Crowne Plaza Vinh Yen City Centre, an Ihg Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g2062763-d24094344-Reviews-Crowne_Plaza_Vinh_Yen_City_Centre_an_Ihg_Hotel-Vinh_Yen_Vinh_Phuc_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/1a/39/dd/hotel-exterior.jpg?w=300&h=300&s=1",
+        "state": "Vinh Phuc Province"
+    },
+    {
+        "name": "Muong Thanh Holiday Ly Son",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g651661-d10619059-Reviews-Muong_Thanh_Holiday_Ly_Son-Quang_Ngai_Quang_Ngai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/5c/38/cd/hotel-from-flycam.jpg?w=300&h=300&s=1",
+        "state": "Quang Ngai Province"
+    },
+    {
+        "name": "The Harmonia Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g15296496-d19828551-Reviews-The_Harmonia_Hotel-Binh_Dong_Quang_Ngai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/74/d4/fa/the-harmonia-hotel.jpg?w=300&h=300&s=1",
+        "state": "Quang Ngai Province"
+    },
+    {
+        "name": "Sa Huynh Beach Resort",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g651661-d3795016-Reviews-Sa_Huynh_Beach_Resort-Quang_Ngai_Quang_Ngai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/b5/22/b0/here-s-both-the-pool.jpg?w=300&h=300&s=1",
+        "state": "Quang Ngai Province"
+    },
+    {
+        "name": "Hana Riverside Villa",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g651661-d14775963-Reviews-Hana_Riverside_Villa-Quang_Ngai_Quang_Ngai_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/8c/aa/96/yard.jpg?w=300&h=300&s=1",
+        "state": "Quang Ngai Province"
+    },
+    {
+        "name": "EMM Hotel Hue",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293926-d633334-Reviews-EMM_Hotel_Hue-Hue_Thua_Thien_Hue_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/9a/c1/7d/photo0jpg.jpg?w=300&h=300&s=1",
+        "state": "Thua Thien Hue Province"
+    },
+    {
+        "name": "Pilgrimage Village Boutique Resort & Spa",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g293926-d582872-Reviews-Pilgrimage_Village_Boutique_Resort_Spa-Hue_Thua_Thien_Hue_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/7d/f3/0c/this-is-slope-pool-one.jpg?w=300&h=300&s=1",
+        "state": "Thua Thien Hue Province"
+    },
+    {
+        "name": "Angsana Lang Co",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g11909288-d3504912-Reviews-Angsana_Lang_Co-Cu_Du_Loc_Vinh_Phu_Loc_District_Thua_Thien_Hue_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d1/29/dc/angsana-skypool-two-bedroom.jpg?w=300&h=300&s=1",
+        "state": "Thua Thien Hue Province"
+    },
+    {
+        "name": "Meliá Vinpearl Hue",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293926-d15113220-Reviews-Melia_Vinpearl_Hue-Hue_Thua_Thien_Hue_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/c1/f0/55/caption.jpg?w=300&h=300&s=1",
+        "state": "Thua Thien Hue Province"
+    },
+    {
+        "name": "Swiss-Belresort Tuyen Lam Dalat",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g293922-d8856864-Reviews-Swiss_Belresort_Tuyen_Lam_Dalat-Da_Lat_Lam_Dong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/06/fa/66/swiss-belresort-tuyen.jpg?w=200&h=200&s=1",
+        "state": "Lam Dong Province"
+    },
+    {
+        "name": "Ana Mandara Villas Dalat Resort & Spa",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g293922-d648917-Reviews-Ana_Mandara_Villas_Dalat_Resort_Spa-Da_Lat_Lam_Dong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a7/bb/cb/villa-suite.jpg?w=200&h=200&s=1",
+        "state": "Lam Dong Province"
+    },
+    {
+        "name": "Mercure Dalat Resort",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293922-d23838965-Reviews-Mercure_Dalat_Resort-Da_Lat_Lam_Dong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/18/b2/f7/exterior.jpg?w=200&h=200&s=1",
+        "state": "Lam Dong Province"
+    },
+    {
+        "name": "Golf Valley Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g293922-d15308419-Reviews-Golf_Valley_Hotel-Da_Lat_Lam_Dong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/57/da/94/golf-valley-hotel.jpg?w=200&h=200&s=1",
+        "state": "Lam Dong Province"
+    },
+    {
+        "name": "Thuận Phát Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g469420-d24838624-Reviews-Thu_n_Phat_Hotel-Soc_Trang_Soc_Trang_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/cf/a4/94/pdmancs.jpg?w=100&h=-1&s=1",
+        "state": "Soc Trang Province"
+    },
+    {
+        "name": "Khách sạn Mỹ Hằng",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g469420-d23840594-Reviews-Khach_s_n_M_H_ng-Soc_Trang_Soc_Trang_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/2b/b8/db/8d/caption.jpg?w=300&h=300&s=1",
+        "state": "Soc Trang Province"
+    },
+    {
+        "name": "Phu Qui Hotel",
+        "rating": "3.5",
+        "url": "tripadvisor.com/Hotel_Review-g469420-d4699396-Reviews-Phu_Qui_Hotel-Soc_Trang_Soc_Trang_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/55/ed/fd/phu-qui-hotel.jpg?w=300&h=300&s=1",
+        "state": "Soc Trang Province"
+    },
+    {
+        "name": "Thien An Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g469420-d21174245-Reviews-Thien_An_Hotel-Soc_Trang_Soc_Trang_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ae/18/05/img-1612797243647-161279727817.jpg?w=300&h=300&s=1",
+        "state": "Soc Trang Province"
+    },
+    {
+        "name": "Havana Nha Trang Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293928-d4328685-Reviews-Havana_Nha_Trang_Hotel-Nha_Trang_Khanh_Hoa_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/85/56/bc/havana-nha-trang-hotel.jpg?w=300&h=300&s=1",
+        "state": "Khanh Hoa Province"
+    },
+    {
+        "name": "Vinpearl Beachfront Nha Trang",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g293928-d15142275-Reviews-Vinpearl_Beachfront_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/0f/b7/39/restaurant.jpg?w=300&h=300&s=1",
+        "state": "Khanh Hoa Province"
+    },
+    {
+        "name": "The Anam Cam Ranh",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g18928520-d10587972-Reviews-The_Anam_Cam_Ranh-Cam_Hai_Dong_Cam_Lam_District_Khanh_Hoa_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/35/f2/1c/the-anam.jpg?w=300&h=300&s=1",
+        "state": "Khanh Hoa Province"
+    },
+    {
+        "name": "Sheraton Nha Trang Hotel & Spa",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g293928-d1534400-Reviews-Sheraton_Nha_Trang_Hotel_Spa-Nha_Trang_Khanh_Hoa_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0c/b4/e3/infinity-swimming-pool.jpg?w=300&h=300&s=1",
+        "state": "Khanh Hoa Province"
+    },
+    {
+        "name": "Muong Thanh Luxury Nhat Le Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g659924-d8627203-Reviews-Muong_Thanh_Luxury_Nhat_Le_Hotel-Dong_Hoi_Quang_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d2/26/09/khach-s-n-mu-ng-thanh.jpg?w=300&h=-1&s=1",
+        "state": "Quang Binh Province"
+    },
+    {
+        "name": "Meliá Vinpearl Quang Binh",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g659924-d15179918-Reviews-Melia_Vinpearl_Quang_Binh-Dong_Hoi_Quang_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/d2/ee/e2/melia-vinpearl-quang.jpg?w=300&h=300&s=1",
+        "state": "Quang Binh Province"
+    },
+    {
+        "name": "Phong Nha Farmstay",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g4014591-d1930272-Reviews-Phong_Nha_Farmstay-Phong_Nha_Ke_Bang_National_Park_Quang_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/20/e2/37/pool-and-out-back.jpg?w=300&h=300&s=1",
+        "state": "Quang Binh Province"
+    },
+    {
+        "name": "Muong Thanh Holiday Quang Binh Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g659924-d4841606-Reviews-Muong_Thanh_Holiday_Quang_Binh_Hotel-Dong_Hoi_Quang_Binh_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/43/dc/92/khu-v-c-h-boi.jpg?w=300&h=300&s=1",
+        "state": "Quang Binh Province"
+    },
+    {
+        "name": "Purple Lotus Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1652595-d19139172-Reviews-Purple_Lotus_Hotel-Hai_Duong_Hai_Duong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/89/a9/eb/purple-lotus-hotel.jpg?w=200&h=200&s=1",
+        "state": "Hai Duong Province"
+    },
+    {
+        "name": "Nam Cuong Hai Duong Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g1652595-d3308809-Reviews-Nam_Cuong_Hai_Duong_Hotel-Hai_Duong_Hai_Duong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f4/c0/e0/nam-cuong-hai-duong-hotel.jpg?w=200&h=200&s=1",
+        "state": "Hai Duong Province"
+    },
+    {
+        "name": "Khach San Thao Anh",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1652595-d14959983-Reviews-Khach_San_Thao_Anh-Hai_Duong_Hai_Duong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/19/b4/e8/04/3540007.jpg?w=200&h=200&s=1",
+        "state": "Hai Duong Province"
+    },
+    {
+        "name": "Lotus Hotel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1652595-d10518196-Reviews-Lotus_Hotel-Hai_Duong_Hai_Duong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a7/b9/57/lotus-hotel.jpg?w=200&h=200&s=1",
+        "state": "Hai Duong Province"
+    },
+    {
+        "name": "Muong Thanh Luxury Phu Tho",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g4355229-d12418050-Reviews-Muong_Thanh_Luxury_Phu_Tho-Phu_Tho_Phu_Tho_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/60/90/87/deluxe-king-room.jpg?w=300&h=300&s=1",
+        "state": "Phu Tho Province"
+    },
+    {
+        "name": "SOJO Hotel Viet Tri",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g12866445-d23845318-Reviews-SOJO_Hotel_Viet_Tri-Viet_Tri_Phu_Tho_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e4/d3/ec/caption.jpg?w=300&h=300&s=1",
+        "state": "Phu Tho Province"
+    },
+    {
+        "name": "Cross Vibe Viet Tri",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g12866445-d14179615-Reviews-Cross_Vibe_Viet_Tri-Viet_Tri_Phu_Tho_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ac/3f/18/superior-room.jpg?w=300&h=300&s=1",
+        "state": "Phu Tho Province"
+    },
+    {
+        "name": "Sai Gon - Phu Tho Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g12866445-d14929335-Reviews-Sai_Gon_Phu_Tho_Hotel-Viet_Tri_Phu_Tho_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/54/94/b2/sai-gon-phu-tho-hotel.jpg?w=300&h=300&s=1",
+        "state": "Phu Tho Province"
+    },
+    {
+        "name": "Mekong Riverside Homestay",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g4353906-d15097571-Reviews-Mekong_Riverside_Homestay-An_Binh_Island_Vinh_Long_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5c/01/69/img-20191220-145555-largejpg.jpg?w=300&h=300&s=1",
+        "state": "Vinh Long Province"
+    },
+    {
+        "name": "Mekong Pottery Homestay",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g469421-d20264837-Reviews-Mekong_Pottery_Homestay-Vinh_Long_Vinh_Long_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/ce/0f/8a/yennie.jpg?w=300&h=300&s=1",
+        "state": "Vinh Long Province"
+    },
+    {
+        "name": "Happy Family Guesthouse",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g469421-d6922304-Reviews-Happy_Family_Guesthouse-Vinh_Long_Vinh_Long_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/68/f7/7c/happy-family-guesthouse.jpg?w=300&h=300&s=1",
+        "state": "Vinh Long Province"
+    },
+    {
+        "name": "Ba Linh Homestay",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g469421-d2244761-Reviews-Ba_Linh_Homestay-Vinh_Long_Vinh_Long_Province_Mekong_Delta.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/89/4f/64/ba-linh-homestay.jpg?w=300&h=300&s=1",
+        "state": "Vinh Long Province"
+    },
+    {
+        "name": "Hong Hao Hostel and Motorbikes",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1544599-d23325277-Reviews-Hong_Hao_Hostel_and_Motorbikes-Ha_Giang_Ha_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/91/36/7b/caption.jpg?w=300&h=300&s=1",
+        "state": "Hau Giang Province"
+    },
+    {
+        "name": "Bong Hostel and Motorbike Tour",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1544599-d10361049-Reviews-Bong_Hostel_and_Motorbike_Tour-Ha_Giang_Ha_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/50/57/84/bong-hostel-bar-bikes.jpg?w=300&h=300&s=1",
+        "state": "Hau Giang Province"
+    },
+    {
+        "name": "TVpalm Ecolodge",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1544599-d26321074-Reviews-TVpalm_Ecolodge-Ha_Giang_Ha_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/34/c2/cf/the-palm-ha-giang-ecolodge.jpg?w=300&h=300&s=1",
+        "state": "Hau Giang Province"
+    },
+    {
+        "name": "Ha Giang Hostel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1544599-d13921425-Reviews-Ha_Giang_Hostel-Ha_Giang_Ha_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/16/2b/ha-giang-hostel.jpg?w=300&h=300&s=1",
+        "state": "Hau Giang Province"
+    },
+    {
+        "name": "An Lam Retreats Saigon River",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g11981259-d2370854-Reviews-An_Lam_Retreats_Saigon_River-Thuan_An_Binh_Duong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/a0/1a/5d/an-lam-retreats-saigon.jpg?w=300&h=300&s=1",
+        "state": "Binh Duong Province"
+    },
+    {
+        "name": "Long Bao Chau Hotel",
+        "rating": "4.5",
+        "url": "tripadvisor.com/Hotel_Review-g3311194-d6206786-Reviews-Long_Bao_Chau_Hotel-Thu_Dau_Mot_Binh_Duong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/37/20/87/ngo-i-c-nh.jpg?w=300&h=300&s=1",
+        "state": "Binh Duong Province"
+    },
+    {
+        "name": "The Mira Hotel",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g3311194-d4231943-Reviews-The_Mira_Hotel-Thu_Dau_Mot_Binh_Duong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/2d/3e/54/the-mira-hotel.jpg?w=300&h=300&s=1",
+        "state": "Binh Duong Province"
+    },
+    {
+        "name": "Becamex Hotel New City",
+        "rating": "4.0",
+        "url": "tripadvisor.com/Hotel_Review-g3311194-d10352471-Reviews-Becamex_Hotel_New_City-Thu_Dau_Mot_Binh_Duong_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/aa/07/37/becamex-hotel-new-city.jpg?w=300&h=300&s=1",
+        "state": "Binh Duong Province"
+    },
+    {
+        "name": "Hong Hao Hostel and Motorbikes",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1544599-d23325277-Reviews-Hong_Hao_Hostel_and_Motorbikes-Ha_Giang_Ha_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/91/36/7b/caption.jpg?w=300&h=300&s=1",
+        "state": "Ha Giang Province"
+    },
+    {
+        "name": "Bong Hostel and Motorbike Tour",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1544599-d10361049-Reviews-Bong_Hostel_and_Motorbike_Tour-Ha_Giang_Ha_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/50/57/84/bong-hostel-bar-bikes.jpg?w=300&h=300&s=1",
+        "state": "Ha Giang Province"
+    },
+    {
+        "name": "TVpalm Ecolodge",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1544599-d26321074-Reviews-TVpalm_Ecolodge-Ha_Giang_Ha_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/34/c2/cf/the-palm-ha-giang-ecolodge.jpg?w=300&h=300&s=1",
+        "state": "Ha Giang Province"
+    },
+    {
+        "name": "Ha Giang Hostel",
+        "rating": "5.0",
+        "url": "tripadvisor.com/Hotel_Review-g1544599-d13921425-Reviews-Ha_Giang_Hostel-Ha_Giang_Ha_Giang_Province.html",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/16/2b/ha-giang-hostel.jpg?w=300&h=300&s=1",
+        "state": "Ha Giang Province"
+    }
+]
