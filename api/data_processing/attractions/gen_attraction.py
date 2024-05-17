@@ -236,17 +236,17 @@ if __name__ == "__main__":
     # Prepare to gather all tasks and run them concurrently
     async def main():
 
-        # tasks = [run(states[i]) for i in range(30, min(70, len(states)))]
-        # await asyncio.gather(*tasks)
+        tasks = [run(states[i]) for i in range(30, min(70, len(states)))]
+        await asyncio.gather(*tasks)
         # def read_list_from_txt_file(filename):
         #     with open(filename, 'r', encoding='utf-8') as file:
         #         lines = file.readlines()
         #         lines = [line.strip() for line in lines]
         #     return lines
         # # error_states = read_list_from_txt_file('error_states.txt')
-        list_errors = ['Tuyen Quang Province', 'Bac Giang Province', 'Hung Yen Province']
-        tasks = [run(list_errors[i]) for i in range(0, len(list_errors))]
-        await asyncio.gather(*tasks)
+        # list_errors = ['Tuyen Quang Province', 'Bac Giang Province', 'Hung Yen Province']
+        # tasks = [run(list_errors[i]) for i in range(0, len(list_errors))]
+        # await asyncio.gather(*tasks)
     
     asyncio.run(main())
 
