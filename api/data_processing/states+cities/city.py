@@ -17,11 +17,11 @@ latitude = df['latitude']
 longitude = df['longitude'] 
 for i in range(len(latitude)):
     latitude[i] = latitude[i].replace(".", "", latitude[i].count('.') - 1)
-    latitude[i] = float(latitude[i]) / 1000000
+    latitude[i] = float(latitude[i]) / 100000
 
 for i in range(len(longitude)):
     longitude[i] = longitude[i].replace(".", "", longitude[i].count('.') - 1)
-    longitude[i] = float(longitude[i]) / 1000000
+    longitude[i] = float(longitude[i]) / 100000
 
 l2 = pd.DataFrame({'latitude': latitude, 'longitude': longitude})
 
