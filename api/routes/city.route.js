@@ -4,6 +4,51 @@ const router = express.Router();
 
 /**
  * @swagger
+ * /api/cities:
+ *   get:
+ *     summary: Retrieve a list of cities
+ *     description: Returns a list of cities along with state, country, latitude, and longitude.
+ *     responses:
+ *       200:
+ *         description: A list of cities
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 type: object
+ *                 properties:
+ *                   city:
+ *                     type: string
+ *                     example: "San Francisco"
+ *                   state:
+ *                     type: string
+ *                     example: "CA"
+ *                   country:
+ *                     type: string
+ *                     example: "USA"
+ *                   latitude:
+ *                     type: number
+ *                     format: double
+ *                     example: 37.7749
+ *                   longitude:
+ *                     type: number
+ *                     format: double
+ *                     example: -122.4194
+ *       500:
+ *         description: Server error
+ */
+router.get('/cities', async (req, res) => {
+    try {
+        const cities = await City.find({}).select('city state country latitude longitude -_id');
+        res.json(cities);
+    } catch (error) {
+        res.status(500).json({ message: 'Error fetching cities', error: error });
+    }
+});
+
+/**
+ * @swagger
  * /api/nearby-city/{cityName}:
  *   get:
  *     summary: Retrieve nearby cities
