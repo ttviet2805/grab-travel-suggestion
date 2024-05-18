@@ -43,6 +43,30 @@ To use this project, follow the steps below:
 - **Parameters**:
   - `cityName` (string): Name of the city to find nearby cities for.
 
+### Attraction Details
+
+- **Endpoint**: `/api/attraction-detail/{name}`
+- **Method**: `GET`
+- **Description**: Retrieves details for a specified attraction, including related hotels and restaurants within the same state.
+
+### Add a Review
+
+- **Endpoint**: `/api/add-review`
+- **Method**: `POST`
+- **Description**: Allows users to post a review for a specific attraction.
+
+### Top Trending Attractions
+
+- **Endpoint**: `/api/top-trending-attractions`
+- **Method**: `GET`
+- **Description**: Returns the top 30 trending attractions based on a weighted score from user ratings.
+
+### Recommendations by State
+
+- **Endpoint**: `/api/recommendations/{state}`
+- **Method**: `GET`
+- **Description**: Provides a list of recommended attractions for a specified state, utilizing a Python script for data processing.
+
 ## Swagger Documentation
 
 The API includes Swagger documentation, which can be accessed at `/docs` after starting the server.
