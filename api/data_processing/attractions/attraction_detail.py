@@ -16,7 +16,7 @@ credentials = ('minhminh', 'Gogogogo1234')
 
 attraction_details = []
 
-for i in range(1200, min(1400, len(data))):
+for i in range(0, min(100, len(data))):
     print("Attraction ", i + 1)
     attraction_detail = {}
     attraction_detail['name'] = data[i]['name']
@@ -43,7 +43,7 @@ for i in range(1200, min(1400, len(data))):
     soup = BeautifulSoup(content, "html.parser")
 
     reviews = []
-    review_score = {'0': 0, '1.0': 0, '2.0': 0, '3.0': 0, '4.0': 0, '5.0': 0}
+    review_score = {'0': 0, '1': 0, '2': 0, '3': 0, '4': 0, '5': 0}
 
     for index, div in enumerate(soup.find_all("div", {"class": "_c", "data-automation": "reviewCard"})):
         cur_review = {}
@@ -61,6 +61,7 @@ for i in range(1200, min(1400, len(data))):
             import re
             match = re.search(r'\d+(\.\d+)?', tmp_rating)
             rating = match.group()
+        rating = int(float(rating))
         cur_review['rating'] = rating
         review_score[f'{rating}'] += 1
 
@@ -97,5 +98,5 @@ def append_to_json_file(new_data, filename):
         data.append(i)
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
-append_to_json_file(attraction_details, 'attraction_detail.json')
+append_to_json_file(attraction_details, 'test.json')
 print("JSON file has been created with all states of Vietnam.")

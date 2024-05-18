@@ -196,11 +196,13 @@ router.post('/add-review', async (req, res) => {
         }
 
         // Create a new review object
-        const newReview = { username, rating, title, content };
+        var ratingProcess = Math.floor(parseFloat(rating)).toString();
+        const newReview = { username, "rating": ratingProcess, title, content };
 
         // Add the new review at the beginning of the reviews array
         attractionDetail.review.unshift(newReview);
-        attractionDetail.review_score[rating]++;
+        attractionDetail.num_review++;
+        attractionDetail.review_score[ratingProcess]++;
 
         // Save the updated document to the database
         await attractionDetail.save();
@@ -284,59 +286,14 @@ router.post('/add-review', async (req, res) => {
 // Route to get top trending attraction based on our calculation
 router.get('/top-trending-attractions', async (req, res) => {
     try {
-        const topAttractions = await AttractionDetail.aggregate([
-            {
-                $addFields: {
-                    reviewScoresArray: { $objectToArray: "$review_score" }
-                }
-            },
-            {
-                $addFields: {
-                    fiveStarScore: {
-                        $arrayElemAt: [
-                            {
-                                $filter: {
-                                    input: "$reviewScoresArray",
-                                    as: "item",
-                                    cond: { $eq: ["$$item.k", "5.0"] }
-                                }
-                            },
-                            0
-                        ]
-                    },
-                    fourStarScore: {
-                        $arrayElemAt: [
-                            {
-                                $filter: {
-                                    input: "$reviewScoresArray",
-                                    as: "item",
-                                    cond: { $eq: ["$$item.k", "4.0"] }
-                                }
-                            },
-                            0
-                        ]
-                    },
-                    threeStarScore: {
-                        $arrayElemAt: [
-                            {
-                                $filter: {
-                                    input: "$reviewScoresArray",
-                                    as: "item",
-                                    cond: { $eq: ["$$item.k", "3.0"] }
-                                }
-                            },
-                            0
-                        ]
-                    }
-                }
-            },
+        const attractions = await AttractionDetail.aggregate([
             {
                 $addFields: {
                     weightedScore: {
                         $add: [
-                            { $multiply: ["$fiveStarScore.v", 8] },
-                            { $multiply: ["$fourStarScore.v", 5] },
-                            { $multiply: ["$threeStarScore.v", 3] }
+                            { $multiply: ["$review_score.5", 8] },
+                            { $multiply: ["$review_score.4", 5] },
+                            { $multiply: ["$review_score.3", 3] }
                         ]
                     }
                 }
@@ -348,11 +305,11 @@ router.get('/top-trending-attractions', async (req, res) => {
                     topAttraction: { $first: "$$ROOT" }
                 }
             },
-            { $sort: { "topAttraction.weightedScore": -1 } },
-            { $limit: 30 },
             { $replaceRoot: { newRoot: "$topAttraction" } },
+            { $sort: { weightedScore: -1 } }, // Additional sort to order all top attractions
             {
                 $project: {
+                    _id: 0,
                     name: 1,
                     state: 1,
                     rating: 1,
@@ -361,13 +318,14 @@ router.get('/top-trending-attractions', async (req, res) => {
                     image: 1,
                     weightedScore: 1
                 }
-            }
+            },
+            { $limit: 30 }
         ]);
 
-        res.json(topAttractions);
+        res.json(attractions);
     } catch (error) {
-        console.error('Error fetching top trending attractions:', error);
-        res.status(500).json({ message: 'Failed to fetch top trending attractions', error: error.message });
+        console.error('Failed to fetch top attractions:', error);
+        res.status(500).json({ message: 'Error fetching data', error: error.message });
     }
 });
 

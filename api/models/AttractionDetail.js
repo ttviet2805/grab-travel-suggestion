@@ -26,19 +26,19 @@ const reviewScoreSchema = new Schema({
     "0": {
         type: Number,
     },
-    "1.0": {
+    "1": {
         type: Number,
     },
-    "2.0": {
+    "2": {
         type: Number,
     },
-    "3.0": {
+    "3": {
         type: Number,
     },
-    "4.0": {
+    "4": {
         type: Number,
     },
-    "5.0": {
+    "5": {
         type: Number,
     }
 });
