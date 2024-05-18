@@ -27,6 +27,7 @@ const router = express.Router();
  *       500:
  *         description: Server error
  */
+// GET to get list of all states
 router.get('/states', async (req, res) => {
     try {
         const states = await State.find({}).select('state country');

@@ -72,16 +72,6 @@ async function findAttractionsByState(stateName) {
         throw error;  // Rethrow the error to be handled by the caller
     }
 }
-// // API endpoint to get attractions by state
-// router.get('/attractions/:state', async (req, res) => {
-//     const stateName = req.params.state;
-//     try {
-//         const attractions = await findAttractionsByState(stateName);
-//         res.json(attractions);
-//     } catch (error) {
-//         res.status(500).json({ message: "Error fetching data", error: error });
-//     }
-// });
 
 // Function to handle spawning the Python process and parsing its output
 async function getRecommendations(state) {
@@ -133,6 +123,7 @@ router.get('/recommendations/:state', async (req, res) => {
     } catch (error) {
         console.error('Python script failed or timed out, fetching data from MongoDB:', error);
         try {
+            // If python process is unsuccessful, collect backup data in database
             const recommendations = await findAttractionsByState(state);
             res.status(200).json({
                 success: true,

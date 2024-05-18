@@ -10,7 +10,7 @@ const reviewSchema = new Schema({
     rating: {
         type: String,
         required: true
-    }, // Ratings can be stored as strings to keep the format consistent
+    },
     title: {
         type: String,
         required: true

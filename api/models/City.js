@@ -8,7 +8,7 @@ const CitySchema = new mongoose.Schema({
     latitude: Number,
     longitude: Number,
     loc_clusters: Number
-}, { collection: 'city' });   // Specify the collection name as 'city'
+}, { collection: 'city' });
 
 // Create a model for city
 const City = mongoose.model('City', CitySchema);

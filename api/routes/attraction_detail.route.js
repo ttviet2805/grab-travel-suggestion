@@ -348,7 +348,7 @@ router.get('/top-trending-attractions', async (req, res) => {
                     topAttraction: { $first: "$$ROOT" }
                 }
             },
-            { $sort: { "topAttraction.weightedScore": -1 } }, // Re-sort if necessary after grouping
+            { $sort: { "topAttraction.weightedScore": -1 } },
             { $limit: 30 },
             { $replaceRoot: { newRoot: "$topAttraction" } },
             {

@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
+// Define a schema that matches the new structure in the `hotel` collection
 const hotelSchema = new Schema({
     name: {
         type: String,
