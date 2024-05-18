@@ -9,6 +9,7 @@ const statesRouter = require('./routes/state.route');
 const attractionDetailRouter = require('./routes/attraction_detail.route');
 
 const app = express();
+app.use(express.json());
 app.use(cors());
 
 // Swagger definition

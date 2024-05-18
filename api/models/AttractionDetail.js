@@ -25,27 +25,21 @@ const reviewSchema = new Schema({
 const reviewScoreSchema = new Schema({
     "0": {
         type: Number,
-        required: true
     },
     "1.0": {
         type: Number,
-        required: true
     },
     "2.0": {
         type: Number,
-        required: true
     },
     "3.0": {
         type: Number,
-        required: true
     },
     "4.0": {
         type: Number,
-        required: true
     },
     "5.0": {
         type: Number,
-        required: true
     }
 });
 
