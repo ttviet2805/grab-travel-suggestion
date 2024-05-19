@@ -8,6 +8,8 @@ const attractionRecommendationRouter = require('./routes/attraction_recommendati
 const statesRouter = require('./routes/state.route');
 const attractionDetailRouter = require('./routes/attraction_detail.route');
 
+require('dotenv').config();
+
 const app = express();
 app.use(express.json());
 app.use(cors());
@@ -43,10 +45,10 @@ app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
 // Connect to MongoDB Atlas with tgrabvel database name
 mongoose.connect(
-    'mongodb+srv://ttviet2805:grabbootcamp@cluster0.hb7fvkv.mongodb.net/tgrabvel',
+    `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@${process.env.DB_HOST}/${process.env.DB_NAME}`,
     { useNewUrlParser: true, useUnifiedTopology: true }
 ).then(() => {
-    console.log("MongoDB connected successfully to tgrabvel database!");
+    console.log("MongoDB connected successfully!");
 }).catch(err => {
     console.error("MongoDB connection error:", err);
     process.exit();
