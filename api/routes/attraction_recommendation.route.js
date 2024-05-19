@@ -107,7 +107,7 @@ async function getRecommendations(state) {
 router.get('/recommendations/:state', async (req, res) => {
     const state = req.params.state;
     try {
-        const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Python script timeout')), 15000));  // 30-second timeout
+        const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Python script timeout')), 10000));  // 30-second timeout
         const recommendations = await Promise.race([getRecommendations(state), timeoutPromise]);
 
         // Check if recommendations are valid
