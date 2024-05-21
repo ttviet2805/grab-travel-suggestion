@@ -32,10 +32,10 @@ fi
 echo "Installing npm packages..."
 npm install
 
-# Tạo và kích hoạt môi trường ảo Python
-echo "Setting up Python virtual environment..."
-python3 -m venv venv
-source venv/bin/activate
+# # Tạo và kích hoạt môi trường ảo Python
+# echo "Setting up Python virtual environment..."
+# python3 -m venv venv
+# source venv/bin/activate
 
 # Cài đặt các gói pip cho Python
 echo "Installing pip packages..."

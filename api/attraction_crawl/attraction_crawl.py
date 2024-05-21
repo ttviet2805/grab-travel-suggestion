@@ -7,7 +7,6 @@ from typing import List, TypedDict
 import httpx
 from loguru import logger as log
 from bs4 import BeautifulSoup
-import pandas as pd
 import requests
 
 
