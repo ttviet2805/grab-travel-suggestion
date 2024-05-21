@@ -25,6 +25,10 @@ const swaggerDefinition = {
             url: 'http://localhost:3001',
             description: 'Development server',
         },
+        {
+            url: 'https://tgrabvel-bootcamp-be.onrender.com',
+            description: 'Production server'
+        }
     ],
 };
 
