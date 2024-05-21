@@ -1,4 +1,5 @@
 import json
+import score_attraction
 
 def read_json_file(filename):
     try:
@@ -11,15 +12,12 @@ def read_json_file(filename):
 
 data = read_json_file('attraction_detail.json')
 # Now `data` holds the JSON data as a Python dictionary
-# print(len(data))
+print(len(data))
+i = 0
 for attraction in data:
-    new_review_score = {}
-    for key, value in attraction['review_score'].items():
-        new_key = int(float(key))  # Convert string to float, then to integer
-        new_review_score[str(new_key)] = value  # Store it back as string if needed
-    
-    # Replace the old review_score with the new dictionary
-    attraction['review_score'] = new_review_score
+    i += 1
+    attraction['weight'] = score_attraction.get_attraction_weight(attraction)
+    print(f'{i} || Weight: {attraction['weight']}')
 
 def append_to_json_file(new_data, filename):
     data = read_json_file(filename) 

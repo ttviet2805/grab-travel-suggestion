@@ -1,22 +1,11 @@
 import pandas as pd
-from transformers import pipeline
+from transformers import pipeline, AutoTokenizer
 import numpy as np
 
-# Assume we have user data
-data = {
-    "location_1": [
-        {"rating": 5, "title": "Amazing Trip", "content": "This trip makes me feel really happy and enjoyable"},
-        {"rating": 4, "title": "Great Experience", "content": "I had a wonderful time visiting this place"}
-    ],
-    "location_2": [
-        {"rating": 3, "title": "Average", "content": "The trip was okay, not too bad but not great either"},
-        {"rating": 2, "title": "Poor Service", "content": "I was disappointed with the service"},
-        {"rating": 1, "title": "Terrible", "content": "This was the worst trip ever"}
-    ]
-}
-
 # Use a pretrained model to analyze sentiment
-sentiment_model = pipeline("sentiment-analysis")
+model_name = "distilbert-base-uncased-finetuned-sst-2-english"
+sentiment_model = pipeline("sentiment-analysis", model=model_name)
+tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 # Sigmoid function to normalize values
 def sigmoid(x):
@@ -44,28 +33,36 @@ def calculate_weight_improved(rating, title_sentiment_score, content_sentiment_s
     # Scale weight to a range of 100
     return weight * 100
 
-# Create a DataFrame to store results
-results = []
+# Function to truncate text to fit the model's maximum token length
+def truncate_text(text, max_tokens=512):
+    tokens = tokenizer.tokenize(text)
+    if len(tokens) > max_tokens:
+        tokens = tokens[:max_tokens]
+    return tokenizer.convert_tokens_to_string(tokens)
 
-for location, comments in data.items():
+# Function to get weight of a single comment
+def get_comment_weight(rating, title, content):
+    truncated_title = truncate_text(title, max_tokens=128)
+    truncated_content = truncate_text(content, max_tokens=384)
+    
+    title_sentiment_score = sentiment_model(truncated_title)[0]['score']
+    content_sentiment_score = sentiment_model(truncated_content)[0]['score']
+    
+    weight = calculate_weight_improved(rating, title_sentiment_score, content_sentiment_score)
+    return weight
+
+# Function to calculate the average weight for a single attraction
+def get_attraction_weight(attraction):
+    comments = attraction['review']
     weights = []
     for comment in comments:
-        rating = comment['rating']
-        title_sentiment_score = sentiment_model(comment['title'])[0]['score']
-        content_sentiment_score = sentiment_model(comment['content'])[0]['score']
-        
-        weight = calculate_weight_improved(rating, title_sentiment_score, content_sentiment_score)
+        weight = get_comment_weight(comment['rating'], comment['title'], comment['content'])
         weights.append(weight)
     
-    # Calculate the average weight for each location
-    average_weight = np.mean(weights)
-    results.append({"location": location, "average_weight": average_weight})
-
-# Create a DataFrame from the results
-df_results = pd.DataFrame(results)
-
-# Sort locations by average weight
-df_results_sorted = df_results.sort_values(by='average_weight', ascending=False)
-
-# Display the results
-print(df_results_sorted)
+    # Check if there are valid weights before calculating the average
+    if weights:
+        average_weight = np.mean(weights)
+    else:
+        average_weight = 0  # or any default value you consider appropriate
+    
+    return average_weight
