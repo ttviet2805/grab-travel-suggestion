@@ -1,4 +1,5 @@
 const express = require('express');
+const { format } = require('date-fns');
 const router = express.Router();
 const AttractionDetail = require('../models/AttractionDetail');
 const Hotel = require('../models/Hotel');
@@ -96,6 +97,7 @@ router.get('/attraction-detail/:name', async (req, res) => {
  *               - attraction
  *               - username
  *               - rating
+ *               - type_trip
  *               - title
  *               - content
  *             properties:
@@ -107,7 +109,10 @@ router.get('/attraction-detail/:name', async (req, res) => {
  *                 description: Username of the reviewer
  *               rating:
  *                 type: string
- *                 description: Rating given by the reviewer
+ *                 description: Rating given by the reviewer, expected to be a string that can be parsed into a number
+ *               type_trip:
+ *                 type: string
+ *                 description: Type of trip (e.g., Family, Solo, Business, Couples, Friends)
  *               title:
  *                 type: string
  *                 description: Title of the review
@@ -118,8 +123,9 @@ router.get('/attraction-detail/:name', async (req, res) => {
  *               attraction: "White Sand Dunes"
  *               username: "ttviet"
  *               rating: "5"
+ *               type_trip: "Family"
  *               title: "Amazing"
- *               content: "Good"
+ *               content: "The landscape is breathtaking with vast white sands."
  *     responses:
  *       201:
  *         description: Review added successfully
@@ -137,6 +143,8 @@ router.get('/attraction-detail/:name', async (req, res) => {
  *                     username:
  *                       type: string
  *                     rating:
+ *                       type: string
+ *                     type_trip:
  *                       type: string
  *                     title:
  *                       type: string
@@ -179,12 +187,16 @@ router.get('/attraction-detail/:name', async (req, res) => {
 // Route to add a new review to an attraction
 router.post('/add-review', async (req, res) => {
     // Destructure fields from request body
-    const { attraction, username, rating, title, content } = req.body;
+    const { attraction, username, rating, type_trip, title, content } = req.body;
 
     // Validate if all required fields are provided
-    if (!attraction || !username || !rating || !title || !content) {
+    if (!attraction || !username || !rating || !type_trip || !title || !content) {
         return res.status(400).json({ message: 'All fields are required' });
     }
+
+    // Get current request time and format it
+    const requestTime = new Date();
+    const formattedRequestTime = format(requestTime, 'MMM yyyy');
 
     try {
         // Find the attractionDetail document by name
@@ -197,7 +209,14 @@ router.post('/add-review', async (req, res) => {
 
         // Create a new review object
         var ratingProcess = Math.floor(parseFloat(rating)).toString();
-        const newReview = { username, "rating": ratingProcess, title, content };
+        const newReview = {
+            username,
+            rating: ratingProcess,
+            title,
+            "time": formattedRequestTime,
+            type_trip,
+            content
+        };
 
         // Add the new review at the beginning of the reviews array
         attractionDetail.review.unshift(newReview);
@@ -219,8 +238,8 @@ router.post('/add-review', async (req, res) => {
  * @swagger
  * /api/top-trending-attractions:
  *   get:
- *     summary: Retrieves the top 30 trending attractions based on a weighted score
- *     description: This endpoint calculates a weighted score for attractions using their 3-star, 4-star, and 5-star ratings and returns the top 30 attractions sorted by this score.
+ *     summary: Retrieves the top 50 trending attractions based on a weighted score
+ *     description: This endpoint calculates the weighted score for attractions based on the 'weight' field and returns the top 50 attractions sorted by this score. Each attraction is the top attraction per state.
  *     tags:
  *       - Attractions
  *     responses:
@@ -251,9 +270,9 @@ router.post('/add-review', async (req, res) => {
  *                   image:
  *                     type: string
  *                     description: URL of the image representing the attraction
- *                   weightedScore:
+ *                   weight:
  *                     type: number
- *                     description: Calculated weighted score based on star ratings
+ *                     description: Calculated weight of the attraction
  *             example:
  *               - name: "Sunset Beach"
  *                 state: "California"
@@ -261,14 +280,14 @@ router.post('/add-review', async (req, res) => {
  *                 url: "http://example.com/attractions/sunset-beach"
  *                 tag: "Beach"
  *                 image: "http://example.com/images/sunset-beach.jpg"
- *                 weightedScore: 256
+ *                 weight: 98.3
  *               - name: "Historic Museum"
  *                 state: "New York"
  *                 rating: "4.2"
  *                 url: "http://example.com/attractions/historic-museum"
  *                 tag: "Museum"
  *                 image: "http://example.com/images/historic-museum.jpg"
- *                 weightedScore: 245
+ *                 weight: 92.5
  *       500:
  *         description: Server error
  *         content:
@@ -283,30 +302,19 @@ router.post('/add-review', async (req, res) => {
  *                   type: string
  *                   description: Detailed error message
  */
-// Route to get top trending attraction based on our calculation
+// Route to get top trending attractions based on our calculation
 router.get('/top-trending-attractions', async (req, res) => {
     try {
         const attractions = await AttractionDetail.aggregate([
-            {
-                $addFields: {
-                    weightedScore: {
-                        $add: [
-                            { $multiply: ["$review_score.5", 8] },
-                            { $multiply: ["$review_score.4", 5] },
-                            { $multiply: ["$review_score.3", 3] }
-                        ]
-                    }
-                }
-            },
-            { $sort: { weightedScore: -1 } },
+            { $sort: { weight: -1 } }, // Sort by weight in descending order first
             {
                 $group: {
                     _id: "$state",
-                    topAttraction: { $first: "$$ROOT" }
+                    topAttraction: { $first: "$$ROOT" } // Get the top attraction per state
                 }
             },
-            { $replaceRoot: { newRoot: "$topAttraction" } },
-            { $sort: { weightedScore: -1 } }, // Additional sort to order all top attractions
+            { $replaceRoot: { newRoot: "$topAttraction" } }, // Replace the root to make the top attraction the main document
+            { $sort: { weight: -1 } }, // Additional sort to order all top attractions by weight
             {
                 $project: {
                     _id: 0,
@@ -316,10 +324,10 @@ router.get('/top-trending-attractions', async (req, res) => {
                     url: 1,
                     tag: 1,
                     image: 1,
-                    weightedScore: 1
+                    weight: 1
                 }
             },
-            { $limit: 30 }
+            { $limit: 50 } // Limit to top 30 attractions overall
         ]);
 
         res.json(attractions);

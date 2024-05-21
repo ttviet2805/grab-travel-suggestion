@@ -15,32 +15,22 @@ const reviewSchema = new Schema({
         type: String,
         required: true
     },
+    time: String,
+    type_trip: String,
     content: {
         type: String,
         required: true
-    }
+    },
 });
 
 // Define the review score schema
 const reviewScoreSchema = new Schema({
-    "0": {
-        type: Number,
-    },
-    "1": {
-        type: Number,
-    },
-    "2": {
-        type: Number,
-    },
-    "3": {
-        type: Number,
-    },
-    "4": {
-        type: Number,
-    },
-    "5": {
-        type: Number,
-    }
+    "0": Number,
+    "1": Number,
+    "2": Number,
+    "3": Number,
+    "4": Number,
+    "5": Number
 });
 
 // Define the attraction details schema
@@ -58,19 +48,21 @@ const attractionDetailSchema = new Schema({
         required: true
     },
     rating: {
-        type: String,
+        type: Number,
         required: true
     },
     tag: {
         type: String,
         required: true
     },
+    tag_split: [String],
     num_review: {
         type: Number,
         required: true
     },
     review_score: reviewScoreSchema,
-    review: [reviewSchema]
+    review: [reviewSchema],
+    weight: Number
 }, { collection: 'attraction_detail' });
 
 // Create the model
