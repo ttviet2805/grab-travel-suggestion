@@ -137,7 +137,7 @@ async def run(query: str):
     url = "https://realtime.oxylabs.io/v1/queries"
 
     # Định nghĩa thông tin xác thực (Basic Auth)
-    credentials = ('mingming', 'Gogogogo1234')
+    credentials = ('mingmingg', 'Gogogogo1234')
 
     # Gửi POST request
     response = requests.post(url, json=payload, auth=credentials)
