@@ -39,13 +39,10 @@ training.to_json('cities.json', orient='records', lines=True, force_ascii=False)
 
 # -------------------------------------------------------------------------------
 
-# Trực quan hóa kết quả phân cụm
+# Visualization Clustering
 plt.figure(figsize=(14, 8))
 
-# Vẽ các điểm với màu sắc khác nhau dựa trên cụm
 plt.scatter(l2['longitude'], l2['latitude'], c=identified_clusters, s=50, cmap='viridis')
-
-# Vẽ các tâm cụm
 plt.scatter(centers[:, 1], centers[:, 0], c='red', s=200, alpha=0.75)
 
 plt.title('KMeans Clustering of Cities')

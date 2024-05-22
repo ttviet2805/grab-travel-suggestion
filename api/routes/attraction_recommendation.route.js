@@ -64,6 +64,7 @@ const Attraction = require('../models/Attraction');
  *                   type: string
  *                   example: "Failed to parse Python response"
  */
+// Function to find attraction by name of a state
 async function findAttractionsByState(stateName) {
     try {
         const attractions = await Attraction.find({ state: stateName }, { _id: 0, url: 0 }).limit(10);;
@@ -73,7 +74,7 @@ async function findAttractionsByState(stateName) {
     }
 }
 
-// Function to handle spawning the Python process and parsing its output
+// Function to handle spawning the Python process and get its output
 async function getRecommendations(state) {
     return new Promise((resolve, reject) => {
         const pythonProcess = spawn('python', ['./attraction_crawl/attraction_crawl.py', state]);
@@ -103,7 +104,7 @@ async function getRecommendations(state) {
     });
 }
 
-// Route to get recommendations for a state
+// GET endpoint to get recommendations for a state
 router.get('/recommendations/:state', async (req, res) => {
     const state = req.params.state;
     try {

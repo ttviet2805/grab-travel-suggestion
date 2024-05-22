@@ -130,17 +130,14 @@ async def run(query: str):
     # url = url[:index + len('Activities-')] + 'oa0-' + url[index + len('Activities-'):]
     url = 'https://www.tripadvisor.com' + url
     print("URL: " + url)
-    # Định nghĩa các thông tin cần gửi trong body của POST request
     payload = {
         "source": "universal",
         "url": url,
         "geo_location": "United States"
     }
 
-    # Đường link gửi request
     url = "https://realtime.oxylabs.io/v1/queries"
 
-    # Định nghĩa thông tin xác thực (Basic Auth)
     credentials = ('mingming', 'Gogogogo1234')
 
     response = requests.post(url, json=payload, auth=credentials)

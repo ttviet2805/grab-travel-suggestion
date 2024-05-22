@@ -1,12 +1,12 @@
-{"city":"Cho Dok","state":"An Giang","country":"Vietnam","latitude":10.7,"longitude":105.11667,"loc_clusters":11}
-{"city":"Huyện An Phú","state":"An Giang","country":"Vietnam","latitude":10.84274,"longitude":105.0899,"loc_clusters":11}
-{"city":"Huyện Châu Phú","state":"An Giang","country":"Vietnam","latitude":10.57166,"longitude":105.16991,"loc_clusters":11}
-{"city":"Huyện Chợ Mới","state":"An Giang","country":"Vietnam","latitude":10.4773,"longitude":105.49092,"loc_clusters":11}
-{"city":"Huyện Phú Tân","state":"An Giang","country":"Vietnam","latitude":10.65716,"longitude":105.28459,"loc_clusters":11}
-{"city":"Huyện Tri Tôn","state":"An Giang","country":"Vietnam","latitude":10.41416,"longitude":104.96136,"loc_clusters":17}
-{"city":"Long Xuyên","state":"An Giang","country":"Vietnam","latitude":10.38639,"longitude":105.43518,"loc_clusters":11}
-{"city":"Long Xuyên City","state":"An Giang","country":"Vietnam","latitude":10.36857,"longitude":105.4234,"loc_clusters":11}
-{"city":"Côn Sơn","state":"Bà Rịa-Vũng Tàu","country":"Vietnam","latitude":8.68641,"longitude":106.60824,"loc_clusters":2}
+{"city":"Cho Dok","state":"An Giang","country":"Vietnam","latitude":10.7,"longitude":105.11667,"loc_clusters":24}
+{"city":"Huyện An Phú","state":"An Giang","country":"Vietnam","latitude":10.84274,"longitude":105.0899,"loc_clusters":24}
+{"city":"Huyện Châu Phú","state":"An Giang","country":"Vietnam","latitude":10.57166,"longitude":105.16991,"loc_clusters":24}
+{"city":"Huyện Chợ Mới","state":"An Giang","country":"Vietnam","latitude":10.4773,"longitude":105.49092,"loc_clusters":24}
+{"city":"Huyện Phú Tân","state":"An Giang","country":"Vietnam","latitude":10.65716,"longitude":105.28459,"loc_clusters":24}
+{"city":"Huyện Tri Tôn","state":"An Giang","country":"Vietnam","latitude":10.41416,"longitude":104.96136,"loc_clusters":28}
+{"city":"Long Xuyên","state":"An Giang","country":"Vietnam","latitude":10.38639,"longitude":105.43518,"loc_clusters":24}
+{"city":"Long Xuyên City","state":"An Giang","country":"Vietnam","latitude":10.36857,"longitude":105.4234,"loc_clusters":24}
+{"city":"Côn Sơn","state":"Bà Rịa-Vũng Tàu","country":"Vietnam","latitude":8.68641,"longitude":106.60824,"loc_clusters":19}
 {"city":"Huyện Châu Đức","state":"Bà Rịa-Vũng Tàu","country":"Vietnam","latitude":10.65805,"longitude":107.25098,"loc_clusters":12}
 {"city":"Huyện Đất Đỏ","state":"Bà Rịa-Vũng Tàu","country":"Vietnam","latitude":10.48025,"longitude":107.27879,"loc_clusters":12}
 {"city":"Huyện Tân Thành","state":"Bà Rịa-Vũng Tàu","country":"Vietnam","latitude":10.57381,"longitude":107.10189,"loc_clusters":12}
@@ -14,141 +14,141 @@
 {"city":"Thành Phố Vũng Tàu","state":"Bà Rịa-Vũng Tàu","country":"Vietnam","latitude":10.40239,"longitude":107.14239,"loc_clusters":12}
 {"city":"Thị Xã Phú Mỹ","state":"Bà Rịa-Vũng Tàu","country":"Vietnam","latitude":10.56815,"longitude":107.12999,"loc_clusters":12}
 {"city":"Vũng Tàu","state":"Bà Rịa-Vũng Tàu","country":"Vietnam","latitude":10.34599,"longitude":107.08426,"loc_clusters":12}
-{"city":"Bắc Giang","state":"Bắc Giang","country":"Vietnam","latitude":21.27307,"longitude":106.1946,"loc_clusters":24}
-{"city":"Huyện Lục Nam","state":"Bắc Giang","country":"Vietnam","latitude":21.27548,"longitude":106.46519,"loc_clusters":24}
-{"city":"Huyện Lục Ngạn","state":"Bắc Giang","country":"Vietnam","latitude":21.43719,"longitude":106.65845,"loc_clusters":24}
-{"city":"Huyện Yên Thế","state":"Bắc Giang","country":"Vietnam","latitude":21.51667,"longitude":106.11689,"loc_clusters":24}
-{"city":"Bắc Kạn","state":"Bắc Kạn","country":"Vietnam","latitude":22.14701,"longitude":105.83481,"loc_clusters":18}
-{"city":"Huyện Ba Bể","state":"Bắc Kạn","country":"Vietnam","latitude":22.41667,"longitude":105.75,"loc_clusters":18}
-{"city":"Huyện Bạch Thông","state":"Bắc Kạn","country":"Vietnam","latitude":22.25758,"longitude":105.83295,"loc_clusters":18}
-{"city":"Huyện Chợ Đồn","state":"Bắc Kạn","country":"Vietnam","latitude":22.18681,"longitude":105.5728,"loc_clusters":18}
-{"city":"Huyện Na Rì","state":"Bắc Kạn","country":"Vietnam","latitude":22.17883,"longitude":106.11221,"loc_clusters":13}
-{"city":"Huyện Ngân Sơn","state":"Bắc Kạn","country":"Vietnam","latitude":22.42962,"longitude":106.0103,"loc_clusters":13}
-{"city":"Thị Xã Bắc Kạn","state":"Bắc Kạn","country":"Vietnam","latitude":22.1413,"longitude":105.83867,"loc_clusters":18}
-{"city":"Bạc Liêu","state":"Bạc Liêu","country":"Vietnam","latitude":9.29414,"longitude":105.72776,"loc_clusters":2}
-{"city":"Huyện Giá Rai","state":"Bạc Liêu","country":"Vietnam","latitude":9.27162,"longitude":105.40017,"loc_clusters":2}
-{"city":"Huyện Hồng Dân","state":"Bạc Liêu","country":"Vietnam","latitude":9.53822,"longitude":105.42242,"loc_clusters":2}
-{"city":"Bắc Ninh","state":"Bắc Ninh","country":"Vietnam","latitude":21.18608,"longitude":106.07631,"loc_clusters":24}
-{"city":"Cung Kiệm","state":"Bắc Ninh","country":"Vietnam","latitude":21.18697,"longitude":106.16076,"loc_clusters":24}
-{"city":"Huyện Gia Bình","state":"Bắc Ninh","country":"Vietnam","latitude":21.07795,"longitude":106.20903,"loc_clusters":24}
-{"city":"Huyện Thuận Thành","state":"Bắc Ninh","country":"Vietnam","latitude":21.04085,"longitude":106.07515,"loc_clusters":24}
-{"city":"Huyện Tiên Du","state":"Bắc Ninh","country":"Vietnam","latitude":21.12195,"longitude":106.03995,"loc_clusters":24}
-{"city":"Huyện Yên Phong","state":"Bắc Ninh","country":"Vietnam","latitude":21.20676,"longitude":105.99427,"loc_clusters":19}
-{"city":"Ấp Tân Ngãi","state":"Bến Tre","country":"Vietnam","latitude":10.23333,"longitude":106.28333,"loc_clusters":6}
-{"city":"Bến Tre","state":"Bến Tre","country":"Vietnam","latitude":10.24147,"longitude":106.37585,"loc_clusters":6}
-{"city":"Huyện Ba Tri","state":"Bến Tre","country":"Vietnam","latitude":10.06627,"longitude":106.60554,"loc_clusters":6}
-{"city":"Huyện Bình Đại","state":"Bến Tre","country":"Vietnam","latitude":10.19354,"longitude":106.64455,"loc_clusters":6}
-{"city":"Huyện Châu Thành","state":"Bến Tre","country":"Vietnam","latitude":10.29212,"longitude":106.30827,"loc_clusters":6}
-{"city":"Huyện Chợ Lách","state":"Bến Tre","country":"Vietnam","latitude":10.22674,"longitude":106.17077,"loc_clusters":6}
-{"city":"Huyện Giồng Trôm","state":"Bến Tre","country":"Vietnam","latitude":10.15909,"longitude":106.47004,"loc_clusters":6}
-{"city":"Huyện Thạnh Phú","state":"Bến Tre","country":"Vietnam","latitude":9.92993,"longitude":106.54316,"loc_clusters":6}
-{"city":"Dĩ An","state":"Bình Dương","country":"Vietnam","latitude":10.90682,"longitude":106.7694,"loc_clusters":12}
-{"city":"Thủ Dầu Một","state":"Bình Dương","country":"Vietnam","latitude":10.9804,"longitude":106.6519,"loc_clusters":25}
-{"city":"Huyện An Lão","state":"Bình Định","country":"Vietnam","latitude":14.55676,"longitude":108.801,"loc_clusters":4}
-{"city":"Huyện Hoài Nhơn","state":"Bình Định","country":"Vietnam","latitude":14.50535,"longitude":109.02315,"loc_clusters":26}
-{"city":"Huyện Phù Mỹ","state":"Bình Định","country":"Vietnam","latitude":14.22304,"longitude":109.08611,"loc_clusters":26}
-{"city":"Huyện Tây Sơn","state":"Bình Định","country":"Vietnam","latitude":13.94306,"longitude":108.87999,"loc_clusters":26}
-{"city":"Huyện Tuy Phước","state":"Bình Định","country":"Vietnam","latitude":13.84564,"longitude":109.15275,"loc_clusters":26}
-{"city":"Huyện Vĩnh Thạnh","state":"Bình Định","country":"Vietnam","latitude":14.211,"longitude":108.74389,"loc_clusters":26}
-{"city":"Qui Nhon","state":"Bình Định","country":"Vietnam","latitude":13.77648,"longitude":109.22367,"loc_clusters":26}
-{"city":"Bình Long","state":"Bình Phước","country":"Vietnam","latitude":11.64711,"longitude":106.60586,"loc_clusters":16}
-{"city":"Don Luan","state":"Bình Phước","country":"Vietnam","latitude":11.53495,"longitude":106.88324,"loc_clusters":16}
-{"city":"Huyện Bù Đốp","state":"Bình Phước","country":"Vietnam","latitude":12.00374,"longitude":106.81545,"loc_clusters":16}
-{"city":"Huyện Chơn Thành","state":"Bình Phước","country":"Vietnam","latitude":11.46283,"longitude":106.66655,"loc_clusters":16}
-{"city":"Huyện Đồng Phú","state":"Bình Phước","country":"Vietnam","latitude":11.50071,"longitude":107.01192,"loc_clusters":16}
-{"city":"Huyện Hớn Quản","state":"Bình Phước","country":"Vietnam","latitude":11.59718,"longitude":106.62739,"loc_clusters":16}
-{"city":"Thị Xã Phước Long","state":"Bình Phước","country":"Vietnam","latitude":11.81142,"longitude":106.9967,"loc_clusters":16}
-{"city":"Huyện Bắc Bình","state":"Bình Thuận","country":"Vietnam","latitude":11.27571,"longitude":108.38506,"loc_clusters":22}
-{"city":"Huyện Hàm Tân","state":"Bình Thuận","country":"Vietnam","latitude":10.76856,"longitude":107.64233,"loc_clusters":22}
-{"city":"Huyện Hàm Thuận Bắc","state":"Bình Thuận","country":"Vietnam","latitude":11.14703,"longitude":108.08172,"loc_clusters":22}
-{"city":"Huyện Hàm Thuận Nam","state":"Bình Thuận","country":"Vietnam","latitude":10.92101,"longitude":107.93325,"loc_clusters":22}
-{"city":"Huyện Tánh Linh","state":"Bình Thuận","country":"Vietnam","latitude":11.11367,"longitude":107.68427,"loc_clusters":22}
-{"city":"Huyện Tuy Phong","state":"Bình Thuận","country":"Vietnam","latitude":11.34746,"longitude":108.70466,"loc_clusters":22}
-{"city":"La Gi","state":"Bình Thuận","country":"Vietnam","latitude":10.65993,"longitude":107.77206,"loc_clusters":22}
-{"city":"Phan Thiết","state":"Bình Thuận","country":"Vietnam","latitude":10.92889,"longitude":108.10208,"loc_clusters":22}
-{"city":"Thành Phố Phan Thiết","state":"Bình Thuận","country":"Vietnam","latitude":10.937,"longitude":108.15778,"loc_clusters":22}
-{"city":"Cà Mau","state":"Cà Mau","country":"Vietnam","latitude":9.17682,"longitude":105.15242,"loc_clusters":2}
-{"city":"Huyện Cái Nước","state":"Cà Mau","country":"Vietnam","latitude":9.00094,"longitude":105.04201,"loc_clusters":2}
-{"city":"Huyện Đầm Dơi","state":"Cà Mau","country":"Vietnam","latitude":8.96029,"longitude":105.24107,"loc_clusters":2}
-{"city":"Huyen Nam Can","state":"Cà Mau","country":"Vietnam","latitude":8.81531,"longitude":105.05574,"loc_clusters":2}
-{"city":"Huyện Thới Bình","state":"Cà Mau","country":"Vietnam","latitude":9.3579,"longitude":105.16023,"loc_clusters":2}
-{"city":"Cần Thơ","state":"Cần Thơ","country":"Vietnam","latitude":10.11667,"longitude":105.5,"loc_clusters":11}
-{"city":"Cờ Đỏ","state":"Cần Thơ","country":"Vietnam","latitude":10.09472222,"longitude":105.43194444,"loc_clusters":11}
-{"city":"Thới Lai","state":"Cần Thơ","country":"Vietnam","latitude":10.06305556,"longitude":105.56083333,"loc_clusters":11}
-{"city":"Vĩnh Thạnh","state":"Cần Thơ","country":"Vietnam","latitude":10.21916667,"longitude":105.40111111,"loc_clusters":11}
-{"city":"Cao Bằng","state":"Cao Bằng","country":"Vietnam","latitude":22.66568,"longitude":106.25786,"loc_clusters":13}
-{"city":"Huyện Bảo Lac","state":"Cao Bằng","country":"Vietnam","latitude":22.90085,"longitude":105.73332,"loc_clusters":18}
-{"city":"Huyện Bảo Lâm","state":"Cao Bằng","country":"Vietnam","latitude":22.87041,"longitude":105.4878,"loc_clusters":18}
-{"city":"Huyện Hạ Lang","state":"Cao Bằng","country":"Vietnam","latitude":22.70933,"longitude":106.67657,"loc_clusters":13}
-{"city":"Huyện Hà Quảng","state":"Cao Bằng","country":"Vietnam","latitude":22.90763,"longitude":106.12487,"loc_clusters":13}
-{"city":"Huyện Nguyên Bình","state":"Cao Bằng","country":"Vietnam","latitude":22.624,"longitude":105.93248,"loc_clusters":13}
-{"city":"Huyen Phuc Hoa","state":"Cao Bằng","country":"Vietnam","latitude":22.5384,"longitude":106.51039,"loc_clusters":13}
-{"city":"Huyện Thạch An","state":"Cao Bằng","country":"Vietnam","latitude":22.47654,"longitude":106.34237,"loc_clusters":13}
-{"city":"Huyện Thông Nông","state":"Cao Bằng","country":"Vietnam","latitude":22.80735,"longitude":105.95846,"loc_clusters":13}
-{"city":"Huyện Trà Lĩnh","state":"Cao Bằng","country":"Vietnam","latitude":22.80961,"longitude":106.32543,"loc_clusters":13}
-{"city":"Huyện Trùng Khánh","state":"Cao Bằng","country":"Vietnam","latitude":22.83333,"longitude":106.56074,"loc_clusters":13}
-{"city":"Da Nang","state":"Đà Nẵng","country":"Vietnam","latitude":16.06778,"longitude":108.22083,"loc_clusters":28}
-{"city":"Buôn Ma Thuột","state":"Đắk Lắk","country":"Vietnam","latitude":12.66747,"longitude":108.03775,"loc_clusters":1}
-{"city":"Huyện Buôn Đôn","state":"Đắk Lắk","country":"Vietnam","latitude":12.90396,"longitude":107.7387,"loc_clusters":8}
-{"city":"Huyện Ea H'Leo","state":"Đắk Lắk","country":"Vietnam","latitude":13.31814,"longitude":108.07148,"loc_clusters":8}
-{"city":"Huyện Ea Súp","state":"Đắk Lắk","country":"Vietnam","latitude":13.18279,"longitude":107.79954,"loc_clusters":8}
-{"city":"Huyện Cư Jút","state":"Đắk Nông","country":"Vietnam","latitude":12.69591,"longitude":107.76316,"loc_clusters":1}
-{"city":"Huyện Đắk R’Lấp","state":"Đắk Nông","country":"Vietnam","latitude":11.8799,"longitude":107.52244,"loc_clusters":1}
-{"city":"Huyện Krông Nô","state":"Đắk Nông","country":"Vietnam","latitude":12.36285,"longitude":107.83445,"loc_clusters":1}
-{"city":"Dien Bien Phu","state":"Điện Biên","country":"Vietnam","latitude":21.38602,"longitude":103.02301,"loc_clusters":9}
-{"city":"Huyện Điện Biên Đông","state":"Điện Biên","country":"Vietnam","latitude":21.25266,"longitude":103.269,"loc_clusters":9}
-{"city":"Huyện Mường Nhé","state":"Điện Biên","country":"Vietnam","latitude":22.10353,"longitude":102.58465,"loc_clusters":9}
-{"city":"Huyện Tủa Chùa","state":"Điện Biên","country":"Vietnam","latitude":21.95357,"longitude":103.37332,"loc_clusters":9}
-{"city":"Huyện Tuần Giáo","state":"Điện Biên","country":"Vietnam","latitude":21.69481,"longitude":103.41758,"loc_clusters":9}
-{"city":"Thị Xã Mưòng Lay","state":"Điện Biên","country":"Vietnam","latitude":22.03374,"longitude":103.12331,"loc_clusters":9}
-{"city":"Biên Hòa","state":"Đồng Nai","country":"Vietnam","latitude":10.94469,"longitude":106.82432,"loc_clusters":12}
-{"city":"Huyện Định Quán","state":"Đồng Nai","country":"Vietnam","latitude":11.21866,"longitude":107.33959,"loc_clusters":16}
+{"city":"Bắc Giang","state":"Bắc Giang","country":"Vietnam","latitude":21.27307,"longitude":106.1946,"loc_clusters":7}
+{"city":"Huyện Lục Nam","state":"Bắc Giang","country":"Vietnam","latitude":21.27548,"longitude":106.46519,"loc_clusters":7}
+{"city":"Huyện Lục Ngạn","state":"Bắc Giang","country":"Vietnam","latitude":21.43719,"longitude":106.65845,"loc_clusters":7}
+{"city":"Huyện Yên Thế","state":"Bắc Giang","country":"Vietnam","latitude":21.51667,"longitude":106.11689,"loc_clusters":7}
+{"city":"Bắc Kạn","state":"Bắc Kạn","country":"Vietnam","latitude":22.14701,"longitude":105.83481,"loc_clusters":6}
+{"city":"Huyện Ba Bể","state":"Bắc Kạn","country":"Vietnam","latitude":22.41667,"longitude":105.75,"loc_clusters":6}
+{"city":"Huyện Bạch Thông","state":"Bắc Kạn","country":"Vietnam","latitude":22.25758,"longitude":105.83295,"loc_clusters":6}
+{"city":"Huyện Chợ Đồn","state":"Bắc Kạn","country":"Vietnam","latitude":22.18681,"longitude":105.5728,"loc_clusters":15}
+{"city":"Huyện Na Rì","state":"Bắc Kạn","country":"Vietnam","latitude":22.17883,"longitude":106.11221,"loc_clusters":6}
+{"city":"Huyện Ngân Sơn","state":"Bắc Kạn","country":"Vietnam","latitude":22.42962,"longitude":106.0103,"loc_clusters":6}
+{"city":"Thị Xã Bắc Kạn","state":"Bắc Kạn","country":"Vietnam","latitude":22.1413,"longitude":105.83867,"loc_clusters":6}
+{"city":"Bạc Liêu","state":"Bạc Liêu","country":"Vietnam","latitude":9.29414,"longitude":105.72776,"loc_clusters":19}
+{"city":"Huyện Giá Rai","state":"Bạc Liêu","country":"Vietnam","latitude":9.27162,"longitude":105.40017,"loc_clusters":10}
+{"city":"Huyện Hồng Dân","state":"Bạc Liêu","country":"Vietnam","latitude":9.53822,"longitude":105.42242,"loc_clusters":10}
+{"city":"Bắc Ninh","state":"Bắc Ninh","country":"Vietnam","latitude":21.18608,"longitude":106.07631,"loc_clusters":7}
+{"city":"Cung Kiệm","state":"Bắc Ninh","country":"Vietnam","latitude":21.18697,"longitude":106.16076,"loc_clusters":7}
+{"city":"Huyện Gia Bình","state":"Bắc Ninh","country":"Vietnam","latitude":21.07795,"longitude":106.20903,"loc_clusters":7}
+{"city":"Huyện Thuận Thành","state":"Bắc Ninh","country":"Vietnam","latitude":21.04085,"longitude":106.07515,"loc_clusters":7}
+{"city":"Huyện Tiên Du","state":"Bắc Ninh","country":"Vietnam","latitude":21.12195,"longitude":106.03995,"loc_clusters":7}
+{"city":"Huyện Yên Phong","state":"Bắc Ninh","country":"Vietnam","latitude":21.20676,"longitude":105.99427,"loc_clusters":7}
+{"city":"Ấp Tân Ngãi","state":"Bến Tre","country":"Vietnam","latitude":10.23333,"longitude":106.28333,"loc_clusters":3}
+{"city":"Bến Tre","state":"Bến Tre","country":"Vietnam","latitude":10.24147,"longitude":106.37585,"loc_clusters":3}
+{"city":"Huyện Ba Tri","state":"Bến Tre","country":"Vietnam","latitude":10.06627,"longitude":106.60554,"loc_clusters":3}
+{"city":"Huyện Bình Đại","state":"Bến Tre","country":"Vietnam","latitude":10.19354,"longitude":106.64455,"loc_clusters":3}
+{"city":"Huyện Châu Thành","state":"Bến Tre","country":"Vietnam","latitude":10.29212,"longitude":106.30827,"loc_clusters":3}
+{"city":"Huyện Chợ Lách","state":"Bến Tre","country":"Vietnam","latitude":10.22674,"longitude":106.17077,"loc_clusters":3}
+{"city":"Huyện Giồng Trôm","state":"Bến Tre","country":"Vietnam","latitude":10.15909,"longitude":106.47004,"loc_clusters":3}
+{"city":"Huyện Thạnh Phú","state":"Bến Tre","country":"Vietnam","latitude":9.92993,"longitude":106.54316,"loc_clusters":3}
+{"city":"Dĩ An","state":"Bình Dương","country":"Vietnam","latitude":10.90682,"longitude":106.7694,"loc_clusters":13}
+{"city":"Thủ Dầu Một","state":"Bình Dương","country":"Vietnam","latitude":10.9804,"longitude":106.6519,"loc_clusters":13}
+{"city":"Huyện An Lão","state":"Bình Định","country":"Vietnam","latitude":14.55676,"longitude":108.801,"loc_clusters":20}
+{"city":"Huyện Hoài Nhơn","state":"Bình Định","country":"Vietnam","latitude":14.50535,"longitude":109.02315,"loc_clusters":20}
+{"city":"Huyện Phù Mỹ","state":"Bình Định","country":"Vietnam","latitude":14.22304,"longitude":109.08611,"loc_clusters":8}
+{"city":"Huyện Tây Sơn","state":"Bình Định","country":"Vietnam","latitude":13.94306,"longitude":108.87999,"loc_clusters":8}
+{"city":"Huyện Tuy Phước","state":"Bình Định","country":"Vietnam","latitude":13.84564,"longitude":109.15275,"loc_clusters":8}
+{"city":"Huyện Vĩnh Thạnh","state":"Bình Định","country":"Vietnam","latitude":14.211,"longitude":108.74389,"loc_clusters":8}
+{"city":"Qui Nhon","state":"Bình Định","country":"Vietnam","latitude":13.77648,"longitude":109.22367,"loc_clusters":8}
+{"city":"Bình Long","state":"Bình Phước","country":"Vietnam","latitude":11.64711,"longitude":106.60586,"loc_clusters":13}
+{"city":"Don Luan","state":"Bình Phước","country":"Vietnam","latitude":11.53495,"longitude":106.88324,"loc_clusters":26}
+{"city":"Huyện Bù Đốp","state":"Bình Phước","country":"Vietnam","latitude":12.00374,"longitude":106.81545,"loc_clusters":26}
+{"city":"Huyện Chơn Thành","state":"Bình Phước","country":"Vietnam","latitude":11.46283,"longitude":106.66655,"loc_clusters":13}
+{"city":"Huyện Đồng Phú","state":"Bình Phước","country":"Vietnam","latitude":11.50071,"longitude":107.01192,"loc_clusters":26}
+{"city":"Huyện Hớn Quản","state":"Bình Phước","country":"Vietnam","latitude":11.59718,"longitude":106.62739,"loc_clusters":13}
+{"city":"Thị Xã Phước Long","state":"Bình Phước","country":"Vietnam","latitude":11.81142,"longitude":106.9967,"loc_clusters":26}
+{"city":"Huyện Bắc Bình","state":"Bình Thuận","country":"Vietnam","latitude":11.27571,"longitude":108.38506,"loc_clusters":0}
+{"city":"Huyện Hàm Tân","state":"Bình Thuận","country":"Vietnam","latitude":10.76856,"longitude":107.64233,"loc_clusters":12}
+{"city":"Huyện Hàm Thuận Bắc","state":"Bình Thuận","country":"Vietnam","latitude":11.14703,"longitude":108.08172,"loc_clusters":0}
+{"city":"Huyện Hàm Thuận Nam","state":"Bình Thuận","country":"Vietnam","latitude":10.92101,"longitude":107.93325,"loc_clusters":0}
+{"city":"Huyện Tánh Linh","state":"Bình Thuận","country":"Vietnam","latitude":11.11367,"longitude":107.68427,"loc_clusters":26}
+{"city":"Huyện Tuy Phong","state":"Bình Thuận","country":"Vietnam","latitude":11.34746,"longitude":108.70466,"loc_clusters":0}
+{"city":"La Gi","state":"Bình Thuận","country":"Vietnam","latitude":10.65993,"longitude":107.77206,"loc_clusters":12}
+{"city":"Phan Thiết","state":"Bình Thuận","country":"Vietnam","latitude":10.92889,"longitude":108.10208,"loc_clusters":0}
+{"city":"Thành Phố Phan Thiết","state":"Bình Thuận","country":"Vietnam","latitude":10.937,"longitude":108.15778,"loc_clusters":0}
+{"city":"Cà Mau","state":"Cà Mau","country":"Vietnam","latitude":9.17682,"longitude":105.15242,"loc_clusters":10}
+{"city":"Huyện Cái Nước","state":"Cà Mau","country":"Vietnam","latitude":9.00094,"longitude":105.04201,"loc_clusters":10}
+{"city":"Huyện Đầm Dơi","state":"Cà Mau","country":"Vietnam","latitude":8.96029,"longitude":105.24107,"loc_clusters":10}
+{"city":"Huyen Nam Can","state":"Cà Mau","country":"Vietnam","latitude":8.81531,"longitude":105.05574,"loc_clusters":10}
+{"city":"Huyện Thới Bình","state":"Cà Mau","country":"Vietnam","latitude":9.3579,"longitude":105.16023,"loc_clusters":10}
+{"city":"Cần Thơ","state":"Cần Thơ","country":"Vietnam","latitude":10.11667,"longitude":105.5,"loc_clusters":28}
+{"city":"Cờ Đỏ","state":"Cần Thơ","country":"Vietnam","latitude":10.09472222,"longitude":105.43194444,"loc_clusters":28}
+{"city":"Thới Lai","state":"Cần Thơ","country":"Vietnam","latitude":10.06305556,"longitude":105.56083333,"loc_clusters":28}
+{"city":"Vĩnh Thạnh","state":"Cần Thơ","country":"Vietnam","latitude":10.21916667,"longitude":105.40111111,"loc_clusters":28}
+{"city":"Cao Bằng","state":"Cao Bằng","country":"Vietnam","latitude":22.66568,"longitude":106.25786,"loc_clusters":6}
+{"city":"Huyện Bảo Lac","state":"Cao Bằng","country":"Vietnam","latitude":22.90085,"longitude":105.73332,"loc_clusters":6}
+{"city":"Huyện Bảo Lâm","state":"Cao Bằng","country":"Vietnam","latitude":22.87041,"longitude":105.4878,"loc_clusters":15}
+{"city":"Huyện Hạ Lang","state":"Cao Bằng","country":"Vietnam","latitude":22.70933,"longitude":106.67657,"loc_clusters":6}
+{"city":"Huyện Hà Quảng","state":"Cao Bằng","country":"Vietnam","latitude":22.90763,"longitude":106.12487,"loc_clusters":6}
+{"city":"Huyện Nguyên Bình","state":"Cao Bằng","country":"Vietnam","latitude":22.624,"longitude":105.93248,"loc_clusters":6}
+{"city":"Huyen Phuc Hoa","state":"Cao Bằng","country":"Vietnam","latitude":22.5384,"longitude":106.51039,"loc_clusters":6}
+{"city":"Huyện Thạch An","state":"Cao Bằng","country":"Vietnam","latitude":22.47654,"longitude":106.34237,"loc_clusters":6}
+{"city":"Huyện Thông Nông","state":"Cao Bằng","country":"Vietnam","latitude":22.80735,"longitude":105.95846,"loc_clusters":6}
+{"city":"Huyện Trà Lĩnh","state":"Cao Bằng","country":"Vietnam","latitude":22.80961,"longitude":106.32543,"loc_clusters":6}
+{"city":"Huyện Trùng Khánh","state":"Cao Bằng","country":"Vietnam","latitude":22.83333,"longitude":106.56074,"loc_clusters":6}
+{"city":"Da Nang","state":"Đà Nẵng","country":"Vietnam","latitude":16.06778,"longitude":108.22083,"loc_clusters":2}
+{"city":"Buôn Ma Thuột","state":"Đắk Lắk","country":"Vietnam","latitude":12.66747,"longitude":108.03775,"loc_clusters":17}
+{"city":"Huyện Buôn Đôn","state":"Đắk Lắk","country":"Vietnam","latitude":12.90396,"longitude":107.7387,"loc_clusters":17}
+{"city":"Huyện Ea H'Leo","state":"Đắk Lắk","country":"Vietnam","latitude":13.31814,"longitude":108.07148,"loc_clusters":17}
+{"city":"Huyện Ea Súp","state":"Đắk Lắk","country":"Vietnam","latitude":13.18279,"longitude":107.79954,"loc_clusters":17}
+{"city":"Huyện Cư Jút","state":"Đắk Nông","country":"Vietnam","latitude":12.69591,"longitude":107.76316,"loc_clusters":17}
+{"city":"Huyện Đắk R’Lấp","state":"Đắk Nông","country":"Vietnam","latitude":11.8799,"longitude":107.52244,"loc_clusters":26}
+{"city":"Huyện Krông Nô","state":"Đắk Nông","country":"Vietnam","latitude":12.36285,"longitude":107.83445,"loc_clusters":17}
+{"city":"Dien Bien Phu","state":"Điện Biên","country":"Vietnam","latitude":21.38602,"longitude":103.02301,"loc_clusters":22}
+{"city":"Huyện Điện Biên Đông","state":"Điện Biên","country":"Vietnam","latitude":21.25266,"longitude":103.269,"loc_clusters":22}
+{"city":"Huyện Mường Nhé","state":"Điện Biên","country":"Vietnam","latitude":22.10353,"longitude":102.58465,"loc_clusters":22}
+{"city":"Huyện Tủa Chùa","state":"Điện Biên","country":"Vietnam","latitude":21.95357,"longitude":103.37332,"loc_clusters":22}
+{"city":"Huyện Tuần Giáo","state":"Điện Biên","country":"Vietnam","latitude":21.69481,"longitude":103.41758,"loc_clusters":22}
+{"city":"Thị Xã Mưòng Lay","state":"Điện Biên","country":"Vietnam","latitude":22.03374,"longitude":103.12331,"loc_clusters":22}
+{"city":"Biên Hòa","state":"Đồng Nai","country":"Vietnam","latitude":10.94469,"longitude":106.82432,"loc_clusters":13}
+{"city":"Huyện Định Quán","state":"Đồng Nai","country":"Vietnam","latitude":11.21866,"longitude":107.33959,"loc_clusters":26}
 {"city":"Huyện Long Thành","state":"Đồng Nai","country":"Vietnam","latitude":10.76162,"longitude":107.02688,"loc_clusters":12}
-{"city":"Huyện Tân Phú","state":"Đồng Nai","country":"Vietnam","latitude":11.39867,"longitude":107.39976,"loc_clusters":16}
+{"city":"Huyện Tân Phú","state":"Đồng Nai","country":"Vietnam","latitude":11.39867,"longitude":107.39976,"loc_clusters":26}
 {"city":"Huyện Thống Nhất","state":"Đồng Nai","country":"Vietnam","latitude":10.97764,"longitude":107.15909,"loc_clusters":12}
 {"city":"Huyện Trảng Bom","state":"Đồng Nai","country":"Vietnam","latitude":10.96624,"longitude":107.03614,"loc_clusters":12}
-{"city":"Huyện Vĩnh Cửu","state":"Đồng Nai","country":"Vietnam","latitude":11.25725,"longitude":107.02773,"loc_clusters":16}
-{"city":"Cao Lãnh","state":"Đồng Tháp","country":"Vietnam","latitude":10.46017,"longitude":105.63294,"loc_clusters":11}
-{"city":"Huyện Châu Thành","state":"Đồng Tháp","country":"Vietnam","latitude":10.22543,"longitude":105.8238,"loc_clusters":11}
-{"city":"Huyện Lai Vung","state":"Đồng Tháp","country":"Vietnam","latitude":10.24051,"longitude":105.66327,"loc_clusters":11}
-{"city":"Huyện Lấp Vò","state":"Đồng Tháp","country":"Vietnam","latitude":10.35918,"longitude":105.60611,"loc_clusters":11}
-{"city":"Huyện Tam Nông","state":"Đồng Tháp","country":"Vietnam","latitude":10.72761,"longitude":105.52522,"loc_clusters":11}
-{"city":"Huyện Tân Hồng","state":"Đồng Tháp","country":"Vietnam","latitude":10.87089,"longitude":105.49104,"loc_clusters":11}
-{"city":"Huyện Thanh Bình","state":"Đồng Tháp","country":"Vietnam","latitude":10.60137,"longitude":105.47811,"loc_clusters":11}
-{"city":"Huyện Tháp Mười","state":"Đồng Tháp","country":"Vietnam","latitude":10.54398,"longitude":105.81875,"loc_clusters":11}
-{"city":"Sa Dec","state":"Đồng Tháp","country":"Vietnam","latitude":10.29085,"longitude":105.75635,"loc_clusters":11}
-{"city":"Sa Dec city","state":"Đồng Tháp","country":"Vietnam","latitude":10.3055,"longitude":105.74757,"loc_clusters":11}
-{"city":"Thị Trấn Tân Thành","state":"Đồng Tháp","country":"Vietnam","latitude":10.25616,"longitude":105.5928,"loc_clusters":11}
-{"city":"Huyện Chư Păh","state":"Gia Lai","country":"Vietnam","latitude":14.15941,"longitude":107.98411,"loc_clusters":29}
-{"city":"Huyện Chư Prông","state":"Gia Lai","country":"Vietnam","latitude":13.59976,"longitude":107.81099,"loc_clusters":8}
-{"city":"Huyện Chư Sê","state":"Gia Lai","country":"Vietnam","latitude":13.74254,"longitude":108.08663,"loc_clusters":8}
-{"city":"Huyện Đức Cơ","state":"Gia Lai","country":"Vietnam","latitude":13.78454,"longitude":107.6697,"loc_clusters":8}
-{"city":"Huyện Ia Grai","state":"Gia Lai","country":"Vietnam","latitude":13.98937,"longitude":107.7374,"loc_clusters":8}
-{"city":"Huyện KBang","state":"Gia Lai","country":"Vietnam","latitude":14.30506,"longitude":108.49779,"loc_clusters":26}
-{"city":"Huyện Kông Chro","state":"Gia Lai","country":"Vietnam","latitude":13.73519,"longitude":108.59697,"loc_clusters":26}
+{"city":"Huyện Vĩnh Cửu","state":"Đồng Nai","country":"Vietnam","latitude":11.25725,"longitude":107.02773,"loc_clusters":26}
+{"city":"Cao Lãnh","state":"Đồng Tháp","country":"Vietnam","latitude":10.46017,"longitude":105.63294,"loc_clusters":24}
+{"city":"Huyện Châu Thành","state":"Đồng Tháp","country":"Vietnam","latitude":10.22543,"longitude":105.8238,"loc_clusters":24}
+{"city":"Huyện Lai Vung","state":"Đồng Tháp","country":"Vietnam","latitude":10.24051,"longitude":105.66327,"loc_clusters":24}
+{"city":"Huyện Lấp Vò","state":"Đồng Tháp","country":"Vietnam","latitude":10.35918,"longitude":105.60611,"loc_clusters":24}
+{"city":"Huyện Tam Nông","state":"Đồng Tháp","country":"Vietnam","latitude":10.72761,"longitude":105.52522,"loc_clusters":24}
+{"city":"Huyện Tân Hồng","state":"Đồng Tháp","country":"Vietnam","latitude":10.87089,"longitude":105.49104,"loc_clusters":24}
+{"city":"Huyện Thanh Bình","state":"Đồng Tháp","country":"Vietnam","latitude":10.60137,"longitude":105.47811,"loc_clusters":24}
+{"city":"Huyện Tháp Mười","state":"Đồng Tháp","country":"Vietnam","latitude":10.54398,"longitude":105.81875,"loc_clusters":24}
+{"city":"Sa Dec","state":"Đồng Tháp","country":"Vietnam","latitude":10.29085,"longitude":105.75635,"loc_clusters":24}
+{"city":"Sa Dec city","state":"Đồng Tháp","country":"Vietnam","latitude":10.3055,"longitude":105.74757,"loc_clusters":24}
+{"city":"Thị Trấn Tân Thành","state":"Đồng Tháp","country":"Vietnam","latitude":10.25616,"longitude":105.5928,"loc_clusters":24}
+{"city":"Huyện Chư Păh","state":"Gia Lai","country":"Vietnam","latitude":14.15941,"longitude":107.98411,"loc_clusters":27}
+{"city":"Huyện Chư Prông","state":"Gia Lai","country":"Vietnam","latitude":13.59976,"longitude":107.81099,"loc_clusters":27}
+{"city":"Huyện Chư Sê","state":"Gia Lai","country":"Vietnam","latitude":13.74254,"longitude":108.08663,"loc_clusters":27}
+{"city":"Huyện Đức Cơ","state":"Gia Lai","country":"Vietnam","latitude":13.78454,"longitude":107.6697,"loc_clusters":27}
+{"city":"Huyện Ia Grai","state":"Gia Lai","country":"Vietnam","latitude":13.98937,"longitude":107.7374,"loc_clusters":27}
+{"city":"Huyện KBang","state":"Gia Lai","country":"Vietnam","latitude":14.30506,"longitude":108.49779,"loc_clusters":27}
+{"city":"Huyện Kông Chro","state":"Gia Lai","country":"Vietnam","latitude":13.73519,"longitude":108.59697,"loc_clusters":8}
 {"city":"Huyện Krông Pa","state":"Gia Lai","country":"Vietnam","latitude":13.23152,"longitude":108.65494,"loc_clusters":8}
-{"city":"Huyện Mang Yang","state":"Gia Lai","country":"Vietnam","latitude":13.9284,"longitude":108.30246,"loc_clusters":8}
-{"city":"Pleiku","state":"Gia Lai","country":"Vietnam","latitude":13.98333,"longitude":108.0,"loc_clusters":8}
-{"city":"Hà Giang","state":"Hà Giang","country":"Vietnam","latitude":22.82333,"longitude":104.98357,"loc_clusters":18}
-{"city":"Huyện Bắc Mê","state":"Hà Giang","country":"Vietnam","latitude":22.75477,"longitude":105.29023,"loc_clusters":18}
-{"city":"Huyện Bắc Quang","state":"Hà Giang","country":"Vietnam","latitude":22.42301,"longitude":104.91831,"loc_clusters":18}
-{"city":"Huyện Đồng Văn","state":"Hà Giang","country":"Vietnam","latitude":23.25449,"longitude":105.27626,"loc_clusters":18}
-{"city":"Huyện Quang Bình","state":"Hà Giang","country":"Vietnam","latitude":22.41507,"longitude":104.66018,"loc_clusters":20}
-{"city":"Huyện Vị Xuyên","state":"Hà Giang","country":"Vietnam","latitude":22.73096,"longitude":104.90827,"loc_clusters":18}
-{"city":"Huyện Xín Mần","state":"Hà Giang","country":"Vietnam","latitude":22.64148,"longitude":104.52089,"loc_clusters":20}
-{"city":"Huyện Yên Minh","state":"Hà Giang","country":"Vietnam","latitude":23.06992,"longitude":105.17865,"loc_clusters":18}
-{"city":"Huyện Bình Lục","state":"Hà Nam","country":"Vietnam","latitude":20.50126,"longitude":106.02959,"loc_clusters":0}
-{"city":"Huyện Duy Tiên","state":"Hà Nam","country":"Vietnam","latitude":20.62803,"longitude":105.96193,"loc_clusters":0}
-{"city":"Huyện Kim Bảng","state":"Hà Nam","country":"Vietnam","latitude":20.57254,"longitude":105.85043,"loc_clusters":0}
-{"city":"Huyện Lý Nhân","state":"Hà Nam","country":"Vietnam","latitude":20.56422,"longitude":106.09455,"loc_clusters":0}
-{"city":"Huyện Thanh Liêm","state":"Hà Nam","country":"Vietnam","latitude":20.46249,"longitude":105.921,"loc_clusters":0}
-{"city":"Phủ Lý","state":"Hà Nam","country":"Vietnam","latitude":20.54531,"longitude":105.91221,"loc_clusters":0}
-{"city":"Hà Đông","state":"Hà Nội","country":"Vietnam","latitude":20.97136,"longitude":105.77876,"loc_clusters":19}
-{"city":"Hanoi","state":"Hà Nội","country":"Vietnam","latitude":21.0245,"longitude":105.84117,"loc_clusters":19}
-{"city":"Huyện Quốc Oai","state":"Hà Nội","country":"Vietnam","latitude":20.9706,"longitude":105.61127,"loc_clusters":19}
-{"city":"Quận Ba Đình","state":"Hà Nội","country":"Vietnam","latitude":21.03587,"longitude":105.82163,"loc_clusters":19}
-{"city":"Quận Hà Đông","state":"Hà Nội","country":"Vietnam","latitude":20.95482,"longitude":105.76851,"loc_clusters":19}
-{"city":"Sơn Tây","state":"Hà Nội","country":"Vietnam","latitude":21.14053,"longitude":105.50686,"loc_clusters":19}
+{"city":"Huyện Mang Yang","state":"Gia Lai","country":"Vietnam","latitude":13.9284,"longitude":108.30246,"loc_clusters":27}
+{"city":"Pleiku","state":"Gia Lai","country":"Vietnam","latitude":13.98333,"longitude":108.0,"loc_clusters":27}
+{"city":"Hà Giang","state":"Hà Giang","country":"Vietnam","latitude":22.82333,"longitude":104.98357,"loc_clusters":15}
+{"city":"Huyện Bắc Mê","state":"Hà Giang","country":"Vietnam","latitude":22.75477,"longitude":105.29023,"loc_clusters":15}
+{"city":"Huyện Bắc Quang","state":"Hà Giang","country":"Vietnam","latitude":22.42301,"longitude":104.91831,"loc_clusters":15}
+{"city":"Huyện Đồng Văn","state":"Hà Giang","country":"Vietnam","latitude":23.25449,"longitude":105.27626,"loc_clusters":15}
+{"city":"Huyện Quang Bình","state":"Hà Giang","country":"Vietnam","latitude":22.41507,"longitude":104.66018,"loc_clusters":15}
+{"city":"Huyện Vị Xuyên","state":"Hà Giang","country":"Vietnam","latitude":22.73096,"longitude":104.90827,"loc_clusters":15}
+{"city":"Huyện Xín Mần","state":"Hà Giang","country":"Vietnam","latitude":22.64148,"longitude":104.52089,"loc_clusters":4}
+{"city":"Huyện Yên Minh","state":"Hà Giang","country":"Vietnam","latitude":23.06992,"longitude":105.17865,"loc_clusters":15}
+{"city":"Huyện Bình Lục","state":"Hà Nam","country":"Vietnam","latitude":20.50126,"longitude":106.02959,"loc_clusters":11}
+{"city":"Huyện Duy Tiên","state":"Hà Nam","country":"Vietnam","latitude":20.62803,"longitude":105.96193,"loc_clusters":11}
+{"city":"Huyện Kim Bảng","state":"Hà Nam","country":"Vietnam","latitude":20.57254,"longitude":105.85043,"loc_clusters":11}
+{"city":"Huyện Lý Nhân","state":"Hà Nam","country":"Vietnam","latitude":20.56422,"longitude":106.09455,"loc_clusters":11}
+{"city":"Huyện Thanh Liêm","state":"Hà Nam","country":"Vietnam","latitude":20.46249,"longitude":105.921,"loc_clusters":11}
+{"city":"Phủ Lý","state":"Hà Nam","country":"Vietnam","latitude":20.54531,"longitude":105.91221,"loc_clusters":11}
+{"city":"Hà Đông","state":"Hà Nội","country":"Vietnam","latitude":20.97136,"longitude":105.77876,"loc_clusters":1}
+{"city":"Hanoi","state":"Hà Nội","country":"Vietnam","latitude":21.0245,"longitude":105.84117,"loc_clusters":1}
+{"city":"Huyện Quốc Oai","state":"Hà Nội","country":"Vietnam","latitude":20.9706,"longitude":105.61127,"loc_clusters":1}
+{"city":"Quận Ba Đình","state":"Hà Nội","country":"Vietnam","latitude":21.03587,"longitude":105.82163,"loc_clusters":1}
+{"city":"Quận Hà Đông","state":"Hà Nội","country":"Vietnam","latitude":20.95482,"longitude":105.76851,"loc_clusters":1}
+{"city":"Sơn Tây","state":"Hà Nội","country":"Vietnam","latitude":21.14053,"longitude":105.50686,"loc_clusters":1}
 {"city":"Hà Tĩnh","state":"Hà Tĩnh","country":"Vietnam","latitude":18.34282,"longitude":105.90569,"loc_clusters":5}
 {"city":"Huyện Cẩm Xuyên","state":"Hà Tĩnh","country":"Vietnam","latitude":18.19059,"longitude":106.00186,"loc_clusters":5}
 {"city":"Huyện Can Lộc","state":"Hà Tĩnh","country":"Vietnam","latitude":18.44414,"longitude":105.7635,"loc_clusters":5}
@@ -156,312 +156,312 @@
 {"city":"Huyện Kỳ Anh","state":"Hà Tĩnh","country":"Vietnam","latitude":18.05805,"longitude":106.2458,"loc_clusters":5}
 {"city":"Huyện Nghi Xuân","state":"Hà Tĩnh","country":"Vietnam","latitude":18.62419,"longitude":105.76829,"loc_clusters":5}
 {"city":"Huyện Thạch Hà","state":"Hà Tĩnh","country":"Vietnam","latitude":18.35091,"longitude":105.81123,"loc_clusters":5}
-{"city":"Hải Dương","state":"Hải Dương","country":"Vietnam","latitude":20.94099,"longitude":106.33302,"loc_clusters":24}
-{"city":"Huyện Bình Giang","state":"Hải Dương","country":"Vietnam","latitude":20.87586,"longitude":106.19138,"loc_clusters":0}
-{"city":"Huyện Cẩm Giàng","state":"Hải Dương","country":"Vietnam","latitude":20.95,"longitude":106.21667,"loc_clusters":0}
-{"city":"Huyện Gia Lộc","state":"Hải Dương","country":"Vietnam","latitude":20.85164,"longitude":106.2913,"loc_clusters":0}
-{"city":"Huyện Kinh Môn","state":"Hải Dương","country":"Vietnam","latitude":21.01634,"longitude":106.50384,"loc_clusters":24}
-{"city":"Huyện Nam Sách","state":"Hải Dương","country":"Vietnam","latitude":21.00484,"longitude":106.34042,"loc_clusters":24}
-{"city":"Huyện Thanh Miện","state":"Hải Dương","country":"Vietnam","latitude":20.77953,"longitude":106.22218,"loc_clusters":0}
-{"city":"Thị Xã Chí Linh","state":"Hải Dương","country":"Vietnam","latitude":21.13722,"longitude":106.39638,"loc_clusters":24}
-{"city":"Cát Bà","state":"Hải Phòng","country":"Vietnam","latitude":20.72779,"longitude":107.04819,"loc_clusters":10}
-{"city":"Haiphong","state":"Hải Phòng","country":"Vietnam","latitude":20.86481,"longitude":106.68345,"loc_clusters":24}
-{"city":"Huyện Châu Thành A","state":"Hậu Giang","country":"Vietnam","latitude":9.93056,"longitude":105.64194,"loc_clusters":11}
-{"city":"Vị Thanh","state":"Hậu Giang","country":"Vietnam","latitude":9.78449,"longitude":105.47012,"loc_clusters":2}
+{"city":"Hải Dương","state":"Hải Dương","country":"Vietnam","latitude":20.94099,"longitude":106.33302,"loc_clusters":7}
+{"city":"Huyện Bình Giang","state":"Hải Dương","country":"Vietnam","latitude":20.87586,"longitude":106.19138,"loc_clusters":7}
+{"city":"Huyện Cẩm Giàng","state":"Hải Dương","country":"Vietnam","latitude":20.95,"longitude":106.21667,"loc_clusters":7}
+{"city":"Huyện Gia Lộc","state":"Hải Dương","country":"Vietnam","latitude":20.85164,"longitude":106.2913,"loc_clusters":7}
+{"city":"Huyện Kinh Môn","state":"Hải Dương","country":"Vietnam","latitude":21.01634,"longitude":106.50384,"loc_clusters":7}
+{"city":"Huyện Nam Sách","state":"Hải Dương","country":"Vietnam","latitude":21.00484,"longitude":106.34042,"loc_clusters":7}
+{"city":"Huyện Thanh Miện","state":"Hải Dương","country":"Vietnam","latitude":20.77953,"longitude":106.22218,"loc_clusters":11}
+{"city":"Thị Xã Chí Linh","state":"Hải Dương","country":"Vietnam","latitude":21.13722,"longitude":106.39638,"loc_clusters":7}
+{"city":"Cát Bà","state":"Hải Phòng","country":"Vietnam","latitude":20.72779,"longitude":107.04819,"loc_clusters":21}
+{"city":"Haiphong","state":"Hải Phòng","country":"Vietnam","latitude":20.86481,"longitude":106.68345,"loc_clusters":7}
+{"city":"Huyện Châu Thành A","state":"Hậu Giang","country":"Vietnam","latitude":9.93056,"longitude":105.64194,"loc_clusters":28}
+{"city":"Vị Thanh","state":"Hậu Giang","country":"Vietnam","latitude":9.78449,"longitude":105.47012,"loc_clusters":28}
 {"city":"Cần Giờ","state":"Hồ Chí Minh","country":"Vietnam","latitude":10.41115,"longitude":106.95474,"loc_clusters":12}
-{"city":"Củ Chi","state":"Hồ Chí Minh","country":"Vietnam","latitude":10.97333,"longitude":106.49325,"loc_clusters":25}
-{"city":"Ho Chi Minh City","state":"Hồ Chí Minh","country":"Vietnam","latitude":10.82302,"longitude":106.62965,"loc_clusters":25}
-{"city":"Hòa Bình","state":"Hòa Bình","country":"Vietnam","latitude":20.81717,"longitude":105.33759,"loc_clusters":19}
-{"city":"Huyện Cao Phong","state":"Hòa Bình","country":"Vietnam","latitude":20.69532,"longitude":105.33559,"loc_clusters":14}
-{"city":"Huyện Kỳ Sơn","state":"Hòa Bình","country":"Vietnam","latitude":20.89631,"longitude":105.39659,"loc_clusters":19}
-{"city":"Huyện Lạc Thủy","state":"Hòa Bình","country":"Vietnam","latitude":20.49794,"longitude":105.74092,"loc_clusters":0}
-{"city":"Huyện Lương Sơn","state":"Hòa Bình","country":"Vietnam","latitude":20.8765,"longitude":105.51219,"loc_clusters":19}
-{"city":"Huyện Tân Lạc","state":"Hòa Bình","country":"Vietnam","latitude":20.60557,"longitude":105.23399,"loc_clusters":14}
-{"city":"Hưng Yên","state":"Hưng Yên","country":"Vietnam","latitude":20.64637,"longitude":106.05112,"loc_clusters":0}
-{"city":"Huyện Ân Thi","state":"Hưng Yên","country":"Vietnam","latitude":20.81086,"longitude":106.09995,"loc_clusters":0}
-{"city":"Huyện Khoái Châu","state":"Hưng Yên","country":"Vietnam","latitude":20.8217,"longitude":105.97455,"loc_clusters":0}
-{"city":"Huyện Kim Động","state":"Hưng Yên","country":"Vietnam","latitude":20.74645,"longitude":106.03632,"loc_clusters":0}
-{"city":"Huyện Mỹ Hào","state":"Hưng Yên","country":"Vietnam","latitude":20.9321,"longitude":106.1063,"loc_clusters":0}
-{"city":"Huyện Phù Cừ","state":"Hưng Yên","country":"Vietnam","latitude":20.70997,"longitude":106.19744,"loc_clusters":0}
-{"city":"Huyện Tiên Lữ","state":"Hưng Yên","country":"Vietnam","latitude":20.6849,"longitude":106.12513,"loc_clusters":0}
-{"city":"Cam Ranh","state":"Khánh Hòa","country":"Vietnam","latitude":11.92144,"longitude":109.15913,"loc_clusters":15}
-{"city":"Huyện Diên Khánh","state":"Khánh Hòa","country":"Vietnam","latitude":12.27341,"longitude":109.0389,"loc_clusters":15}
-{"city":"Huyện Khánh Sơn","state":"Khánh Hòa","country":"Vietnam","latitude":12.02858,"longitude":108.90814,"loc_clusters":15}
-{"city":"Huyện Khánh Vĩnh","state":"Khánh Hòa","country":"Vietnam","latitude":12.30593,"longitude":108.83073,"loc_clusters":15}
-{"city":"Huyện Vạn Ninh","state":"Khánh Hòa","country":"Vietnam","latitude":12.72344,"longitude":109.24586,"loc_clusters":15}
-{"city":"Nha Trang","state":"Khánh Hòa","country":"Vietnam","latitude":12.24507,"longitude":109.19432,"loc_clusters":15}
-{"city":"Thành Phố Cam Ranh","state":"Khánh Hòa","country":"Vietnam","latitude":11.90707,"longitude":109.14861,"loc_clusters":15}
-{"city":"Thành Phố Nha Trang","state":"Khánh Hòa","country":"Vietnam","latitude":12.25458,"longitude":109.16655,"loc_clusters":15}
-{"city":"Thị Xã Ninh Hòa","state":"Khánh Hòa","country":"Vietnam","latitude":12.53796,"longitude":109.06057,"loc_clusters":15}
-{"city":"Dương Đông","state":"Kiên Giang","country":"Vietnam","latitude":10.21716,"longitude":103.95929,"loc_clusters":17}
-{"city":"Hà Tiên","state":"Kiên Giang","country":"Vietnam","latitude":10.3831,"longitude":104.48753,"loc_clusters":17}
-{"city":"Huyện An Biên","state":"Kiên Giang","country":"Vietnam","latitude":9.81291,"longitude":105.0523,"loc_clusters":17}
-{"city":"Huyện An Minh","state":"Kiên Giang","country":"Vietnam","latitude":9.66704,"longitude":104.94848,"loc_clusters":17}
-{"city":"Huyện Châu Thành","state":"Kiên Giang","country":"Vietnam","latitude":9.94372,"longitude":105.16868,"loc_clusters":17}
-{"city":"Huyện Giồng Riềng","state":"Kiên Giang","country":"Vietnam","latitude":9.91224,"longitude":105.37311,"loc_clusters":11}
-{"city":"Huyện Gò Quao","state":"Kiên Giang","country":"Vietnam","latitude":9.74027,"longitude":105.29766,"loc_clusters":2}
-{"city":"Huyện Hòn Đất","state":"Kiên Giang","country":"Vietnam","latitude":10.22908,"longitude":104.9528,"loc_clusters":17}
-{"city":"Huyện Kiên Hải","state":"Kiên Giang","country":"Vietnam","latitude":9.83971,"longitude":104.6156,"loc_clusters":17}
-{"city":"Huyện Phú Quốc","state":"Kiên Giang","country":"Vietnam","latitude":10.25516,"longitude":104.01455,"loc_clusters":17}
-{"city":"Huyện Tân Hiệp","state":"Kiên Giang","country":"Vietnam","latitude":10.0954,"longitude":105.25936,"loc_clusters":11}
-{"city":"Huyện Vĩnh Thuận","state":"Kiên Giang","country":"Vietnam","latitude":9.53306,"longitude":105.2449,"loc_clusters":2}
-{"city":"Kien Luong Town","state":"Kiên Giang","country":"Vietnam","latitude":10.24892,"longitude":104.59,"loc_clusters":17}
-{"city":"Rạch Giá","state":"Kiên Giang","country":"Vietnam","latitude":10.01245,"longitude":105.08091,"loc_clusters":17}
-{"city":"Huyện Đắk Glei","state":"Kon Tum","country":"Vietnam","latitude":15.11358,"longitude":107.75093,"loc_clusters":29}
-{"city":"Huyện Đắk Hà","state":"Kon Tum","country":"Vietnam","latitude":14.60326,"longitude":107.98547,"loc_clusters":29}
-{"city":"Huyện Đắk Tô","state":"Kon Tum","country":"Vietnam","latitude":14.70087,"longitude":107.80816,"loc_clusters":29}
-{"city":"Huyện Ia H'Drai","state":"Kon Tum","country":"Vietnam","latitude":14.06032,"longitude":107.46243,"loc_clusters":29}
-{"city":"Huyện Kon Plông","state":"Kon Tum","country":"Vietnam","latitude":14.7562,"longitude":108.32057,"loc_clusters":4}
-{"city":"Huyện Ngọc Hồi","state":"Kon Tum","country":"Vietnam","latitude":14.7194,"longitude":107.62636,"loc_clusters":29}
-{"city":"Huyện Sa Thầy","state":"Kon Tum","country":"Vietnam","latitude":14.3205,"longitude":107.59862,"loc_clusters":29}
-{"city":"Kon Tum","state":"Kon Tum","country":"Vietnam","latitude":14.35451,"longitude":108.00759,"loc_clusters":29}
-{"city":"Huyện Mưòng Tè","state":"Lai Châu","country":"Vietnam","latitude":22.37443,"longitude":102.73835,"loc_clusters":9}
-{"city":"Huyện Tam Đường","state":"Lai Châu","country":"Vietnam","latitude":22.35391,"longitude":103.59342,"loc_clusters":20}
-{"city":"Huyện Than Uyên","state":"Lai Châu","country":"Vietnam","latitude":21.91424,"longitude":103.82857,"loc_clusters":9}
-{"city":"Bảo Lộc","state":"Lâm Đồng","country":"Vietnam","latitude":11.54798,"longitude":107.80772,"loc_clusters":1}
-{"city":"Đam Rong","state":"Lâm Đồng","country":"Vietnam","latitude":12.05409,"longitude":108.14941,"loc_clusters":1}
-{"city":"Đinh Văn","state":"Lâm Đồng","country":"Vietnam","latitude":11.78624,"longitude":108.24282,"loc_clusters":1}
-{"city":"Đưc Trọng","state":"Lâm Đồng","country":"Vietnam","latitude":11.73559,"longitude":108.3733,"loc_clusters":1}
-{"city":"Ðà Lạt","state":"Lâm Đồng","country":"Vietnam","latitude":11.94646,"longitude":108.44193,"loc_clusters":1}
-{"city":"Huyện Bảo Lâm","state":"Lâm Đồng","country":"Vietnam","latitude":11.71163,"longitude":107.75338,"loc_clusters":1}
-{"city":"Huyện Đạ Huoai","state":"Lâm Đồng","country":"Vietnam","latitude":11.42465,"longitude":107.63825,"loc_clusters":22}
-{"city":"Huyện Đạ Tẻh","state":"Lâm Đồng","country":"Vietnam","latitude":11.58446,"longitude":107.52792,"loc_clusters":1}
-{"city":"Huyện Đơn Dương","state":"Lâm Đồng","country":"Vietnam","latitude":11.75308,"longitude":108.55397,"loc_clusters":1}
-{"city":"Huyện Đức Trọng","state":"Lâm Đồng","country":"Vietnam","latitude":11.62686,"longitude":108.3533,"loc_clusters":1}
-{"city":"Huyện Lâm Hà","state":"Lâm Đồng","country":"Vietnam","latitude":11.8189,"longitude":108.21215,"loc_clusters":1}
-{"city":"Huyện Bắc Sơn","state":"Lạng Sơn","country":"Vietnam","latitude":21.83801,"longitude":106.2769,"loc_clusters":24}
-{"city":"Huyện Bình Gia","state":"Lạng Sơn","country":"Vietnam","latitude":22.07281,"longitude":106.3041,"loc_clusters":13}
-{"city":"Huyện Cao Lộc","state":"Lạng Sơn","country":"Vietnam","latitude":21.89857,"longitude":106.85435,"loc_clusters":24}
-{"city":"Huyện Chi Lăng","state":"Lạng Sơn","country":"Vietnam","latitude":21.67602,"longitude":106.62925,"loc_clusters":24}
-{"city":"Huyện Đình Lập","state":"Lạng Sơn","country":"Vietnam","latitude":21.5421,"longitude":107.12925,"loc_clusters":10}
-{"city":"Huyện Hũu Lũng","state":"Lạng Sơn","country":"Vietnam","latitude":21.54474,"longitude":106.34386,"loc_clusters":24}
-{"city":"Huyện Vặn Quan","state":"Lạng Sơn","country":"Vietnam","latitude":21.83333,"longitude":106.54942,"loc_clusters":24}
-{"city":"Lạng Sơn","state":"Lạng Sơn","country":"Vietnam","latitude":21.85264,"longitude":106.76101,"loc_clusters":24}
-{"city":"Huyện Bắc Hà","state":"Lào Cai","country":"Vietnam","latitude":22.50998,"longitude":104.30769,"loc_clusters":20}
-{"city":"Huyện Bảo Yên","state":"Lào Cai","country":"Vietnam","latitude":22.26109,"longitude":104.46424,"loc_clusters":20}
-{"city":"Huyện Bát Xát","state":"Lào Cai","country":"Vietnam","latitude":22.56767,"longitude":103.71339,"loc_clusters":20}
-{"city":"Huyện Mường Khương","state":"Lào Cai","country":"Vietnam","latitude":22.67111,"longitude":104.11772,"loc_clusters":20}
-{"city":"Huyện Sa Pa","state":"Lào Cai","country":"Vietnam","latitude":22.33769,"longitude":103.84037,"loc_clusters":20}
-{"city":"Huyện Si Ma Cai","state":"Lào Cai","country":"Vietnam","latitude":22.67161,"longitude":104.27326,"loc_clusters":20}
-{"city":"Huyện Văn Bàn","state":"Lào Cai","country":"Vietnam","latitude":22.07002,"longitude":104.18122,"loc_clusters":20}
-{"city":"Lào Cai","state":"Lào Cai","country":"Vietnam","latitude":22.48556,"longitude":103.97066,"loc_clusters":20}
-{"city":"Lao Chải","state":"Lào Cai","country":"Vietnam","latitude":22.31377,"longitude":103.86844,"loc_clusters":20}
-{"city":"Sa Pa","state":"Lào Cai","country":"Vietnam","latitude":22.34023,"longitude":103.84415,"loc_clusters":20}
-{"city":"Cần Giuộc","state":"Long An","country":"Vietnam","latitude":10.60857,"longitude":106.67135,"loc_clusters":12}
-{"city":"Huyện Bến Lức","state":"Long An","country":"Vietnam","latitude":10.68858,"longitude":106.45484,"loc_clusters":25}
-{"city":"Huyện Cần Đước","state":"Long An","country":"Vietnam","latitude":10.54148,"longitude":106.59636,"loc_clusters":12}
-{"city":"Huyện Cần Giuộc","state":"Long An","country":"Vietnam","latitude":10.57742,"longitude":106.67279,"loc_clusters":12}
-{"city":"Huyện Châu Thành","state":"Long An","country":"Vietnam","latitude":10.45214,"longitude":106.49015,"loc_clusters":6}
-{"city":"Huyện Đức Hòa","state":"Long An","country":"Vietnam","latitude":10.87838,"longitude":106.42422,"loc_clusters":25}
-{"city":"Huyện Đức Huệ","state":"Long An","country":"Vietnam","latitude":10.86473,"longitude":106.25914,"loc_clusters":25}
-{"city":"Huyện Mộc Hóa","state":"Long An","country":"Vietnam","latitude":10.75166,"longitude":106.01729,"loc_clusters":25}
-{"city":"Huyện Tân Hưng","state":"Long An","country":"Vietnam","latitude":10.8338,"longitude":105.68848,"loc_clusters":11}
-{"city":"Huyện Tân Thạnh","state":"Long An","country":"Vietnam","latitude":10.60351,"longitude":105.96576,"loc_clusters":11}
-{"city":"Huyện Tân Trụ","state":"Long An","country":"Vietnam","latitude":10.53182,"longitude":106.51644,"loc_clusters":6}
-{"city":"Huyện Thạnh Hóa","state":"Long An","country":"Vietnam","latitude":10.66667,"longitude":106.16667,"loc_clusters":25}
-{"city":"Huyện Thủ Thừa","state":"Long An","country":"Vietnam","latitude":10.65639,"longitude":106.3458,"loc_clusters":25}
-{"city":"Huyện Vĩnh Hưng","state":"Long An","country":"Vietnam","latitude":10.88299,"longitude":105.80364,"loc_clusters":25}
-{"city":"Tân An","state":"Long An","country":"Vietnam","latitude":10.53589,"longitude":106.41366,"loc_clusters":6}
-{"city":"Huyện Giao Thủy","state":"Nam Định","country":"Vietnam","latitude":20.25706,"longitude":106.46245,"loc_clusters":0}
-{"city":"Huyện Hải Hậu","state":"Nam Định","country":"Vietnam","latitude":20.15057,"longitude":106.27161,"loc_clusters":0}
-{"city":"Huyện Mỹ Lộc","state":"Nam Định","country":"Vietnam","latitude":20.46079,"longitude":106.12319,"loc_clusters":0}
-{"city":"Huyện Nam Trực","state":"Nam Định","country":"Vietnam","latitude":20.34106,"longitude":106.20821,"loc_clusters":0}
-{"city":"Huyện Nghĩa Hưng","state":"Nam Định","country":"Vietnam","latitude":20.10598,"longitude":106.17345,"loc_clusters":27}
-{"city":"Huyện Trực Ninh","state":"Nam Định","country":"Vietnam","latitude":20.2569,"longitude":106.24582,"loc_clusters":0}
-{"city":"Huyện Vụ Bản","state":"Nam Định","country":"Vietnam","latitude":20.37705,"longitude":106.09707,"loc_clusters":0}
-{"city":"Huyện Ý Yên","state":"Nam Định","country":"Vietnam","latitude":20.31669,"longitude":106.02327,"loc_clusters":0}
-{"city":"Nam Định","state":"Nam Định","country":"Vietnam","latitude":20.43389,"longitude":106.17729,"loc_clusters":0}
-{"city":"Huyện Anh Sơn","state":"Nghệ An","country":"Vietnam","latitude":18.92902,"longitude":105.08294,"loc_clusters":23}
-{"city":"Huyện Con Cuông","state":"Nghệ An","country":"Vietnam","latitude":19.03898,"longitude":104.80353,"loc_clusters":23}
-{"city":"Huyện Diễn Châu","state":"Nghệ An","country":"Vietnam","latitude":18.98892,"longitude":105.57625,"loc_clusters":23}
-{"city":"Huyện Đô Lương","state":"Nghệ An","country":"Vietnam","latitude":18.89259,"longitude":105.34027,"loc_clusters":23}
+{"city":"Củ Chi","state":"Hồ Chí Minh","country":"Vietnam","latitude":10.97333,"longitude":106.49325,"loc_clusters":13}
+{"city":"Ho Chi Minh City","state":"Hồ Chí Minh","country":"Vietnam","latitude":10.82302,"longitude":106.62965,"loc_clusters":13}
+{"city":"Hòa Bình","state":"Hòa Bình","country":"Vietnam","latitude":20.81717,"longitude":105.33759,"loc_clusters":1}
+{"city":"Huyện Cao Phong","state":"Hòa Bình","country":"Vietnam","latitude":20.69532,"longitude":105.33559,"loc_clusters":1}
+{"city":"Huyện Kỳ Sơn","state":"Hòa Bình","country":"Vietnam","latitude":20.89631,"longitude":105.39659,"loc_clusters":1}
+{"city":"Huyện Lạc Thủy","state":"Hòa Bình","country":"Vietnam","latitude":20.49794,"longitude":105.74092,"loc_clusters":11}
+{"city":"Huyện Lương Sơn","state":"Hòa Bình","country":"Vietnam","latitude":20.8765,"longitude":105.51219,"loc_clusters":1}
+{"city":"Huyện Tân Lạc","state":"Hòa Bình","country":"Vietnam","latitude":20.60557,"longitude":105.23399,"loc_clusters":23}
+{"city":"Hưng Yên","state":"Hưng Yên","country":"Vietnam","latitude":20.64637,"longitude":106.05112,"loc_clusters":11}
+{"city":"Huyện Ân Thi","state":"Hưng Yên","country":"Vietnam","latitude":20.81086,"longitude":106.09995,"loc_clusters":11}
+{"city":"Huyện Khoái Châu","state":"Hưng Yên","country":"Vietnam","latitude":20.8217,"longitude":105.97455,"loc_clusters":11}
+{"city":"Huyện Kim Động","state":"Hưng Yên","country":"Vietnam","latitude":20.74645,"longitude":106.03632,"loc_clusters":11}
+{"city":"Huyện Mỹ Hào","state":"Hưng Yên","country":"Vietnam","latitude":20.9321,"longitude":106.1063,"loc_clusters":7}
+{"city":"Huyện Phù Cừ","state":"Hưng Yên","country":"Vietnam","latitude":20.70997,"longitude":106.19744,"loc_clusters":11}
+{"city":"Huyện Tiên Lữ","state":"Hưng Yên","country":"Vietnam","latitude":20.6849,"longitude":106.12513,"loc_clusters":11}
+{"city":"Cam Ranh","state":"Khánh Hòa","country":"Vietnam","latitude":11.92144,"longitude":109.15913,"loc_clusters":18}
+{"city":"Huyện Diên Khánh","state":"Khánh Hòa","country":"Vietnam","latitude":12.27341,"longitude":109.0389,"loc_clusters":18}
+{"city":"Huyện Khánh Sơn","state":"Khánh Hòa","country":"Vietnam","latitude":12.02858,"longitude":108.90814,"loc_clusters":18}
+{"city":"Huyện Khánh Vĩnh","state":"Khánh Hòa","country":"Vietnam","latitude":12.30593,"longitude":108.83073,"loc_clusters":18}
+{"city":"Huyện Vạn Ninh","state":"Khánh Hòa","country":"Vietnam","latitude":12.72344,"longitude":109.24586,"loc_clusters":18}
+{"city":"Nha Trang","state":"Khánh Hòa","country":"Vietnam","latitude":12.24507,"longitude":109.19432,"loc_clusters":18}
+{"city":"Thành Phố Cam Ranh","state":"Khánh Hòa","country":"Vietnam","latitude":11.90707,"longitude":109.14861,"loc_clusters":18}
+{"city":"Thành Phố Nha Trang","state":"Khánh Hòa","country":"Vietnam","latitude":12.25458,"longitude":109.16655,"loc_clusters":18}
+{"city":"Thị Xã Ninh Hòa","state":"Khánh Hòa","country":"Vietnam","latitude":12.53796,"longitude":109.06057,"loc_clusters":18}
+{"city":"Dương Đông","state":"Kiên Giang","country":"Vietnam","latitude":10.21716,"longitude":103.95929,"loc_clusters":9}
+{"city":"Hà Tiên","state":"Kiên Giang","country":"Vietnam","latitude":10.3831,"longitude":104.48753,"loc_clusters":9}
+{"city":"Huyện An Biên","state":"Kiên Giang","country":"Vietnam","latitude":9.81291,"longitude":105.0523,"loc_clusters":28}
+{"city":"Huyện An Minh","state":"Kiên Giang","country":"Vietnam","latitude":9.66704,"longitude":104.94848,"loc_clusters":10}
+{"city":"Huyện Châu Thành","state":"Kiên Giang","country":"Vietnam","latitude":9.94372,"longitude":105.16868,"loc_clusters":28}
+{"city":"Huyện Giồng Riềng","state":"Kiên Giang","country":"Vietnam","latitude":9.91224,"longitude":105.37311,"loc_clusters":28}
+{"city":"Huyện Gò Quao","state":"Kiên Giang","country":"Vietnam","latitude":9.74027,"longitude":105.29766,"loc_clusters":28}
+{"city":"Huyện Hòn Đất","state":"Kiên Giang","country":"Vietnam","latitude":10.22908,"longitude":104.9528,"loc_clusters":28}
+{"city":"Huyện Kiên Hải","state":"Kiên Giang","country":"Vietnam","latitude":9.83971,"longitude":104.6156,"loc_clusters":9}
+{"city":"Huyện Phú Quốc","state":"Kiên Giang","country":"Vietnam","latitude":10.25516,"longitude":104.01455,"loc_clusters":9}
+{"city":"Huyện Tân Hiệp","state":"Kiên Giang","country":"Vietnam","latitude":10.0954,"longitude":105.25936,"loc_clusters":28}
+{"city":"Huyện Vĩnh Thuận","state":"Kiên Giang","country":"Vietnam","latitude":9.53306,"longitude":105.2449,"loc_clusters":10}
+{"city":"Kien Luong Town","state":"Kiên Giang","country":"Vietnam","latitude":10.24892,"longitude":104.59,"loc_clusters":9}
+{"city":"Rạch Giá","state":"Kiên Giang","country":"Vietnam","latitude":10.01245,"longitude":105.08091,"loc_clusters":28}
+{"city":"Huyện Đắk Glei","state":"Kon Tum","country":"Vietnam","latitude":15.11358,"longitude":107.75093,"loc_clusters":2}
+{"city":"Huyện Đắk Hà","state":"Kon Tum","country":"Vietnam","latitude":14.60326,"longitude":107.98547,"loc_clusters":27}
+{"city":"Huyện Đắk Tô","state":"Kon Tum","country":"Vietnam","latitude":14.70087,"longitude":107.80816,"loc_clusters":27}
+{"city":"Huyện Ia H'Drai","state":"Kon Tum","country":"Vietnam","latitude":14.06032,"longitude":107.46243,"loc_clusters":27}
+{"city":"Huyện Kon Plông","state":"Kon Tum","country":"Vietnam","latitude":14.7562,"longitude":108.32057,"loc_clusters":20}
+{"city":"Huyện Ngọc Hồi","state":"Kon Tum","country":"Vietnam","latitude":14.7194,"longitude":107.62636,"loc_clusters":27}
+{"city":"Huyện Sa Thầy","state":"Kon Tum","country":"Vietnam","latitude":14.3205,"longitude":107.59862,"loc_clusters":27}
+{"city":"Kon Tum","state":"Kon Tum","country":"Vietnam","latitude":14.35451,"longitude":108.00759,"loc_clusters":27}
+{"city":"Huyện Mưòng Tè","state":"Lai Châu","country":"Vietnam","latitude":22.37443,"longitude":102.73835,"loc_clusters":22}
+{"city":"Huyện Tam Đường","state":"Lai Châu","country":"Vietnam","latitude":22.35391,"longitude":103.59342,"loc_clusters":4}
+{"city":"Huyện Than Uyên","state":"Lai Châu","country":"Vietnam","latitude":21.91424,"longitude":103.82857,"loc_clusters":4}
+{"city":"Bảo Lộc","state":"Lâm Đồng","country":"Vietnam","latitude":11.54798,"longitude":107.80772,"loc_clusters":26}
+{"city":"Đam Rong","state":"Lâm Đồng","country":"Vietnam","latitude":12.05409,"longitude":108.14941,"loc_clusters":0}
+{"city":"Đinh Văn","state":"Lâm Đồng","country":"Vietnam","latitude":11.78624,"longitude":108.24282,"loc_clusters":0}
+{"city":"Đưc Trọng","state":"Lâm Đồng","country":"Vietnam","latitude":11.73559,"longitude":108.3733,"loc_clusters":0}
+{"city":"Ðà Lạt","state":"Lâm Đồng","country":"Vietnam","latitude":11.94646,"longitude":108.44193,"loc_clusters":0}
+{"city":"Huyện Bảo Lâm","state":"Lâm Đồng","country":"Vietnam","latitude":11.71163,"longitude":107.75338,"loc_clusters":26}
+{"city":"Huyện Đạ Huoai","state":"Lâm Đồng","country":"Vietnam","latitude":11.42465,"longitude":107.63825,"loc_clusters":26}
+{"city":"Huyện Đạ Tẻh","state":"Lâm Đồng","country":"Vietnam","latitude":11.58446,"longitude":107.52792,"loc_clusters":26}
+{"city":"Huyện Đơn Dương","state":"Lâm Đồng","country":"Vietnam","latitude":11.75308,"longitude":108.55397,"loc_clusters":0}
+{"city":"Huyện Đức Trọng","state":"Lâm Đồng","country":"Vietnam","latitude":11.62686,"longitude":108.3533,"loc_clusters":0}
+{"city":"Huyện Lâm Hà","state":"Lâm Đồng","country":"Vietnam","latitude":11.8189,"longitude":108.21215,"loc_clusters":0}
+{"city":"Huyện Bắc Sơn","state":"Lạng Sơn","country":"Vietnam","latitude":21.83801,"longitude":106.2769,"loc_clusters":7}
+{"city":"Huyện Bình Gia","state":"Lạng Sơn","country":"Vietnam","latitude":22.07281,"longitude":106.3041,"loc_clusters":6}
+{"city":"Huyện Cao Lộc","state":"Lạng Sơn","country":"Vietnam","latitude":21.89857,"longitude":106.85435,"loc_clusters":21}
+{"city":"Huyện Chi Lăng","state":"Lạng Sơn","country":"Vietnam","latitude":21.67602,"longitude":106.62925,"loc_clusters":7}
+{"city":"Huyện Đình Lập","state":"Lạng Sơn","country":"Vietnam","latitude":21.5421,"longitude":107.12925,"loc_clusters":21}
+{"city":"Huyện Hũu Lũng","state":"Lạng Sơn","country":"Vietnam","latitude":21.54474,"longitude":106.34386,"loc_clusters":7}
+{"city":"Huyện Vặn Quan","state":"Lạng Sơn","country":"Vietnam","latitude":21.83333,"longitude":106.54942,"loc_clusters":7}
+{"city":"Lạng Sơn","state":"Lạng Sơn","country":"Vietnam","latitude":21.85264,"longitude":106.76101,"loc_clusters":7}
+{"city":"Huyện Bắc Hà","state":"Lào Cai","country":"Vietnam","latitude":22.50998,"longitude":104.30769,"loc_clusters":4}
+{"city":"Huyện Bảo Yên","state":"Lào Cai","country":"Vietnam","latitude":22.26109,"longitude":104.46424,"loc_clusters":4}
+{"city":"Huyện Bát Xát","state":"Lào Cai","country":"Vietnam","latitude":22.56767,"longitude":103.71339,"loc_clusters":4}
+{"city":"Huyện Mường Khương","state":"Lào Cai","country":"Vietnam","latitude":22.67111,"longitude":104.11772,"loc_clusters":4}
+{"city":"Huyện Sa Pa","state":"Lào Cai","country":"Vietnam","latitude":22.33769,"longitude":103.84037,"loc_clusters":4}
+{"city":"Huyện Si Ma Cai","state":"Lào Cai","country":"Vietnam","latitude":22.67161,"longitude":104.27326,"loc_clusters":4}
+{"city":"Huyện Văn Bàn","state":"Lào Cai","country":"Vietnam","latitude":22.07002,"longitude":104.18122,"loc_clusters":4}
+{"city":"Lào Cai","state":"Lào Cai","country":"Vietnam","latitude":22.48556,"longitude":103.97066,"loc_clusters":4}
+{"city":"Lao Chải","state":"Lào Cai","country":"Vietnam","latitude":22.31377,"longitude":103.86844,"loc_clusters":4}
+{"city":"Sa Pa","state":"Lào Cai","country":"Vietnam","latitude":22.34023,"longitude":103.84415,"loc_clusters":4}
+{"city":"Cần Giuộc","state":"Long An","country":"Vietnam","latitude":10.60857,"longitude":106.67135,"loc_clusters":3}
+{"city":"Huyện Bến Lức","state":"Long An","country":"Vietnam","latitude":10.68858,"longitude":106.45484,"loc_clusters":3}
+{"city":"Huyện Cần Đước","state":"Long An","country":"Vietnam","latitude":10.54148,"longitude":106.59636,"loc_clusters":3}
+{"city":"Huyện Cần Giuộc","state":"Long An","country":"Vietnam","latitude":10.57742,"longitude":106.67279,"loc_clusters":3}
+{"city":"Huyện Châu Thành","state":"Long An","country":"Vietnam","latitude":10.45214,"longitude":106.49015,"loc_clusters":3}
+{"city":"Huyện Đức Hòa","state":"Long An","country":"Vietnam","latitude":10.87838,"longitude":106.42422,"loc_clusters":13}
+{"city":"Huyện Đức Huệ","state":"Long An","country":"Vietnam","latitude":10.86473,"longitude":106.25914,"loc_clusters":13}
+{"city":"Huyện Mộc Hóa","state":"Long An","country":"Vietnam","latitude":10.75166,"longitude":106.01729,"loc_clusters":24}
+{"city":"Huyện Tân Hưng","state":"Long An","country":"Vietnam","latitude":10.8338,"longitude":105.68848,"loc_clusters":24}
+{"city":"Huyện Tân Thạnh","state":"Long An","country":"Vietnam","latitude":10.60351,"longitude":105.96576,"loc_clusters":24}
+{"city":"Huyện Tân Trụ","state":"Long An","country":"Vietnam","latitude":10.53182,"longitude":106.51644,"loc_clusters":3}
+{"city":"Huyện Thạnh Hóa","state":"Long An","country":"Vietnam","latitude":10.66667,"longitude":106.16667,"loc_clusters":3}
+{"city":"Huyện Thủ Thừa","state":"Long An","country":"Vietnam","latitude":10.65639,"longitude":106.3458,"loc_clusters":3}
+{"city":"Huyện Vĩnh Hưng","state":"Long An","country":"Vietnam","latitude":10.88299,"longitude":105.80364,"loc_clusters":24}
+{"city":"Tân An","state":"Long An","country":"Vietnam","latitude":10.53589,"longitude":106.41366,"loc_clusters":3}
+{"city":"Huyện Giao Thủy","state":"Nam Định","country":"Vietnam","latitude":20.25706,"longitude":106.46245,"loc_clusters":11}
+{"city":"Huyện Hải Hậu","state":"Nam Định","country":"Vietnam","latitude":20.15057,"longitude":106.27161,"loc_clusters":11}
+{"city":"Huyện Mỹ Lộc","state":"Nam Định","country":"Vietnam","latitude":20.46079,"longitude":106.12319,"loc_clusters":11}
+{"city":"Huyện Nam Trực","state":"Nam Định","country":"Vietnam","latitude":20.34106,"longitude":106.20821,"loc_clusters":11}
+{"city":"Huyện Nghĩa Hưng","state":"Nam Định","country":"Vietnam","latitude":20.10598,"longitude":106.17345,"loc_clusters":11}
+{"city":"Huyện Trực Ninh","state":"Nam Định","country":"Vietnam","latitude":20.2569,"longitude":106.24582,"loc_clusters":11}
+{"city":"Huyện Vụ Bản","state":"Nam Định","country":"Vietnam","latitude":20.37705,"longitude":106.09707,"loc_clusters":11}
+{"city":"Huyện Ý Yên","state":"Nam Định","country":"Vietnam","latitude":20.31669,"longitude":106.02327,"loc_clusters":11}
+{"city":"Nam Định","state":"Nam Định","country":"Vietnam","latitude":20.43389,"longitude":106.17729,"loc_clusters":11}
+{"city":"Huyện Anh Sơn","state":"Nghệ An","country":"Vietnam","latitude":18.92902,"longitude":105.08294,"loc_clusters":16}
+{"city":"Huyện Con Cuông","state":"Nghệ An","country":"Vietnam","latitude":19.03898,"longitude":104.80353,"loc_clusters":16}
+{"city":"Huyện Diễn Châu","state":"Nghệ An","country":"Vietnam","latitude":18.98892,"longitude":105.57625,"loc_clusters":16}
+{"city":"Huyện Đô Lương","state":"Nghệ An","country":"Vietnam","latitude":18.89259,"longitude":105.34027,"loc_clusters":16}
 {"city":"Huyện Hưng Nguyên","state":"Nghệ An","country":"Vietnam","latitude":18.67811,"longitude":105.62523,"loc_clusters":5}
-{"city":"Huyện Kỳ Sơn","state":"Nghệ An","country":"Vietnam","latitude":19.42397,"longitude":104.22199,"loc_clusters":23}
+{"city":"Huyện Kỳ Sơn","state":"Nghệ An","country":"Vietnam","latitude":19.42397,"longitude":104.22199,"loc_clusters":16}
 {"city":"Huyện Nam Đàn","state":"Nghệ An","country":"Vietnam","latitude":18.67041,"longitude":105.52575,"loc_clusters":5}
 {"city":"Huyện Nghi Lộc","state":"Nghệ An","country":"Vietnam","latitude":18.83131,"longitude":105.62411,"loc_clusters":5}
-{"city":"Huyện Nghĩa Đàn","state":"Nghệ An","country":"Vietnam","latitude":19.38234,"longitude":105.44072,"loc_clusters":23}
-{"city":"Huyện Quế Phong","state":"Nghệ An","country":"Vietnam","latitude":19.70177,"longitude":104.87913,"loc_clusters":23}
-{"city":"Huyện Quỳ Châu","state":"Nghệ An","country":"Vietnam","latitude":19.55707,"longitude":105.09173,"loc_clusters":23}
-{"city":"Huyện Quỳ Hợp","state":"Nghệ An","country":"Vietnam","latitude":19.32514,"longitude":105.16009,"loc_clusters":23}
-{"city":"Huyện Quỳnh Lưu","state":"Nghệ An","country":"Vietnam","latitude":19.22717,"longitude":105.64354,"loc_clusters":23}
-{"city":"Huyện Thanh Chương","state":"Nghệ An","country":"Vietnam","latitude":18.73929,"longitude":105.24053,"loc_clusters":23}
-{"city":"Huyện Tương Dương","state":"Nghệ An","country":"Vietnam","latitude":19.30979,"longitude":104.57788,"loc_clusters":23}
-{"city":"Huyện Yên Thành","state":"Nghệ An","country":"Vietnam","latitude":19.02724,"longitude":105.43649,"loc_clusters":23}
+{"city":"Huyện Nghĩa Đàn","state":"Nghệ An","country":"Vietnam","latitude":19.38234,"longitude":105.44072,"loc_clusters":16}
+{"city":"Huyện Quế Phong","state":"Nghệ An","country":"Vietnam","latitude":19.70177,"longitude":104.87913,"loc_clusters":16}
+{"city":"Huyện Quỳ Châu","state":"Nghệ An","country":"Vietnam","latitude":19.55707,"longitude":105.09173,"loc_clusters":16}
+{"city":"Huyện Quỳ Hợp","state":"Nghệ An","country":"Vietnam","latitude":19.32514,"longitude":105.16009,"loc_clusters":16}
+{"city":"Huyện Quỳnh Lưu","state":"Nghệ An","country":"Vietnam","latitude":19.22717,"longitude":105.64354,"loc_clusters":16}
+{"city":"Huyện Thanh Chương","state":"Nghệ An","country":"Vietnam","latitude":18.73929,"longitude":105.24053,"loc_clusters":16}
+{"city":"Huyện Tương Dương","state":"Nghệ An","country":"Vietnam","latitude":19.30979,"longitude":104.57788,"loc_clusters":16}
+{"city":"Huyện Yên Thành","state":"Nghệ An","country":"Vietnam","latitude":19.02724,"longitude":105.43649,"loc_clusters":16}
 {"city":"Vinh","state":"Nghệ An","country":"Vietnam","latitude":18.67337,"longitude":105.69232,"loc_clusters":5}
 {"city":"Yên Vinh","state":"Nghệ An","country":"Vietnam","latitude":18.66667,"longitude":105.66667,"loc_clusters":5}
-{"city":"Huyện Hoa Lư","state":"Ninh Bình","country":"Vietnam","latitude":20.25391,"longitude":105.90789,"loc_clusters":27}
-{"city":"Huyện Kim Sơn","state":"Ninh Bình","country":"Vietnam","latitude":20.06034,"longitude":106.09863,"loc_clusters":27}
-{"city":"Huyện Nho Quan","state":"Ninh Bình","country":"Vietnam","latitude":20.27606,"longitude":105.75442,"loc_clusters":27}
-{"city":"Huyện Yên Khánh","state":"Ninh Bình","country":"Vietnam","latitude":20.19017,"longitude":106.09605,"loc_clusters":27}
-{"city":"Huyện Yên Mô","state":"Ninh Bình","country":"Vietnam","latitude":20.12984,"longitude":106.00199,"loc_clusters":27}
-{"city":"Ninh Bình","state":"Ninh Bình","country":"Vietnam","latitude":20.25809,"longitude":105.97965,"loc_clusters":27}
-{"city":"Phan Rang-Tháp Chàm","state":"Ninh Thuận","country":"Vietnam","latitude":11.56432,"longitude":108.98858,"loc_clusters":15}
-{"city":"Huyện Cẩm Khê","state":"Phú Thọ","country":"Vietnam","latitude":21.40683,"longitude":105.09845,"loc_clusters":3}
-{"city":"Huyện Đoan Hùng","state":"Phú Thọ","country":"Vietnam","latitude":21.61776,"longitude":105.1611,"loc_clusters":3}
-{"city":"Huyện Hạ Hòa","state":"Phú Thọ","country":"Vietnam","latitude":21.57763,"longitude":104.99464,"loc_clusters":3}
-{"city":"Huyen Lam Thao","state":"Phú Thọ","country":"Vietnam","latitude":21.29971,"longitude":105.31119,"loc_clusters":19}
-{"city":"Huyện Thanh Ba","state":"Phú Thọ","country":"Vietnam","latitude":21.47816,"longitude":105.15881,"loc_clusters":3}
-{"city":"Huyện Yên Lập","state":"Phú Thọ","country":"Vietnam","latitude":21.35569,"longitude":105.00493,"loc_clusters":3}
-{"city":"Thành Phố Việt Trì","state":"Phú Thọ","country":"Vietnam","latitude":21.32958,"longitude":105.39217,"loc_clusters":19}
-{"city":"Thị xã Phú Thọ","state":"Phú Thọ","country":"Vietnam","latitude":21.41664,"longitude":105.23636,"loc_clusters":3}
-{"city":"Việt Trì","state":"Phú Thọ","country":"Vietnam","latitude":21.32274,"longitude":105.40198,"loc_clusters":19}
-{"city":"Huyện Sơn Hòa","state":"Phú Yên","country":"Vietnam","latitude":13.15868,"longitude":108.97281,"loc_clusters":15}
-{"city":"Huyện Sông Hinh","state":"Phú Yên","country":"Vietnam","latitude":12.91667,"longitude":108.91667,"loc_clusters":15}
-{"city":"Sông Cầu","state":"Phú Yên","country":"Vietnam","latitude":13.4556,"longitude":109.22348,"loc_clusters":26}
-{"city":"Tuy Hòa","state":"Phú Yên","country":"Vietnam","latitude":13.09546,"longitude":109.32094,"loc_clusters":15}
-{"city":"Huyện Lệ Thủy","state":"Quảng Bình","country":"Vietnam","latitude":17.11239,"longitude":106.70471,"loc_clusters":7}
-{"city":"Huyện Quảng Ninh","state":"Quảng Bình","country":"Vietnam","latitude":17.27067,"longitude":106.51387,"loc_clusters":7}
-{"city":"Huyện Quảng Trạch","state":"Quảng Bình","country":"Vietnam","latitude":17.83447,"longitude":106.36705,"loc_clusters":5}
+{"city":"Huyện Hoa Lư","state":"Ninh Bình","country":"Vietnam","latitude":20.25391,"longitude":105.90789,"loc_clusters":11}
+{"city":"Huyện Kim Sơn","state":"Ninh Bình","country":"Vietnam","latitude":20.06034,"longitude":106.09863,"loc_clusters":11}
+{"city":"Huyện Nho Quan","state":"Ninh Bình","country":"Vietnam","latitude":20.27606,"longitude":105.75442,"loc_clusters":23}
+{"city":"Huyện Yên Khánh","state":"Ninh Bình","country":"Vietnam","latitude":20.19017,"longitude":106.09605,"loc_clusters":11}
+{"city":"Huyện Yên Mô","state":"Ninh Bình","country":"Vietnam","latitude":20.12984,"longitude":106.00199,"loc_clusters":11}
+{"city":"Ninh Bình","state":"Ninh Bình","country":"Vietnam","latitude":20.25809,"longitude":105.97965,"loc_clusters":11}
+{"city":"Phan Rang-Tháp Chàm","state":"Ninh Thuận","country":"Vietnam","latitude":11.56432,"longitude":108.98858,"loc_clusters":18}
+{"city":"Huyện Cẩm Khê","state":"Phú Thọ","country":"Vietnam","latitude":21.40683,"longitude":105.09845,"loc_clusters":1}
+{"city":"Huyện Đoan Hùng","state":"Phú Thọ","country":"Vietnam","latitude":21.61776,"longitude":105.1611,"loc_clusters":1}
+{"city":"Huyện Hạ Hòa","state":"Phú Thọ","country":"Vietnam","latitude":21.57763,"longitude":104.99464,"loc_clusters":1}
+{"city":"Huyen Lam Thao","state":"Phú Thọ","country":"Vietnam","latitude":21.29971,"longitude":105.31119,"loc_clusters":1}
+{"city":"Huyện Thanh Ba","state":"Phú Thọ","country":"Vietnam","latitude":21.47816,"longitude":105.15881,"loc_clusters":1}
+{"city":"Huyện Yên Lập","state":"Phú Thọ","country":"Vietnam","latitude":21.35569,"longitude":105.00493,"loc_clusters":1}
+{"city":"Thành Phố Việt Trì","state":"Phú Thọ","country":"Vietnam","latitude":21.32958,"longitude":105.39217,"loc_clusters":1}
+{"city":"Thị xã Phú Thọ","state":"Phú Thọ","country":"Vietnam","latitude":21.41664,"longitude":105.23636,"loc_clusters":1}
+{"city":"Việt Trì","state":"Phú Thọ","country":"Vietnam","latitude":21.32274,"longitude":105.40198,"loc_clusters":1}
+{"city":"Huyện Sơn Hòa","state":"Phú Yên","country":"Vietnam","latitude":13.15868,"longitude":108.97281,"loc_clusters":8}
+{"city":"Huyện Sông Hinh","state":"Phú Yên","country":"Vietnam","latitude":12.91667,"longitude":108.91667,"loc_clusters":18}
+{"city":"Sông Cầu","state":"Phú Yên","country":"Vietnam","latitude":13.4556,"longitude":109.22348,"loc_clusters":8}
+{"city":"Tuy Hòa","state":"Phú Yên","country":"Vietnam","latitude":13.09546,"longitude":109.32094,"loc_clusters":8}
+{"city":"Huyện Lệ Thủy","state":"Quảng Bình","country":"Vietnam","latitude":17.11239,"longitude":106.70471,"loc_clusters":29}
+{"city":"Huyện Quảng Ninh","state":"Quảng Bình","country":"Vietnam","latitude":17.27067,"longitude":106.51387,"loc_clusters":29}
+{"city":"Huyện Quảng Trạch","state":"Quảng Bình","country":"Vietnam","latitude":17.83447,"longitude":106.36705,"loc_clusters":29}
 {"city":"Huyện Tuyên Hóa","state":"Quảng Bình","country":"Vietnam","latitude":17.91323,"longitude":106.02678,"loc_clusters":5}
-{"city":"Kwang Binh","state":"Quảng Bình","country":"Vietnam","latitude":17.46885,"longitude":106.62226,"loc_clusters":7}
-{"city":"Hội An","state":"Quảng Nam","country":"Vietnam","latitude":15.87944,"longitude":108.335,"loc_clusters":28}
-{"city":"Huyện Duy Xuyên","state":"Quảng Nam","country":"Vietnam","latitude":15.7897,"longitude":108.20247,"loc_clusters":28}
-{"city":"Huyện Đại Lộc","state":"Quảng Nam","country":"Vietnam","latitude":15.83721,"longitude":107.97894,"loc_clusters":28}
-{"city":"Huyện Điện Bàn","state":"Quảng Nam","country":"Vietnam","latitude":15.89917,"longitude":108.2247,"loc_clusters":28}
-{"city":"Huyện Hiệp Đức","state":"Quảng Nam","country":"Vietnam","latitude":15.53857,"longitude":108.09539,"loc_clusters":28}
-{"city":"Huyện Nam Giang","state":"Quảng Nam","country":"Vietnam","latitude":15.63201,"longitude":107.60267,"loc_clusters":28}
-{"city":"Huyện Núi Thành","state":"Quảng Nam","country":"Vietnam","latitude":15.43345,"longitude":108.57438,"loc_clusters":4}
-{"city":"Huyện Phước Sơn","state":"Quảng Nam","country":"Vietnam","latitude":15.38806,"longitude":107.85766,"loc_clusters":28}
-{"city":"Huyện Tiên Phước","state":"Quảng Nam","country":"Vietnam","latitude":15.4709,"longitude":108.28257,"loc_clusters":28}
-{"city":"Huyện Trà My","state":"Quảng Nam","country":"Vietnam","latitude":15.25,"longitude":108.08333,"loc_clusters":28}
-{"city":"Tam Kỳ","state":"Quảng Nam","country":"Vietnam","latitude":15.57364,"longitude":108.47403,"loc_clusters":28}
-{"city":"Huyện Ba Tơ","state":"Quảng Ngãi","country":"Vietnam","latitude":14.73973,"longitude":108.69326,"loc_clusters":4}
-{"city":"Huyện Bình Sơn","state":"Quảng Ngãi","country":"Vietnam","latitude":15.31899,"longitude":108.76383,"loc_clusters":4}
-{"city":"Huyện Đức Phổ","state":"Quảng Ngãi","country":"Vietnam","latitude":14.78,"longitude":108.97857,"loc_clusters":4}
-{"city":"Huyện Lý Sơn","state":"Quảng Ngãi","country":"Vietnam","latitude":15.40608,"longitude":109.09707,"loc_clusters":4}
-{"city":"Huyện Minh Long","state":"Quảng Ngãi","country":"Vietnam","latitude":14.95375,"longitude":108.67724,"loc_clusters":4}
-{"city":"Huyện Mộ Đức","state":"Quảng Ngãi","country":"Vietnam","latitude":14.95515,"longitude":108.88841,"loc_clusters":4}
-{"city":"Huyện Nghĩa Hành","state":"Quảng Ngãi","country":"Vietnam","latitude":14.98712,"longitude":108.80036,"loc_clusters":4}
-{"city":"Huyện Sơn Hà","state":"Quảng Ngãi","country":"Vietnam","latitude":14.98427,"longitude":108.53643,"loc_clusters":4}
-{"city":"Huyện Sơn Tây","state":"Quảng Ngãi","country":"Vietnam","latitude":14.96392,"longitude":108.36419,"loc_clusters":4}
-{"city":"Huyện Sơn Tịnh","state":"Quảng Ngãi","country":"Vietnam","latitude":15.1909,"longitude":108.74295,"loc_clusters":4}
-{"city":"Huyện Trà Bồng","state":"Quảng Ngãi","country":"Vietnam","latitude":15.23752,"longitude":108.52633,"loc_clusters":4}
-{"city":"Huyện Tư Nghĩa","state":"Quảng Ngãi","country":"Vietnam","latitude":15.09499,"longitude":108.77053,"loc_clusters":4}
-{"city":"Quảng Ngãi","state":"Quảng Ngãi","country":"Vietnam","latitude":15.12047,"longitude":108.79232,"loc_clusters":4}
-{"city":"Cẩm Phả","state":"Quảng Ninh","country":"Vietnam","latitude":21.01004,"longitude":107.27345,"loc_clusters":10}
-{"city":"Cẩm Phả Mines","state":"Quảng Ninh","country":"Vietnam","latitude":21.01667,"longitude":107.3,"loc_clusters":10}
-{"city":"Hạ Long","state":"Quảng Ninh","country":"Vietnam","latitude":20.95045,"longitude":107.07336,"loc_clusters":10}
-{"city":"Huyện Ba Chẽ","state":"Quảng Ninh","country":"Vietnam","latitude":21.29503,"longitude":107.19298,"loc_clusters":10}
-{"city":"Huyện Bình Liêu","state":"Quảng Ninh","country":"Vietnam","latitude":21.54389,"longitude":107.44047,"loc_clusters":10}
-{"city":"Huyện Cô Tô","state":"Quảng Ninh","country":"Vietnam","latitude":21.05418,"longitude":107.80698,"loc_clusters":10}
-{"city":"Huyện Đầm Hà","state":"Quảng Ninh","country":"Vietnam","latitude":21.39689,"longitude":107.56175,"loc_clusters":10}
-{"city":"Huyện Đông Triều","state":"Quảng Ninh","country":"Vietnam","latitude":21.11043,"longitude":106.59662,"loc_clusters":24}
-{"city":"Huyện Hải Hà","state":"Quảng Ninh","country":"Vietnam","latitude":21.49537,"longitude":107.6679,"loc_clusters":10}
-{"city":"Huyện Hoành Bồ","state":"Quảng Ninh","country":"Vietnam","latitude":21.11888,"longitude":107.03149,"loc_clusters":10}
-{"city":"Huyện Tiên Yên","state":"Quảng Ninh","country":"Vietnam","latitude":21.37571,"longitude":107.37468,"loc_clusters":10}
-{"city":"Huyện Vân Đồn","state":"Quảng Ninh","country":"Vietnam","latitude":21.04921,"longitude":107.50971,"loc_clusters":10}
-{"city":"Móng Cái","state":"Quảng Ninh","country":"Vietnam","latitude":21.52471,"longitude":107.96619,"loc_clusters":10}
-{"city":"Thành Phố Uông Bí","state":"Quảng Ninh","country":"Vietnam","latitude":21.03433,"longitude":106.77049,"loc_clusters":24}
-{"city":"Ðông Hà","state":"Quảng Trị","country":"Vietnam","latitude":16.81625,"longitude":107.10031,"loc_clusters":7}
-{"city":"Huyện Cam Lộ","state":"Quảng Trị","country":"Vietnam","latitude":16.79335,"longitude":106.96175,"loc_clusters":7}
-{"city":"Huyện Đa Krông","state":"Quảng Trị","country":"Vietnam","latitude":16.55543,"longitude":106.97208,"loc_clusters":7}
-{"city":"Huyện Gio Linh","state":"Quảng Trị","country":"Vietnam","latitude":16.91667,"longitude":107.0,"loc_clusters":7}
-{"city":"Huyện Hải Lăng","state":"Quảng Trị","country":"Vietnam","latitude":16.67574,"longitude":107.23388,"loc_clusters":21}
-{"city":"Huyện Hướng Hóa","state":"Quảng Trị","country":"Vietnam","latitude":16.70132,"longitude":106.67036,"loc_clusters":7}
-{"city":"Huyện Triệu Phong","state":"Quảng Trị","country":"Vietnam","latitude":16.78132,"longitude":107.16034,"loc_clusters":7}
-{"city":"Huyện Vĩnh Linh","state":"Quảng Trị","country":"Vietnam","latitude":17.016,"longitude":106.93384,"loc_clusters":7}
-{"city":"Huyện Kế Sách","state":"Sóc Trăng","country":"Vietnam","latitude":9.81771,"longitude":105.9419,"loc_clusters":6}
-{"city":"Huyện Long Phú","state":"Sóc Trăng","country":"Vietnam","latitude":9.63715,"longitude":106.08226,"loc_clusters":6}
-{"city":"Huyện Mỹ Tú","state":"Sóc Trăng","country":"Vietnam","latitude":9.60849,"longitude":105.80681,"loc_clusters":2}
-{"city":"Huyện Mỹ Xuyên","state":"Sóc Trăng","country":"Vietnam","latitude":9.442,"longitude":105.88546,"loc_clusters":2}
-{"city":"Huyen Nga Nam","state":"Sóc Trăng","country":"Vietnam","latitude":9.56127,"longitude":105.59476,"loc_clusters":2}
-{"city":"Huyện Thạnh Trị","state":"Sóc Trăng","country":"Vietnam","latitude":9.46939,"longitude":105.71196,"loc_clusters":2}
-{"city":"Sóc Trăng","state":"Sóc Trăng","country":"Vietnam","latitude":9.59995,"longitude":105.97193,"loc_clusters":2}
-{"city":"Huyện Bắc Yên","state":"Sơn La","country":"Vietnam","latitude":21.25042,"longitude":104.38501,"loc_clusters":3}
-{"city":"Huyện Mai Sơn","state":"Sơn La","country":"Vietnam","latitude":21.15884,"longitude":104.04821,"loc_clusters":9}
-{"city":"Huyện Mộc Châu","state":"Sơn La","country":"Vietnam","latitude":21.83333,"longitude":104.75,"loc_clusters":3}
-{"city":"Huyện Mường La","state":"Sơn La","country":"Vietnam","latitude":21.5296,"longitude":104.11113,"loc_clusters":9}
-{"city":"Huyện Phù Yên","state":"Sơn La","country":"Vietnam","latitude":21.21412,"longitude":104.68993,"loc_clusters":3}
-{"city":"Huyện Quỳnh Nhai","state":"Sơn La","country":"Vietnam","latitude":21.77224,"longitude":103.6492,"loc_clusters":9}
-{"city":"Huyện Sông Mã","state":"Sơn La","country":"Vietnam","latitude":21.06971,"longitude":103.68727,"loc_clusters":9}
-{"city":"Huyện Thuận Châu","state":"Sơn La","country":"Vietnam","latitude":21.42319,"longitude":103.64408,"loc_clusters":9}
-{"city":"Huyện Yên Châu","state":"Sơn La","country":"Vietnam","latitude":21.005,"longitude":104.33264,"loc_clusters":3}
-{"city":"Sơn La","state":"Sơn La","country":"Vietnam","latitude":21.3256,"longitude":103.91882,"loc_clusters":9}
-{"city":"Huyện Bến Cầu","state":"Tây Ninh","country":"Vietnam","latitude":11.12889,"longitude":106.14296,"loc_clusters":25}
-{"city":"Huyện Dương Minh Châu","state":"Tây Ninh","country":"Vietnam","latitude":11.31833,"longitude":106.25697,"loc_clusters":25}
-{"city":"Huyện Gò Dầu","state":"Tây Ninh","country":"Vietnam","latitude":11.15737,"longitude":106.27307,"loc_clusters":25}
-{"city":"Huyện Hòa Thành","state":"Tây Ninh","country":"Vietnam","latitude":11.26706,"longitude":106.14486,"loc_clusters":25}
-{"city":"Huyện Tân Châu","state":"Tây Ninh","country":"Vietnam","latitude":11.58739,"longitude":106.2827,"loc_clusters":16}
-{"city":"Huyện Trảng Bàng","state":"Tây Ninh","country":"Vietnam","latitude":11.0572,"longitude":106.37539,"loc_clusters":25}
-{"city":"Phú Khương","state":"Tây Ninh","country":"Vietnam","latitude":11.28333,"longitude":106.13333,"loc_clusters":25}
-{"city":"Tây Ninh","state":"Tây Ninh","country":"Vietnam","latitude":11.31004,"longitude":106.09828,"loc_clusters":25}
-{"city":"Huyện Ðông Hưng","state":"Thái Bình","country":"Vietnam","latitude":20.54388,"longitude":106.3409,"loc_clusters":0}
-{"city":"Huyện Hưng Hà","state":"Thái Bình","country":"Vietnam","latitude":20.59464,"longitude":106.2123,"loc_clusters":0}
-{"city":"Huyện Kiến Xương","state":"Thái Bình","country":"Vietnam","latitude":20.40081,"longitude":106.42032,"loc_clusters":0}
-{"city":"Huyện Quỳnh Phụ","state":"Thái Bình","country":"Vietnam","latitude":20.65095,"longitude":106.36359,"loc_clusters":0}
-{"city":"Huyện Thái Thụy","state":"Thái Bình","country":"Vietnam","latitude":20.53916,"longitude":106.51688,"loc_clusters":0}
-{"city":"Huyện Tiền Hải","state":"Thái Bình","country":"Vietnam","latitude":20.38465,"longitude":106.52882,"loc_clusters":0}
-{"city":"Huyện Vũ Thư","state":"Thái Bình","country":"Vietnam","latitude":20.43732,"longitude":106.26529,"loc_clusters":0}
-{"city":"Thái Bình","state":"Thái Bình","country":"Vietnam","latitude":20.45,"longitude":106.34002,"loc_clusters":0}
-{"city":"Thái Nguyên","state":"Thái Nguyên","country":"Vietnam","latitude":21.59422,"longitude":105.84817,"loc_clusters":19}
-{"city":"Bỉm Sơn","state":"Thanh Hóa","country":"Vietnam","latitude":20.07806,"longitude":105.86028,"loc_clusters":27}
-{"city":"Huyện Bá Thước","state":"Thanh Hóa","country":"Vietnam","latitude":20.35767,"longitude":105.25301,"loc_clusters":14}
-{"city":"Huyện Cẩm Thủy","state":"Thanh Hóa","country":"Vietnam","latitude":20.19586,"longitude":105.46817,"loc_clusters":14}
-{"city":"Huyện Đông Sơn","state":"Thanh Hóa","country":"Vietnam","latitude":19.79742,"longitude":105.72465,"loc_clusters":27}
-{"city":"Huyện Hà Trung","state":"Thanh Hóa","country":"Vietnam","latitude":20.02654,"longitude":105.81931,"loc_clusters":27}
-{"city":"Huyện Hậu Lộc","state":"Thanh Hóa","country":"Vietnam","latitude":19.93337,"longitude":105.88894,"loc_clusters":27}
-{"city":"Huyện Lang Chánh","state":"Thanh Hóa","country":"Vietnam","latitude":20.15926,"longitude":105.15071,"loc_clusters":14}
-{"city":"Huyện Mường Lát","state":"Thanh Hóa","country":"Vietnam","latitude":20.52763,"longitude":104.62941,"loc_clusters":14}
-{"city":"Huyện Nga Sơn","state":"Thanh Hóa","country":"Vietnam","latitude":20.01561,"longitude":105.98975,"loc_clusters":27}
-{"city":"Huyện Ngọc Lặc","state":"Thanh Hóa","country":"Vietnam","latitude":20.06777,"longitude":105.37386,"loc_clusters":14}
-{"city":"Huyện Như Thanh","state":"Thanh Hóa","country":"Vietnam","latitude":19.57798,"longitude":105.55616,"loc_clusters":27}
-{"city":"Huyện Như Xuân","state":"Thanh Hóa","country":"Vietnam","latitude":19.62527,"longitude":105.38856,"loc_clusters":23}
-{"city":"Huyện Nông Cống","state":"Thanh Hóa","country":"Vietnam","latitude":19.61376,"longitude":105.68279,"loc_clusters":27}
-{"city":"Huyện Quan Hóa","state":"Thanh Hóa","country":"Vietnam","latitude":20.47565,"longitude":104.95335,"loc_clusters":14}
-{"city":"Huyện Quan Sơn","state":"Thanh Hóa","country":"Vietnam","latitude":20.25758,"longitude":104.83416,"loc_clusters":14}
-{"city":"Huyện Quảng Xương","state":"Thanh Hóa","country":"Vietnam","latitude":19.70252,"longitude":105.79298,"loc_clusters":27}
-{"city":"Huyện Thiệu Hóa","state":"Thanh Hóa","country":"Vietnam","latitude":19.89713,"longitude":105.68144,"loc_clusters":27}
-{"city":"Huyện Thọ Xuân","state":"Thanh Hóa","country":"Vietnam","latitude":19.93114,"longitude":105.48284,"loc_clusters":27}
-{"city":"Huyện Thường Xuân","state":"Thanh Hóa","country":"Vietnam","latitude":19.93684,"longitude":105.24109,"loc_clusters":14}
-{"city":"Huyện Triệu Sơn","state":"Thanh Hóa","country":"Vietnam","latitude":19.82578,"longitude":105.58293,"loc_clusters":27}
-{"city":"Huyện Vĩnh Lộc","state":"Thanh Hóa","country":"Vietnam","latitude":20.03482,"longitude":105.65755,"loc_clusters":27}
-{"city":"Huyện Yên Định","state":"Thanh Hóa","country":"Vietnam","latitude":19.98666,"longitude":105.61482,"loc_clusters":27}
-{"city":"Thanh Hóa","state":"Thanh Hóa","country":"Vietnam","latitude":19.8,"longitude":105.76667,"loc_clusters":27}
-{"city":"Huế","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.4619,"longitude":107.59546,"loc_clusters":21}
-{"city":"Huyện A Lưới","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.23422,"longitude":107.3065,"loc_clusters":21}
-{"city":"Huyện Nam Đông","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.12396,"longitude":107.6927,"loc_clusters":21}
-{"city":"Huyện Phong Điền","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.48769,"longitude":107.28889,"loc_clusters":21}
-{"city":"Huyện Phú Lộc","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.27066,"longitude":107.88545,"loc_clusters":21}
-{"city":"Huyện Phú Vang","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.47007,"longitude":107.71458,"loc_clusters":21}
-{"city":"Huyện Quảng Ðiền","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.57941,"longitude":107.4937,"loc_clusters":21}
-{"city":"Huyện Cái Bè","state":"Tiền Giang","country":"Vietnam","latitude":10.38824,"longitude":105.9462,"loc_clusters":6}
-{"city":"Huyện Cai Lậy","state":"Tiền Giang","country":"Vietnam","latitude":10.38943,"longitude":106.06774,"loc_clusters":6}
-{"city":"Huyện Châu Thành","state":"Tiền Giang","country":"Vietnam","latitude":10.386,"longitude":106.27311,"loc_clusters":6}
-{"city":"Huyện Chợ Gạo","state":"Tiền Giang","country":"Vietnam","latitude":10.37373,"longitude":106.44341,"loc_clusters":6}
-{"city":"Huyện Gò Công Đông","state":"Tiền Giang","country":"Vietnam","latitude":10.36784,"longitude":106.74592,"loc_clusters":12}
-{"city":"Huyện Gò Công Tây","state":"Tiền Giang","country":"Vietnam","latitude":10.34527,"longitude":106.59851,"loc_clusters":6}
-{"city":"Huyện Tân Phước","state":"Tiền Giang","country":"Vietnam","latitude":10.51489,"longitude":106.23312,"loc_clusters":6}
-{"city":"Mỹ Tho","state":"Tiền Giang","country":"Vietnam","latitude":10.36004,"longitude":106.35996,"loc_clusters":6}
-{"city":"Thành Phố Mỹ Tho","state":"Tiền Giang","country":"Vietnam","latitude":10.36221,"longitude":106.36824,"loc_clusters":6}
-{"city":"Thị Xã Gò Công","state":"Tiền Giang","country":"Vietnam","latitude":10.40005,"longitude":106.65847,"loc_clusters":12}
-{"city":"Huyện Càng Long","state":"Trà Vinh","country":"Vietnam","latitude":9.95883,"longitude":106.21395,"loc_clusters":6}
-{"city":"Huyện Cầu Kè","state":"Trà Vinh","country":"Vietnam","latitude":9.86738,"longitude":106.07916,"loc_clusters":6}
-{"city":"Huyện Cầu Ngang","state":"Trà Vinh","country":"Vietnam","latitude":9.77186,"longitude":106.43654,"loc_clusters":6}
-{"city":"Huyện Tiểu Cần","state":"Trà Vinh","country":"Vietnam","latitude":9.8035,"longitude":106.20594,"loc_clusters":6}
-{"city":"Huyện Trà Cú","state":"Trà Vinh","country":"Vietnam","latitude":9.69706,"longitude":106.29423,"loc_clusters":6}
-{"city":"Trà Vinh","state":"Trà Vinh","country":"Vietnam","latitude":9.94719,"longitude":106.34225,"loc_clusters":6}
-{"city":"Huyện Chiêm Hóa","state":"Tuyên Quang","country":"Vietnam","latitude":22.17895,"longitude":105.27671,"loc_clusters":18}
-{"city":"Huyện Hàm Yên","state":"Tuyên Quang","country":"Vietnam","latitude":22.10935,"longitude":105.0163,"loc_clusters":3}
-{"city":"Huyện Lâm Bình","state":"Tuyên Quang","country":"Vietnam","latitude":22.46411,"longitude":105.21903,"loc_clusters":18}
-{"city":"Huyện Na Hang","state":"Tuyên Quang","country":"Vietnam","latitude":22.47522,"longitude":105.4838,"loc_clusters":18}
-{"city":"Huyện Sơn Dương","state":"Tuyên Quang","country":"Vietnam","latitude":21.63623,"longitude":105.38901,"loc_clusters":3}
-{"city":"Huyện Yên Sơn","state":"Tuyên Quang","country":"Vietnam","latitude":21.88363,"longitude":105.27656,"loc_clusters":3}
-{"city":"Tuyên Quang","state":"Tuyên Quang","country":"Vietnam","latitude":21.82356,"longitude":105.21424,"loc_clusters":3}
-{"city":"Huyện Long Hồ","state":"Vĩnh Long","country":"Vietnam","latitude":10.2164,"longitude":105.98483,"loc_clusters":6}
-{"city":"Huyện Mang Thít","state":"Vĩnh Long","country":"Vietnam","latitude":10.18731,"longitude":106.07472,"loc_clusters":6}
-{"city":"Huyện Tam Bình","state":"Vĩnh Long","country":"Vietnam","latitude":10.08127,"longitude":105.95352,"loc_clusters":6}
-{"city":"Huyện Trà Ôn","state":"Vĩnh Long","country":"Vietnam","latitude":9.97522,"longitude":106.00957,"loc_clusters":6}
-{"city":"Huyện Vũng Liêm","state":"Vĩnh Long","country":"Vietnam","latitude":10.08717,"longitude":106.16038,"loc_clusters":6}
-{"city":"Vĩnh Long","state":"Vĩnh Long","country":"Vietnam","latitude":10.25369,"longitude":105.9722,"loc_clusters":6}
-{"city":"Huyện Bình Xuyên","state":"Vĩnh Phúc","country":"Vietnam","latitude":21.30561,"longitude":105.66225,"loc_clusters":19}
-{"city":"Huyện Tam Dương","state":"Vĩnh Phúc","country":"Vietnam","latitude":21.36189,"longitude":105.5569,"loc_clusters":19}
-{"city":"Huyện Tam Đảo","state":"Vĩnh Phúc","country":"Vietnam","latitude":21.4569,"longitude":105.5946,"loc_clusters":19}
-{"city":"Huyện Yên Lạc","state":"Vĩnh Phúc","country":"Vietnam","latitude":21.21845,"longitude":105.57586,"loc_clusters":19}
-{"city":"Vĩnh Yên","state":"Vĩnh Phúc","country":"Vietnam","latitude":21.30891,"longitude":105.60489,"loc_clusters":19}
-{"city":"Huyện Lục Yên","state":"Yên Bái","country":"Vietnam","latitude":22.10235,"longitude":104.72538,"loc_clusters":3}
-{"city":"Huyện Mù Cang Chải","state":"Yên Bái","country":"Vietnam","latitude":21.78815,"longitude":104.11998,"loc_clusters":9}
-{"city":"Huyện Trạm Tấu","state":"Yên Bái","country":"Vietnam","latitude":21.48553,"longitude":104.42756,"loc_clusters":3}
-{"city":"Huyện Trấn Yên","state":"Yên Bái","country":"Vietnam","latitude":21.66586,"longitude":104.79702,"loc_clusters":3}
-{"city":"Huyện Văn Chấn","state":"Yên Bái","country":"Vietnam","latitude":21.55722,"longitude":104.64038,"loc_clusters":3}
-{"city":"Huyện Văn Yên","state":"Yên Bái","country":"Vietnam","latitude":21.90022,"longitude":104.56669,"loc_clusters":3}
-{"city":"Yên Bái","state":"Yên Bái","country":"Vietnam","latitude":21.72288,"longitude":104.9113,"loc_clusters":3}
+{"city":"Kwang Binh","state":"Quảng Bình","country":"Vietnam","latitude":17.46885,"longitude":106.62226,"loc_clusters":29}
+{"city":"Hội An","state":"Quảng Nam","country":"Vietnam","latitude":15.87944,"longitude":108.335,"loc_clusters":2}
+{"city":"Huyện Duy Xuyên","state":"Quảng Nam","country":"Vietnam","latitude":15.7897,"longitude":108.20247,"loc_clusters":2}
+{"city":"Huyện Đại Lộc","state":"Quảng Nam","country":"Vietnam","latitude":15.83721,"longitude":107.97894,"loc_clusters":2}
+{"city":"Huyện Điện Bàn","state":"Quảng Nam","country":"Vietnam","latitude":15.89917,"longitude":108.2247,"loc_clusters":2}
+{"city":"Huyện Hiệp Đức","state":"Quảng Nam","country":"Vietnam","latitude":15.53857,"longitude":108.09539,"loc_clusters":2}
+{"city":"Huyện Nam Giang","state":"Quảng Nam","country":"Vietnam","latitude":15.63201,"longitude":107.60267,"loc_clusters":2}
+{"city":"Huyện Núi Thành","state":"Quảng Nam","country":"Vietnam","latitude":15.43345,"longitude":108.57438,"loc_clusters":20}
+{"city":"Huyện Phước Sơn","state":"Quảng Nam","country":"Vietnam","latitude":15.38806,"longitude":107.85766,"loc_clusters":2}
+{"city":"Huyện Tiên Phước","state":"Quảng Nam","country":"Vietnam","latitude":15.4709,"longitude":108.28257,"loc_clusters":2}
+{"city":"Huyện Trà My","state":"Quảng Nam","country":"Vietnam","latitude":15.25,"longitude":108.08333,"loc_clusters":2}
+{"city":"Tam Kỳ","state":"Quảng Nam","country":"Vietnam","latitude":15.57364,"longitude":108.47403,"loc_clusters":2}
+{"city":"Huyện Ba Tơ","state":"Quảng Ngãi","country":"Vietnam","latitude":14.73973,"longitude":108.69326,"loc_clusters":20}
+{"city":"Huyện Bình Sơn","state":"Quảng Ngãi","country":"Vietnam","latitude":15.31899,"longitude":108.76383,"loc_clusters":20}
+{"city":"Huyện Đức Phổ","state":"Quảng Ngãi","country":"Vietnam","latitude":14.78,"longitude":108.97857,"loc_clusters":20}
+{"city":"Huyện Lý Sơn","state":"Quảng Ngãi","country":"Vietnam","latitude":15.40608,"longitude":109.09707,"loc_clusters":20}
+{"city":"Huyện Minh Long","state":"Quảng Ngãi","country":"Vietnam","latitude":14.95375,"longitude":108.67724,"loc_clusters":20}
+{"city":"Huyện Mộ Đức","state":"Quảng Ngãi","country":"Vietnam","latitude":14.95515,"longitude":108.88841,"loc_clusters":20}
+{"city":"Huyện Nghĩa Hành","state":"Quảng Ngãi","country":"Vietnam","latitude":14.98712,"longitude":108.80036,"loc_clusters":20}
+{"city":"Huyện Sơn Hà","state":"Quảng Ngãi","country":"Vietnam","latitude":14.98427,"longitude":108.53643,"loc_clusters":20}
+{"city":"Huyện Sơn Tây","state":"Quảng Ngãi","country":"Vietnam","latitude":14.96392,"longitude":108.36419,"loc_clusters":20}
+{"city":"Huyện Sơn Tịnh","state":"Quảng Ngãi","country":"Vietnam","latitude":15.1909,"longitude":108.74295,"loc_clusters":20}
+{"city":"Huyện Trà Bồng","state":"Quảng Ngãi","country":"Vietnam","latitude":15.23752,"longitude":108.52633,"loc_clusters":20}
+{"city":"Huyện Tư Nghĩa","state":"Quảng Ngãi","country":"Vietnam","latitude":15.09499,"longitude":108.77053,"loc_clusters":20}
+{"city":"Quảng Ngãi","state":"Quảng Ngãi","country":"Vietnam","latitude":15.12047,"longitude":108.79232,"loc_clusters":20}
+{"city":"Cẩm Phả","state":"Quảng Ninh","country":"Vietnam","latitude":21.01004,"longitude":107.27345,"loc_clusters":21}
+{"city":"Cẩm Phả Mines","state":"Quảng Ninh","country":"Vietnam","latitude":21.01667,"longitude":107.3,"loc_clusters":21}
+{"city":"Hạ Long","state":"Quảng Ninh","country":"Vietnam","latitude":20.95045,"longitude":107.07336,"loc_clusters":21}
+{"city":"Huyện Ba Chẽ","state":"Quảng Ninh","country":"Vietnam","latitude":21.29503,"longitude":107.19298,"loc_clusters":21}
+{"city":"Huyện Bình Liêu","state":"Quảng Ninh","country":"Vietnam","latitude":21.54389,"longitude":107.44047,"loc_clusters":21}
+{"city":"Huyện Cô Tô","state":"Quảng Ninh","country":"Vietnam","latitude":21.05418,"longitude":107.80698,"loc_clusters":21}
+{"city":"Huyện Đầm Hà","state":"Quảng Ninh","country":"Vietnam","latitude":21.39689,"longitude":107.56175,"loc_clusters":21}
+{"city":"Huyện Đông Triều","state":"Quảng Ninh","country":"Vietnam","latitude":21.11043,"longitude":106.59662,"loc_clusters":7}
+{"city":"Huyện Hải Hà","state":"Quảng Ninh","country":"Vietnam","latitude":21.49537,"longitude":107.6679,"loc_clusters":21}
+{"city":"Huyện Hoành Bồ","state":"Quảng Ninh","country":"Vietnam","latitude":21.11888,"longitude":107.03149,"loc_clusters":21}
+{"city":"Huyện Tiên Yên","state":"Quảng Ninh","country":"Vietnam","latitude":21.37571,"longitude":107.37468,"loc_clusters":21}
+{"city":"Huyện Vân Đồn","state":"Quảng Ninh","country":"Vietnam","latitude":21.04921,"longitude":107.50971,"loc_clusters":21}
+{"city":"Móng Cái","state":"Quảng Ninh","country":"Vietnam","latitude":21.52471,"longitude":107.96619,"loc_clusters":21}
+{"city":"Thành Phố Uông Bí","state":"Quảng Ninh","country":"Vietnam","latitude":21.03433,"longitude":106.77049,"loc_clusters":7}
+{"city":"Ðông Hà","state":"Quảng Trị","country":"Vietnam","latitude":16.81625,"longitude":107.10031,"loc_clusters":14}
+{"city":"Huyện Cam Lộ","state":"Quảng Trị","country":"Vietnam","latitude":16.79335,"longitude":106.96175,"loc_clusters":14}
+{"city":"Huyện Đa Krông","state":"Quảng Trị","country":"Vietnam","latitude":16.55543,"longitude":106.97208,"loc_clusters":14}
+{"city":"Huyện Gio Linh","state":"Quảng Trị","country":"Vietnam","latitude":16.91667,"longitude":107.0,"loc_clusters":14}
+{"city":"Huyện Hải Lăng","state":"Quảng Trị","country":"Vietnam","latitude":16.67574,"longitude":107.23388,"loc_clusters":14}
+{"city":"Huyện Hướng Hóa","state":"Quảng Trị","country":"Vietnam","latitude":16.70132,"longitude":106.67036,"loc_clusters":14}
+{"city":"Huyện Triệu Phong","state":"Quảng Trị","country":"Vietnam","latitude":16.78132,"longitude":107.16034,"loc_clusters":14}
+{"city":"Huyện Vĩnh Linh","state":"Quảng Trị","country":"Vietnam","latitude":17.016,"longitude":106.93384,"loc_clusters":14}
+{"city":"Huyện Kế Sách","state":"Sóc Trăng","country":"Vietnam","latitude":9.81771,"longitude":105.9419,"loc_clusters":19}
+{"city":"Huyện Long Phú","state":"Sóc Trăng","country":"Vietnam","latitude":9.63715,"longitude":106.08226,"loc_clusters":19}
+{"city":"Huyện Mỹ Tú","state":"Sóc Trăng","country":"Vietnam","latitude":9.60849,"longitude":105.80681,"loc_clusters":19}
+{"city":"Huyện Mỹ Xuyên","state":"Sóc Trăng","country":"Vietnam","latitude":9.442,"longitude":105.88546,"loc_clusters":19}
+{"city":"Huyen Nga Nam","state":"Sóc Trăng","country":"Vietnam","latitude":9.56127,"longitude":105.59476,"loc_clusters":19}
+{"city":"Huyện Thạnh Trị","state":"Sóc Trăng","country":"Vietnam","latitude":9.46939,"longitude":105.71196,"loc_clusters":19}
+{"city":"Sóc Trăng","state":"Sóc Trăng","country":"Vietnam","latitude":9.59995,"longitude":105.97193,"loc_clusters":19}
+{"city":"Huyện Bắc Yên","state":"Sơn La","country":"Vietnam","latitude":21.25042,"longitude":104.38501,"loc_clusters":25}
+{"city":"Huyện Mai Sơn","state":"Sơn La","country":"Vietnam","latitude":21.15884,"longitude":104.04821,"loc_clusters":25}
+{"city":"Huyện Mộc Châu","state":"Sơn La","country":"Vietnam","latitude":21.83333,"longitude":104.75,"loc_clusters":25}
+{"city":"Huyện Mường La","state":"Sơn La","country":"Vietnam","latitude":21.5296,"longitude":104.11113,"loc_clusters":25}
+{"city":"Huyện Phù Yên","state":"Sơn La","country":"Vietnam","latitude":21.21412,"longitude":104.68993,"loc_clusters":25}
+{"city":"Huyện Quỳnh Nhai","state":"Sơn La","country":"Vietnam","latitude":21.77224,"longitude":103.6492,"loc_clusters":22}
+{"city":"Huyện Sông Mã","state":"Sơn La","country":"Vietnam","latitude":21.06971,"longitude":103.68727,"loc_clusters":25}
+{"city":"Huyện Thuận Châu","state":"Sơn La","country":"Vietnam","latitude":21.42319,"longitude":103.64408,"loc_clusters":22}
+{"city":"Huyện Yên Châu","state":"Sơn La","country":"Vietnam","latitude":21.005,"longitude":104.33264,"loc_clusters":25}
+{"city":"Sơn La","state":"Sơn La","country":"Vietnam","latitude":21.3256,"longitude":103.91882,"loc_clusters":25}
+{"city":"Huyện Bến Cầu","state":"Tây Ninh","country":"Vietnam","latitude":11.12889,"longitude":106.14296,"loc_clusters":13}
+{"city":"Huyện Dương Minh Châu","state":"Tây Ninh","country":"Vietnam","latitude":11.31833,"longitude":106.25697,"loc_clusters":13}
+{"city":"Huyện Gò Dầu","state":"Tây Ninh","country":"Vietnam","latitude":11.15737,"longitude":106.27307,"loc_clusters":13}
+{"city":"Huyện Hòa Thành","state":"Tây Ninh","country":"Vietnam","latitude":11.26706,"longitude":106.14486,"loc_clusters":13}
+{"city":"Huyện Tân Châu","state":"Tây Ninh","country":"Vietnam","latitude":11.58739,"longitude":106.2827,"loc_clusters":13}
+{"city":"Huyện Trảng Bàng","state":"Tây Ninh","country":"Vietnam","latitude":11.0572,"longitude":106.37539,"loc_clusters":13}
+{"city":"Phú Khương","state":"Tây Ninh","country":"Vietnam","latitude":11.28333,"longitude":106.13333,"loc_clusters":13}
+{"city":"Tây Ninh","state":"Tây Ninh","country":"Vietnam","latitude":11.31004,"longitude":106.09828,"loc_clusters":13}
+{"city":"Huyện Ðông Hưng","state":"Thái Bình","country":"Vietnam","latitude":20.54388,"longitude":106.3409,"loc_clusters":11}
+{"city":"Huyện Hưng Hà","state":"Thái Bình","country":"Vietnam","latitude":20.59464,"longitude":106.2123,"loc_clusters":11}
+{"city":"Huyện Kiến Xương","state":"Thái Bình","country":"Vietnam","latitude":20.40081,"longitude":106.42032,"loc_clusters":11}
+{"city":"Huyện Quỳnh Phụ","state":"Thái Bình","country":"Vietnam","latitude":20.65095,"longitude":106.36359,"loc_clusters":11}
+{"city":"Huyện Thái Thụy","state":"Thái Bình","country":"Vietnam","latitude":20.53916,"longitude":106.51688,"loc_clusters":11}
+{"city":"Huyện Tiền Hải","state":"Thái Bình","country":"Vietnam","latitude":20.38465,"longitude":106.52882,"loc_clusters":11}
+{"city":"Huyện Vũ Thư","state":"Thái Bình","country":"Vietnam","latitude":20.43732,"longitude":106.26529,"loc_clusters":11}
+{"city":"Thái Bình","state":"Thái Bình","country":"Vietnam","latitude":20.45,"longitude":106.34002,"loc_clusters":11}
+{"city":"Thái Nguyên","state":"Thái Nguyên","country":"Vietnam","latitude":21.59422,"longitude":105.84817,"loc_clusters":1}
+{"city":"Bỉm Sơn","state":"Thanh Hóa","country":"Vietnam","latitude":20.07806,"longitude":105.86028,"loc_clusters":23}
+{"city":"Huyện Bá Thước","state":"Thanh Hóa","country":"Vietnam","latitude":20.35767,"longitude":105.25301,"loc_clusters":23}
+{"city":"Huyện Cẩm Thủy","state":"Thanh Hóa","country":"Vietnam","latitude":20.19586,"longitude":105.46817,"loc_clusters":23}
+{"city":"Huyện Đông Sơn","state":"Thanh Hóa","country":"Vietnam","latitude":19.79742,"longitude":105.72465,"loc_clusters":23}
+{"city":"Huyện Hà Trung","state":"Thanh Hóa","country":"Vietnam","latitude":20.02654,"longitude":105.81931,"loc_clusters":23}
+{"city":"Huyện Hậu Lộc","state":"Thanh Hóa","country":"Vietnam","latitude":19.93337,"longitude":105.88894,"loc_clusters":23}
+{"city":"Huyện Lang Chánh","state":"Thanh Hóa","country":"Vietnam","latitude":20.15926,"longitude":105.15071,"loc_clusters":23}
+{"city":"Huyện Mường Lát","state":"Thanh Hóa","country":"Vietnam","latitude":20.52763,"longitude":104.62941,"loc_clusters":23}
+{"city":"Huyện Nga Sơn","state":"Thanh Hóa","country":"Vietnam","latitude":20.01561,"longitude":105.98975,"loc_clusters":11}
+{"city":"Huyện Ngọc Lặc","state":"Thanh Hóa","country":"Vietnam","latitude":20.06777,"longitude":105.37386,"loc_clusters":23}
+{"city":"Huyện Như Thanh","state":"Thanh Hóa","country":"Vietnam","latitude":19.57798,"longitude":105.55616,"loc_clusters":16}
+{"city":"Huyện Như Xuân","state":"Thanh Hóa","country":"Vietnam","latitude":19.62527,"longitude":105.38856,"loc_clusters":16}
+{"city":"Huyện Nông Cống","state":"Thanh Hóa","country":"Vietnam","latitude":19.61376,"longitude":105.68279,"loc_clusters":23}
+{"city":"Huyện Quan Hóa","state":"Thanh Hóa","country":"Vietnam","latitude":20.47565,"longitude":104.95335,"loc_clusters":23}
+{"city":"Huyện Quan Sơn","state":"Thanh Hóa","country":"Vietnam","latitude":20.25758,"longitude":104.83416,"loc_clusters":23}
+{"city":"Huyện Quảng Xương","state":"Thanh Hóa","country":"Vietnam","latitude":19.70252,"longitude":105.79298,"loc_clusters":23}
+{"city":"Huyện Thiệu Hóa","state":"Thanh Hóa","country":"Vietnam","latitude":19.89713,"longitude":105.68144,"loc_clusters":23}
+{"city":"Huyện Thọ Xuân","state":"Thanh Hóa","country":"Vietnam","latitude":19.93114,"longitude":105.48284,"loc_clusters":23}
+{"city":"Huyện Thường Xuân","state":"Thanh Hóa","country":"Vietnam","latitude":19.93684,"longitude":105.24109,"loc_clusters":23}
+{"city":"Huyện Triệu Sơn","state":"Thanh Hóa","country":"Vietnam","latitude":19.82578,"longitude":105.58293,"loc_clusters":23}
+{"city":"Huyện Vĩnh Lộc","state":"Thanh Hóa","country":"Vietnam","latitude":20.03482,"longitude":105.65755,"loc_clusters":23}
+{"city":"Huyện Yên Định","state":"Thanh Hóa","country":"Vietnam","latitude":19.98666,"longitude":105.61482,"loc_clusters":23}
+{"city":"Thanh Hóa","state":"Thanh Hóa","country":"Vietnam","latitude":19.8,"longitude":105.76667,"loc_clusters":23}
+{"city":"Huế","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.4619,"longitude":107.59546,"loc_clusters":14}
+{"city":"Huyện A Lưới","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.23422,"longitude":107.3065,"loc_clusters":14}
+{"city":"Huyện Nam Đông","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.12396,"longitude":107.6927,"loc_clusters":2}
+{"city":"Huyện Phong Điền","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.48769,"longitude":107.28889,"loc_clusters":14}
+{"city":"Huyện Phú Lộc","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.27066,"longitude":107.88545,"loc_clusters":2}
+{"city":"Huyện Phú Vang","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.47007,"longitude":107.71458,"loc_clusters":14}
+{"city":"Huyện Quảng Ðiền","state":"Thừa Thiên-Huế","country":"Vietnam","latitude":16.57941,"longitude":107.4937,"loc_clusters":14}
+{"city":"Huyện Cái Bè","state":"Tiền Giang","country":"Vietnam","latitude":10.38824,"longitude":105.9462,"loc_clusters":24}
+{"city":"Huyện Cai Lậy","state":"Tiền Giang","country":"Vietnam","latitude":10.38943,"longitude":106.06774,"loc_clusters":3}
+{"city":"Huyện Châu Thành","state":"Tiền Giang","country":"Vietnam","latitude":10.386,"longitude":106.27311,"loc_clusters":3}
+{"city":"Huyện Chợ Gạo","state":"Tiền Giang","country":"Vietnam","latitude":10.37373,"longitude":106.44341,"loc_clusters":3}
+{"city":"Huyện Gò Công Đông","state":"Tiền Giang","country":"Vietnam","latitude":10.36784,"longitude":106.74592,"loc_clusters":3}
+{"city":"Huyện Gò Công Tây","state":"Tiền Giang","country":"Vietnam","latitude":10.34527,"longitude":106.59851,"loc_clusters":3}
+{"city":"Huyện Tân Phước","state":"Tiền Giang","country":"Vietnam","latitude":10.51489,"longitude":106.23312,"loc_clusters":3}
+{"city":"Mỹ Tho","state":"Tiền Giang","country":"Vietnam","latitude":10.36004,"longitude":106.35996,"loc_clusters":3}
+{"city":"Thành Phố Mỹ Tho","state":"Tiền Giang","country":"Vietnam","latitude":10.36221,"longitude":106.36824,"loc_clusters":3}
+{"city":"Thị Xã Gò Công","state":"Tiền Giang","country":"Vietnam","latitude":10.40005,"longitude":106.65847,"loc_clusters":3}
+{"city":"Huyện Càng Long","state":"Trà Vinh","country":"Vietnam","latitude":9.95883,"longitude":106.21395,"loc_clusters":19}
+{"city":"Huyện Cầu Kè","state":"Trà Vinh","country":"Vietnam","latitude":9.86738,"longitude":106.07916,"loc_clusters":19}
+{"city":"Huyện Cầu Ngang","state":"Trà Vinh","country":"Vietnam","latitude":9.77186,"longitude":106.43654,"loc_clusters":19}
+{"city":"Huyện Tiểu Cần","state":"Trà Vinh","country":"Vietnam","latitude":9.8035,"longitude":106.20594,"loc_clusters":19}
+{"city":"Huyện Trà Cú","state":"Trà Vinh","country":"Vietnam","latitude":9.69706,"longitude":106.29423,"loc_clusters":19}
+{"city":"Trà Vinh","state":"Trà Vinh","country":"Vietnam","latitude":9.94719,"longitude":106.34225,"loc_clusters":3}
+{"city":"Huyện Chiêm Hóa","state":"Tuyên Quang","country":"Vietnam","latitude":22.17895,"longitude":105.27671,"loc_clusters":15}
+{"city":"Huyện Hàm Yên","state":"Tuyên Quang","country":"Vietnam","latitude":22.10935,"longitude":105.0163,"loc_clusters":15}
+{"city":"Huyện Lâm Bình","state":"Tuyên Quang","country":"Vietnam","latitude":22.46411,"longitude":105.21903,"loc_clusters":15}
+{"city":"Huyện Na Hang","state":"Tuyên Quang","country":"Vietnam","latitude":22.47522,"longitude":105.4838,"loc_clusters":15}
+{"city":"Huyện Sơn Dương","state":"Tuyên Quang","country":"Vietnam","latitude":21.63623,"longitude":105.38901,"loc_clusters":1}
+{"city":"Huyện Yên Sơn","state":"Tuyên Quang","country":"Vietnam","latitude":21.88363,"longitude":105.27656,"loc_clusters":1}
+{"city":"Tuyên Quang","state":"Tuyên Quang","country":"Vietnam","latitude":21.82356,"longitude":105.21424,"loc_clusters":1}
+{"city":"Huyện Long Hồ","state":"Vĩnh Long","country":"Vietnam","latitude":10.2164,"longitude":105.98483,"loc_clusters":3}
+{"city":"Huyện Mang Thít","state":"Vĩnh Long","country":"Vietnam","latitude":10.18731,"longitude":106.07472,"loc_clusters":3}
+{"city":"Huyện Tam Bình","state":"Vĩnh Long","country":"Vietnam","latitude":10.08127,"longitude":105.95352,"loc_clusters":19}
+{"city":"Huyện Trà Ôn","state":"Vĩnh Long","country":"Vietnam","latitude":9.97522,"longitude":106.00957,"loc_clusters":19}
+{"city":"Huyện Vũng Liêm","state":"Vĩnh Long","country":"Vietnam","latitude":10.08717,"longitude":106.16038,"loc_clusters":3}
+{"city":"Vĩnh Long","state":"Vĩnh Long","country":"Vietnam","latitude":10.25369,"longitude":105.9722,"loc_clusters":3}
+{"city":"Huyện Bình Xuyên","state":"Vĩnh Phúc","country":"Vietnam","latitude":21.30561,"longitude":105.66225,"loc_clusters":1}
+{"city":"Huyện Tam Dương","state":"Vĩnh Phúc","country":"Vietnam","latitude":21.36189,"longitude":105.5569,"loc_clusters":1}
+{"city":"Huyện Tam Đảo","state":"Vĩnh Phúc","country":"Vietnam","latitude":21.4569,"longitude":105.5946,"loc_clusters":1}
+{"city":"Huyện Yên Lạc","state":"Vĩnh Phúc","country":"Vietnam","latitude":21.21845,"longitude":105.57586,"loc_clusters":1}
+{"city":"Vĩnh Yên","state":"Vĩnh Phúc","country":"Vietnam","latitude":21.30891,"longitude":105.60489,"loc_clusters":1}
+{"city":"Huyện Lục Yên","state":"Yên Bái","country":"Vietnam","latitude":22.10235,"longitude":104.72538,"loc_clusters":15}
+{"city":"Huyện Mù Cang Chải","state":"Yên Bái","country":"Vietnam","latitude":21.78815,"longitude":104.11998,"loc_clusters":25}
+{"city":"Huyện Trạm Tấu","state":"Yên Bái","country":"Vietnam","latitude":21.48553,"longitude":104.42756,"loc_clusters":25}
+{"city":"Huyện Trấn Yên","state":"Yên Bái","country":"Vietnam","latitude":21.66586,"longitude":104.79702,"loc_clusters":25}
+{"city":"Huyện Văn Chấn","state":"Yên Bái","country":"Vietnam","latitude":21.55722,"longitude":104.64038,"loc_clusters":25}
+{"city":"Huyện Văn Yên","state":"Yên Bái","country":"Vietnam","latitude":21.90022,"longitude":104.56669,"loc_clusters":25}
+{"city":"Yên Bái","state":"Yên Bái","country":"Vietnam","latitude":21.72288,"longitude":104.9113,"loc_clusters":25}

@@ -66,6 +66,7 @@ router.get('/attraction-detail/:name', async (req, res) => {
             return res.status(404).json({ message: 'Attraction not found' });
         }
 
+        // Get hotels and restaurants surrounding current attraction
         const hotel = await Hotel.find({ state: attraction.state }, { _id: 0 });
         const restaurant = await Restaurant.find({ state: attraction.state }, { _id: 0 });
 
@@ -184,9 +185,8 @@ router.get('/attraction-detail/:name', async (req, res) => {
  *                   type: string
  *                   description: Detailed error message
  */
-// Route to add a new review to an attraction
+// POST endpoint to add a new review to an attraction
 router.post('/add-review', async (req, res) => {
-    // Destructure fields from request body
     const { attraction, username, rating, type_trip, title, content } = req.body;
 
     // Validate if all required fields are provided
@@ -199,15 +199,12 @@ router.post('/add-review', async (req, res) => {
     const formattedRequestTime = format(requestTime, 'MMM yyyy');
 
     try {
-        // Find the attractionDetail document by name
         const attractionDetail = await AttractionDetail.findOne({ name: attraction });
 
-        // If no attraction is found, return a 404 error
         if (!attractionDetail) {
             return res.status(404).json({ message: 'Attraction not found' });
         }
 
-        // Create a new review object
         var ratingProcess = Math.floor(parseFloat(rating)).toString();
         const newReview = {
             username,
@@ -223,10 +220,8 @@ router.post('/add-review', async (req, res) => {
         attractionDetail.num_review++;
         attractionDetail.review_score[ratingProcess]++;
 
-        // Save the updated document to the database
         await attractionDetail.save();
 
-        // Respond with success message and the added review
         res.status(201).json({ message: 'Review added successfully', review: newReview });
     } catch (error) {
         // Handle any other errors that occur during the process
@@ -302,7 +297,7 @@ router.post('/add-review', async (req, res) => {
  *                   type: string
  *                   description: Detailed error message
  */
-// Route to get top trending attractions based on our calculation
+// GET endpoint to get top 50 trending attractions based on our calculation
 router.get('/top-trending-attractions', async (req, res) => {
     try {
         const attractions = await AttractionDetail.aggregate([
@@ -313,8 +308,8 @@ router.get('/top-trending-attractions', async (req, res) => {
                     topAttraction: { $first: "$$ROOT" } // Get the top attraction per state
                 }
             },
-            { $replaceRoot: { newRoot: "$topAttraction" } }, // Replace the root to make the top attraction the main document
-            { $sort: { weight: -1 } }, // Additional sort to order all top attractions by weight
+            { $replaceRoot: { newRoot: "$topAttraction" } },
+            { $sort: { weight: -1 } }, // Resort to order all top attractions by weight
             {
                 $project: {
                     _id: 0,
@@ -327,7 +322,7 @@ router.get('/top-trending-attractions', async (req, res) => {
                     weight: 1
                 }
             },
-            { $limit: 50 } // Limit to top 30 attractions overall
+            { $limit: 50 }
         ]);
 
         res.json(attractions);

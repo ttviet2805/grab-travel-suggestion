@@ -126,32 +126,30 @@ async def run(query: str):
     index = url.find('Activities-')
     url = url[:index + len('Activities-')] + 'oa0-' + url[index + len('Activities-'):]
     url = 'https://www.tripadvisor.com' + url
-    # Định nghĩa các thông tin cần gửi trong body của POST request
+    # Define information for POST request
     payload = {
         "source": "universal",
         "url": url,
         "geo_location": "United States"
     }
 
-    # Đường link gửi request
     url = "https://realtime.oxylabs.io/v1/queries"
 
-    # Định nghĩa thông tin xác thực (Basic Auth)
+    # Define credentials
     credentials = ('mingmingg', 'Gogogogo1234')
 
-    # Gửi POST request
+    # Send Post Request
     response = requests.post(url, json=payload, auth=credentials)
 
-    # In ra status code của response để kiểm tra
     # print("Status code:", response.status_code)
 
-    # In ra nội dung của response
     # print("Response content:", response.text)
     content = response.json()["results"][0]["content"]
     # print("content:", content)
     soup = BeautifulSoup(content, "html.parser")
     # print("soup:", soup)
 
+    # Limit 15 attraction for each recommendation
     MAX_ATTRACTION = 15
     data = []
     cnt = 0

@@ -44,7 +44,7 @@ credentials = ('mingming', 'Gogogogo1234')
 
 attraction_details = []
 
-for i in range(1200, min(1400, len(data))):
+for i in range(0, len(data)):
     print("Attraction ", i + 1)
     attraction_detail = {}
     attraction_detail['name'] = data[i]['name']

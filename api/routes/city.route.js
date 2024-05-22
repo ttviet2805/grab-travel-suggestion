@@ -38,7 +38,7 @@ const router = express.Router();
  *       500:
  *         description: Server error
  */
-// GET to get list of all cities
+// GET endpoint to get list of all cities
 router.get('/cities', async (req, res) => {
     try {
         const cities = await City.find({}).select('city state country latitude longitude -_id');
@@ -93,7 +93,7 @@ router.get('/cities', async (req, res) => {
  *       500:
  *         description: Server error
  */
-// GET to get list of all nearby cities
+// GET endpoint to get list of all nearby cities
 router.get('/nearby-city/:cityName', async (req, res) => {
     try {
         const cityName = req.params.cityName;
